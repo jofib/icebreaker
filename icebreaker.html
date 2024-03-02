@@ -1,17 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Frases Aleatórias</title>
-        <link rel="stylesheet" href="styles.css">
+        <title>Ice Breaker</title>
+        <link rel="stylesheet" href="icebreaker-CSS.css">
     </head>
     <body>
+
         <div class="container">
-            <h1>Frases Aleatórias</h1>
-            <p id="randomPhrase">Clique no botão para uma frase aleatória</p>
-            <button id="generateButton">Gerar Frase</button>
-        </div>
-        <script src="script.js"></script>
+            <h1>ICE BREAKER</h1>
+            <p id="intro">Partilhe e crie ligações impactantes.</p>
+            <div class="card">
+                <select id="categorySelect">
+                    <option value="all">Geral</option>
+                    <option value="reflexao">Reflexão</option>
+                    <option value="conhecer">Conhecer</option>
+                    <option value="amizade">Amizade</option>
+                    <option value="romantico">Romântico</option>
+                    <option value="namoro">Namoro</option>
+                    <option value="picante">Picante (+18)</option>
+                    <option value="desafio">Desafio</option>
+                    <option value="animado">Animado</option>
+                </select>
+                <p id="randomPhrase">O que é que?</p>
+
+            </div><!--FIM div card-->
+            <button id="generateButton">Gerar Questão</button>
+            <p id="instr">Selecione o tema e clique no botão para uma questão aleatória.</p>
+        </div><!--FIM div container-->
+
+        <script src="icebreaker-JS.js"></script>
     </body>
 </html>

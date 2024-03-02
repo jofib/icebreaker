@@ -1,9 +1,57 @@
-.container {
-    text-align: center;
-    margin-top: 50px;
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 29/fev/2024, 10:46:57
+    Author     : joana
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 
-#randomPhrase {
-    font-size: 20px;
-    margin-bottom: 20px;
+.container {
+    text-align: center;
+}
+
+#intro {
+    margin-top: 20px;
+    font-size:15px;
+    text-align:center;
+    color:#000;
+}
+
+/* Estilizando a carta */
+.card {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px; /* Define os cantos curvos */
+    border: 2px solid #ccc; /* Adiciona uma borda ao redor do retângulo */
+}
+
+p#randomPhrase {
+    margin-top: 20px; /* Adiciona margem no topo */
+    font-size: 18px; /* Tamanho da fonte */
+    color: #333; /* Cor do texto */
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#instr {
+    margin-top: 20px;
+    font-size:11px;
+    text-align:center;
+    color:#000;
 }

@@ -49,6 +49,8 @@ Qual a minha melhor característica?
 Qual a qualidade que admiro nas pessoas?
 O que mais me magoa?
 Um objeto essencial no dia-a-dia?
+Normalmente sinto-me ouvido/a?
+Paro para ouvir o outro?
 
 conhecer
 Qual foi o momento mais triste da sua vida?
@@ -128,12 +130,14 @@ Qual é a coisa mais impressionante que já viu alguém fazer?
 Qual foi a coisa mais inesperada que já aconteceu na sua vida?
 Qual é a melhor maneira de relaxar depois de um longo dia de trabalho?
 Gosta de beijos de língua?
-Se fosse para uma ilha deserta e só pudesse trazer três coisas de casa, quais seriam?
+Se estivesse preso em uma ilha deserta, quais as três coisas que gostaria de ter com você?
 Qual é a coisa mais ridícula que já viu alguém fazer?
 Se pudesse decorar a sua casa com qualquer tema, qual seria?
 Qual a sua cor favorita? E porquê?
 Qual o seu estilo de roupa favorito?
 Pratica algum desporto? Qual o seu desporto favorito?
+Que hábito estranho você tem?
+Que talento gostaria de ter?
 
 romantico
 Como se sente quando ficamos separados por longos períodos?
@@ -387,6 +391,18 @@ Tem alguma piada de pai favorita?
 Qual é o seu tipo favorito de cobertura de pizza?
 Tem algum desejo pecaminoso?
 Se a sua família tivesse que viver numa ilha deserta, quem seria o mais útil?
+Qual foi a coisa mais estranha que já fez para publicar nas redes sociais?
+Qual foi a experiência mais engraçada que teve esta semana?
+Qual foi a compra mais ridícula que fez enquanto fazia compras online?
+Qual foi a tendência de beleza mais ridícula que já experimentou?
+Prefere ter cabelo no lugar dos dentes ou dentes no lugar do cabelo?
+Se pudesse comer apenas um alimento para o resto da vida, qual seria?
+Dorme com a porta do quarto aberta ou fechada?
+Se pudesse ser um animal por um dia, qual gostaria de ser?
+Qual foi a combinação de comida mais estranha que já comeu?
+Se pudesse existir em qualquer planeta, qual seria?
+Se as cores tivessem gosto de sabores, qual a que teria o melhor sabor?
+Leite antes dos cereais ou cereais antes do leite?
 
 sou
 Sou emocionalmente dependente ou independente?	

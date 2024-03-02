@@ -32,11 +32,14 @@ const request = new XMLHttpRequest();
 // Função para gerar uma frase aleatória de uma categoria específica
 function gerarFrasePorCategoria(categoria, frasesPorCategoria) {
 if (categoria in frasesPorCategoria) {
-const frasesDaCategoria = frasesPorCategoria[categoria];
+ // Se a categoria existir, escolhe uma frase aleatória dessa categoria
+        const frasesDaCategoria = frasesPorCategoria[categoria];
         const indice = Math.floor(Math.random() * frasesDaCategoria.length);
         return frasesDaCategoria[indice];
         } else if (categoria === 'all') {
-const categorias = Object.keys(frasesPorCategoria);
+        // Se a categoria selecionada for "Todas", exclui categoria da seleção aleatória
+        const categoriasExcluidas = ['picante', ''];
+const categorias = Object.keys(frasesPorCategoria).filter(cat => !categoriasExcluidas.includes(cat));
         const categoriaAleatoria = categorias[Math.floor(Math.random() * categorias.length)];
         const frasesAleatorias = frasesPorCategoria[categoriaAleatoria];
         const indice = Math.floor(Math.random() * frasesAleatorias.length);

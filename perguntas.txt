@@ -11,7 +11,7 @@ Como lido com as tarefas domésticas?
 Como lido com os amigos?	
 Como lido com o companheiro/a?	
 Como lido com os amigos do/a companheiro/a?	
-Como lido com a familia?	
+Como lido com a família?	
 Como lido com a família do companheiro/a?	
 Como lido com o sítio onde moro?
 Como lido com o trabalho?	
@@ -26,12 +26,375 @@ Como lido com a mentira?
 Como lido com a ocultação?	
 Como lido com a sinceridade?	
 Como lido com a vergonha?	
+Como lido com alguém introvertido?
+Como lido com alguém extrovertido?
+Gosto mais de dar ou de receber?
+Diferença entre fazer por entender ou só pedir desculpa?	
+Diferença entre usar palavras ou ações?	
+Diferença entre ser realista e ser sonhador?	
+Diferença entre ser eu individual ou ser eu em casal?	
+O que me cansa?
+O que me deixa feliz?
+O que me deixa triste?
+O que me irrita?
+O que me incomoda?
+O que não suporto?
+O que desejo?
+O que sinto falta?
+O que aprecio?
+O que mais oiço: o cérebro ou o coração?
+O que penso das pessoas no geral?
+Qual é o meu maior medo?
+Qual a minha melhor característica?
+Qual a qualidade que admiro nas pessoas?
+O que mais me magoa?
+Um objeto essencial no dia-a-dia?
+
+conhecer
+Qual foi o momento mais triste da sua vida?
+Qual foi o momento mais feliz da sua vida?
+Tem algum arrependimento na vida?
+O que mudaria sobre si mesmo?
+Duas qualidades sobre si?
+Dois defeitos sobre si?
+Se pudesse, mudaria alguma coisa na sua vida?
+Em que momento da vida se sentiu mais frágil?
+O que o/a faz sentir forte?
+Quais são os seus maiores medos?
+Qual é a sua melhor lembrança de infância?
+Como descreveria a sua família?
+Quem é a pessoa que o/a conhece melhor?
+Qual a maior loucura que já fez?
+Acredita em almas gémeas?
+Em qual década gostaria de ter vivido?
+Qual é a sua primeira lembrança de infância?
+Qual é a sua palavra preferida?
+Como acredita que os seus amigos/as o/a descreveriam?
+Qual é o seu dia da semana preferido?
+Com o que você não sai de casa sem?
+Diga algo que faz, mas que não gosta de fazer?
+Você teria coragem de se mudar sozinho(a) para outro país?
+Como acredita que inspira outras pessoas?
+O que mais sente falta da infância?
+Qual foi a melhor época da sua vida?
+Quantos países já visitou?
+Já plantou uma árvore?
+Costuma acordar a meio da noite?
+Faz ou já fez terapia?
+O que lhe traz mais alegrias no momento?
+Qual é o emprego dos seus sonhos?
+O que o/a fez sorrir hoje?
+Qual o seu género de música favorito?
+Qual qualidade mais admira nos seus pais?
+Você se considera um bom ouvinte?
+O que pensa sobre a politica?
+O que pensa sobre religião?
+O que pensa sobre a fé e crença?
+
+amizade
+Já se arrependeu de conhecer alguém?
+Tem saudades de alguém?
+Como prefere que o/a ajudem quando está chateado/a?
+Qual foi o melhor presente que já recebeu?
+Quais são as três coisas que mais o/a irritam na vida?
+Qual foi o primeiro filme que assistiu no cinema?
+Qual é o seu podcast preferido?
+Qual a sua banda favorita?
+Para qual instituição você doaria 1 milhão de euros, se tivesse?
+Até que idade acreditou no Pai Natal e no Coelhinho da Páscoa?
+Quem considera como seu melhor amigo ou melhor amiga?
+Qual é o melhor meme de todos os tempos, na sua opinião?
+Como descreveria as suas férias perfeitas?
+Qual o brinquedo que sonhava ter na infância, mas nunca teve?
+Nos filmes, torce pelo bom ou pelo vilão?
+Qual o emoji que mais tem usado no momento?
+Já saiu do cinema antes do filme acabar?
+Qual piada nunca perde a graça para você?
+Em quanto tempo você toma banho?
+Gosta de ver desenhos animados?
+Qual das ações dos seus pais lhe causou mais constrangimento?
+Qual o seu género de filme favorito?
+Qual foi a última vez que escreveu num diário?
+Se pudesse se mudar para qualquer lugar do mundo, para aonde iria?
+As redes sociais te afetam de forma positiva ou negativa?
+Qual foi a coisa mais interessante que leu ou viu hoje?
+Quem convidaria para jantar, vivos ou mortos?
+Que figura você escolheria para ter como mentor?
+Qual é o seu lanche de escritório preferido?
+Se você pudesse ter algum privilégio no trabalho, qual seria?
+Você segue alguma tradição ou ritual específico no local de trabalho?
+Qual foi a coisa mais maluca que já ouviu alguém dizer?
+Qual é a coisa mais impressionante que já viu alguém fazer?
+Qual foi a coisa mais inesperada que já aconteceu na sua vida?
+Qual é a melhor maneira de relaxar depois de um longo dia de trabalho?
+Gosta de beijos de língua?
+Se fosse para uma ilha deserta e só pudesse trazer três coisas de casa, quais seriam?
+Qual é a coisa mais ridícula que já viu alguém fazer?
+Se pudesse decorar a sua casa com qualquer tema, qual seria?
+Qual a sua cor favorita? E porquê?
+Qual o seu estilo de roupa favorito?
+Pratica algum desporto? Qual o seu desporto favorito?
+
+romantico
+Como se sente quando ficamos separados por longos períodos?
+Que conselho amoroso daria para alguém?
+Qual é a melhor forma de superar uma rejeição?
+Quem foi o/a seu/sua primeiro/a crush?
+Qual perfume usa no dia-a-dia?
+Já foi traído?
+Acha que os oposto se atraem e resultam?
+O que pensou enquanto dava o seu primeiro beijo?
+O que costuma fazer quando não consegue dormir?
+Com qual frequência você troca os lençóis da sua cama?
+Em qual posição mais gosta de dormir?
+Acredita em amor à primeira vista ou em almas gémeas?
+Acredita no destino? Acha que o nosso encontro foi obra do destino?
+Qual foi a sua primeira impressão quando me viu pela primeira vez?
+Lembra-se do que eu vestia no dia em que nos conhecemos?
+O que mais o/a chamou atenção quando me viu pela primeira vez?
+Prefere abraçar por 5 segundos ou beijar por 1 segundo?
+Que tipo de beijo mais gosta?
+Gosta de beijaria em público?
+Acredita que você beija bem?
+O que mais o atrai?
+O que é para você um bom clima romântico?
+Em que parte do corpo prefere ser beijado?
+Acredita em casamento?
+Qual a sua parte favorita do corpo?
+Que parte do corpo você gosta em si? E em mim?
+Acredita em relacionamento à distância?
+O que pensa das relações não monogâmicas?
+Já desejou retomar uma ex-relação?
+Se pudesse me descrever em 3 palavras, quais seriam?
+Você seria capaz de descrever meu cheiro?
+Sorri quando eu mando uma mensagem?
+Já sonhou comigo? Como foi?
+Se eu ficar com medo, você me protege?
+Você me convidaria para dançar num bar cheio de gente?
+Sente saudades de estar numa relação?
+Quando está sozinho/a, você pensa em mim?
+Você fala sobre mim aos seus amigos?
+Se visse outra pessoa a flertar comigo, o que sentiria? Como reagiria?
+Se eu te levasse café da manhã na cama amanhã, o que gostaria de comer?
+Já pensou em me preparar um jantar romântico?
+Você me levaria em uma viagem com você e seus amigos?
+O que o amor significa para você?
+O que a paixão significa para você?
+O quão importante é para você os gestos carinhosos?
+O quão importante é para você as palavras?
+Tem hábito de usar palavras carinhosas?
+Ainda há algo que não sabe sobre mim e gostaria de saber? 
+Qual traço da minha personalidade é o seu preferido?
+O que o/a incomoda em mim?
+Qual música ou banda faz com que você se lembre de mim?
+Você tem um dia de folga e quer passá-lo comigo: o que gostaria de fazer?
+Quais os três primeiros alertas (red-flags) que identifica numa pessoa?
+Você já se surpreendeu positivamente com algo que eu fiz ou falei?
+O que acha de mim profissionalmente?
+De que formas você acha que nós nos completamos?
+Eu tenho alguma mania que você acha engraçada?
+Se eu fosse um bichinho, qual você acha que eu seria?
+Em que lugar você me levaria para termos um encontro romântico?
+Pense nos presentes que já me deu: o que te fez escolhê-los?
+Tem algum sitio que gostaria de me levar a visitar?
+Tem algum filme que faz com que se lembre de mim ou da relação que nós temos?
+Qual o tipo de flor acha que combina comigo?
+Você se considera romântico?
+Como me descreveria em uma palavra?
+Eu faço o seu género? Porquê?
+O que acha da outra pessoa dar o primeiro passo?
+O que sentiu quando nos beijamos pela primeira vez?
+Tem algo que gostaria que nós fizéssemos juntos com mais frequência?
+O que acha mais engraçado sobre a forma como nós nos conhecemos?
+Em que momento percebeu que gostava de mim? 
+Vamos fazer um piquenique neste final de semana? 
+Você confia em mim? 
+Há algo que você não gosta em mim? 
+Já tentou escrever um poema/música para mim?
+Fica ansioso/a pelo nosso próximo encontro? 
+Sente que eu ajudo no seu crescimento pessoal? 
+
+namoro
+O que você sente quando nos beijamos? E quando nos abraçamos?
+Hoje, beijar-me ainda o/a faz sentir o que sentiu no começo da relação?
+Você lembra-se da primeira vez em que dormimos juntos?
+A minha voz ao telefone deixa-te excitado/a?
+Tem o desejo de ter filhos? Quantos?
+Deseja morar comigo um dia?
+Quando acorda ao meu lado, qual é a primeira coisa que surge na sua cabeça?
+Qual acredita ser a diferença entre paixão e amor?
+Eu faço você querer um futuro comigo?
+Consegue imaginar a casarmos um dia?
+Alguma música especial poderia definir a nossa relação?
+Acha que conseguiríamos manter um relacionamento à distância?
+Que tipo de roupa você mais gosta de me ver a usar?
+Lembra-se qual foi o primeiro presente que te dei?
+Por que me deu este apelido carinhoso?
+Qual parte do meu corpo prefere beijar?
+Como descreveria nosso primeiro beijo?
+Ainda sente borboletas no estomago quando me encontra?
+Lembra qual foi o primeiro filme que vimos juntos?
+O que passou pela sua cabeça quando nos envolvemos pela primeira vez?
+Chego a casa supere stressado/a depois de um longo dia. O que faria para me relaxar?
+Quem é sua celebridade crush e por quê?
+Já traiu nas suas relações? Quantas vezes?
+Porque gosta de mim?
+Você pensa em ter filhos?
+O quão importante é para você o sexo?
+Você gosta de acordar ao meu lado?
+De que forma a nossa relação é diferente das outras que você já teve?
+Já está pronto/a para me apresentar à sua família?
+Como descreveria o jeito que eu beijo?
+O que mais gosta no meu corpo?
+Qual defeitinho meu você mais acha engraçado?
+Eu ainda consigo te fazer rir?
+Você sente saudades da vida de solteiro?
+Você sente falta de algo que fazia antes de namorarmos e não faz mais?
+O que não gosta que aconteça entre a gente?
+Faria alguma loucura de amor por mim? Qual?
+Você me considera sua/seu melhor amiga/amigo?
+Qual é a melhor parte de viver junto comigo?
+Quais são as suas três lembranças mais felizes ao meu lado?
+Você prefere que eu tome iniciativa para o sexo?
+Você tem algum segredo que ainda não me contou?
+Eu faço você feliz?
+Você já havia se apaixonado antes de me conhecer?
+Eu faço alguma coisa que te deixa envergonhado/a?
+Que tipo de casal você acha que formamos?
+O que acha de deveríamos mudar em nosso relacionamento?
+Com quantas pessoas já esteve antes de mim?
+Qual seria o seu ideal de férias comigo?
+Em que momento você percebeu que gostava de mim?
+Sente que eu ajudo no seu crescimento pessoal?
+Ainda fica ansioso pelo nosso próximo encontro?
+Há algo que você não gosta de mim?
+Você confia em mim?
+Quando você está sozinho, você ainda pensa em mim?
+
+picante
+Se eu estivesse no seu quarto agora, o que gostaria de fazer comigo?
+O que acha de encontros de uma noite?
+Já teve um caso de uma noite?
+Já dormiu com alguém e depois desejou não ter dormido?
+Você dormiria com o melhor amigo de sua ex?
+Como foi a sua primeira vez?
+Gosta de sexting?
+Já enviou nudes?
+Quais são as suas manias e fetiches?
+Prefere dar ou receber?
+Prefere ficar por cima ou por baixo?
+Prefere controlar ou ser controlado?
+Gosta de sexo de olhos vendados?
+Aprecia BDSM?
+Durante o sexo, luzes desligadas ou ligadas?
+Beijar de olhos abertos ou fechados?
+Já fez ghosting após uma noite de sexo?
+Prefere relações longas ou casuais?
+Qual é a posição sexual que mais gosta?
+Qual foi a coisa mais atrevida que já pensou sobre mim?
+Você me surpreenderia com lingerie?
+Já ponderou ter uma relação não monogâmica?
+Eu faço você se sentir nervoso?
+Qual foi a coisa mais estranha que já aconteceu com você no quarto?
+Qual foi a primeira impressão que você teve de mim?
+Já jogou strip poker?
+Que coisa engraçada já aconteceu com você durante o sexo?
+Já teve um sonho atrevido comigo? O que aconteceu?
+Qual é a frase de engate mais fraca que já ouviu?
+Você sorri quando vê o meu nome aparecer no seu telefone?
+Qual a minha característica física que mais o/a atrai?
+Costuma pensar em mim quando não estamos juntos? O que pensa?
+Que tipo de roupa mais excita você?
+Tomaria banho comigo?
+Se pudesse escolher uma celebridade para se relacionar, quem seria e por quê?
+Por qual celebridade você me trocaria?
+Você se considera kinky ou vanilla?
+Ouvi dizer que beijar queima calorias. Quer experimentar comigo agora?
+Gosta de brincadeiras mais pesadas?
+Qual a duração mínima que acha que um ato sexual deve ter para você se sentir satisfeito/a?
+Gosta de oral? Dar e/ou receber?
+Já praticou anal? Tem curiosidade?
+Com que rapidez acha que pode chegar aqui?
+Você sente que alcança rápido o orgasmo?
+Que parte do meu corpo você mais tem vontade de tocar agora?
+Antes de me conhecer, quantas vezes fazia sexo por semana?
+De que cor de roupa íntima você mais gosta?
+Que posição sexual você sempre quis experimentar, mas nunca teve a oportunidade?
+Gosta de experimentar posições diferentes?
+Já teve vontade de tirar as minhas roupas?
+Gosta de rir no quarto ou prefere que as coisas sejam mais sérias?
+Qual é a lembrança de sexo mais constrangedora que se consegue lembrar?
+Já fez sexo em público?
+Qual o sitio mais estranho onde fez sexo?
+Qual a posição sexual mais estranha que fez?
+Qual o máximo de vezes ao dia já fez sexo?
+Quantas vezes você precisa fazer sexo por semana? Ou aguenta bem sem fazer?
+Assiste pornografia? 
+Qual é o tipo de pornografia que você mais gosta de assistir?
+Que idade tinha quando fez sexo pela primeira vez?
+Quais são os brinquedos sexuais que você mais gosta de usar?
+Você gravaria um vídeo de sexo?
+Quantas posições sexuais você já experimentou?
+Já fez sexo com mais de uma pessoa ao mesmo tempo?
+Qual é a sua cena de sexo favorita em um filme?
+Experimentaria a sua posição sexual favorita comigo?
+O que pensaria se eu mandasse uma foto atrevida para você?
+Qual é a sua cantada preferida no Tinder?
+Qual cantadas mais te fez rir?
+Qual é o incidente mais humilhante que já aconteceu com você num encontro?
+Qual foi a coisa mais ousada que você já fez?
+Que roupa mais o atrai?
+
+desafio
+Vamos fazer um piquenique neste final de semana? =
+Quer jogar ao verdade e consequência?
+Você tem algum talento escondido? Mostre qual. =
+
+animado
+Já enviou por engano uma mensagem de texto para a pessoa errada?
+Se tivesse que escolher entre ter uma única sobrancelha permanente ou não ter nenhuma sobrancelha, qual você escolheria?
+Se pudesse premiar o pior filme da história, qual filme escolheria?
+Que tonalidade daria ao céu se tivesse o poder de fazê-lo? Porquê?
+Com quem gostaria de viver se pudesse trocar de vida com qualquer figura literária e por quê?
+Qual é o seu programa de TV favorito para assistir?
+Qual o seu videojogo favorito?
+Qual o seu jogo favorito em criança?
+Já tentou lamber os dedos dos pés?
+Qual animal você acredita que seria o pior se pudesse falar?
+Qual é a coisa mais idiota que já disse em público?
+Que idade escolheria se pudesse passar uma semana em qualquer outra idade?
+Se tivesse que descrever a sua personalidade usando um utensílio de cozinha, qual seria?
+Qual é a coisa mais ridícula que já comprou?
+Já comeu algo que fez você se arrepender imediatamente?
+Se pudesse namorar qualquer personagem de desenho animado, quem seria e por quê?
+Se pudesse ter algum superpoder, qual seria?
+Se pudesse viajar para qualquer lugar do mundo, para onde iria?
+Qual inseto escolheria para comer se fosse necessário?
+Qual foi a coisa mais estranha que já fez para chamar a atenção de alguém?
+Qual é o item mais humilhante no seu quarto atualmente?
+Qual foi a coisa mais ridícula sobre a qual sua família já discutiu?
+Quais foram as férias em família mais engraçadas em que já esteve?
+Se a sua família fosse um programa de TV, que género seria?
+Quem na sua família é a maior rainha do drama?
+Se a sua família fosse um grupo de animais, quais seriam? 
+Qual é a coisa mais irritante que seu irmão/irmã faz? 
+O que ouviria se pudesse ouvir apenas uma música para o resto da vida?
+Qual pessoa famosa você gostaria que fosse o seu braço direito, se pudesse?
+Que desporto escolheria praticar se pudesse praticar apenas um para o resto da vida?
+Qual é a coisa mais interessante sobre você que a maioria das pessoas não sabe?
+Qual é a coisa mais aventureira que você já fez?
+Tem alguma piada de pai favorita?
+Qual é o seu tipo favorito de cobertura de pizza?
+Tem algum desejo pecaminoso?
+Se a sua família tivesse que viver numa ilha deserta, quem seria o mais útil?
+
+sou
 Sou emocionalmente dependente ou independente?	
-Sou monetáriamente dempendente ou independente?	
+Sou monetariamente dependente ou independente?	
 Sou dependente ou independente nas tarefas básicas (comida, limpeza)?	
 Sou carinhoso/a ou mais distante?	
 Sou frio/a ou sensível?	
-Sou paciênte ou impaciênte?	
+Sou paciente ou impaciente?	
 Sou lutador/a ou desistente?	
 Sou negativo/a ou positivo/a?	
 Sou indomável ou submisso? 	
@@ -49,288 +412,7 @@ Sou de pedir desculpa?
 Sou de pedir ajuda?	
 Sou de aceitar ajuda?	
 Sou de ajudar?	
-Sou de de falar ou de ouvir?	
-Diferença entre fazer por entender ou só pedir desculpa?	
-Diferença entre usar palavras ou ações?	
-Diferença entre ser realista e ser sonhador?	
-Diferença entre ser eu individual ou ser eu em casal?	
+Sou mais de falar ou de ouvir?	
+Sou de partilhar?
+Sou reservado ou partilho de mim?
 
-conhecer
-Qual foi o momento mais triste de sua vida?
-Qual foi o momento mais feliz da sua vida?
-Tem algum arrependimento na vida?
-O que mudaria sobre si mesmo?
-Se pudesse, mudaria alguma coisa na sua vida?
-Em que momento da vida se sentiu mais frágil?
-Quais são os seus maiores medos?
-Qual é a melhor lembrança de sua infância?
-Como descreveria a sua família?
-Quem é a pessoa que o/a conhece melhor?
-Qual considera ser a sua melhor característica?
-Qual a coisa mais louca que já fez?
-Acredita em almas gémeas?
-Em qual década gostaria de ter vivido?
-Qual é a sua primeira lembrança de infância?
-Qual é a sua palavra preferida?
-Como acredita que os seus pais te descreveriam?
-Qual é o seu dia da semana preferido?
-Com o que você não sai de casa sem?
-Diga algo que você faz, mas não gosta de fazer?
-O que você mais ouve: seu cérebro ou coração?
-Você teria coragem de se mudar sozinho(a) para outro país?
-Como acredita que inspira outras pessoas?
-O que mais sente falta da infância?
-Qual foi a melhor época da sua vida?
-Quantos países já visitou?
-Já plantou uma árvore?
-Sente sede no meio da noite?
-O que lhe traz mais alegrias no momento?
-Qual é o emprego dos seus sonhos?
-O que te fez sorrir hoje?
-Qual qualidade mais admira nos seus pais?
-
-amizade
-Como prefere que o/a ajudem quando está chateado/a?
-Qual foi o melhor presente que já recebeu?
-Quais são as três coisas que mais o/a irritam na vida?
-Qual foi o primeiro filme que assistiu no cinema?
-Qual é o seu podcast preferido?
-Para qual instituição você doaria 1 milhão de euros, se tivesse?
-Até que idade acreditou no Pai Natal e no Coelhinho da Páscoa?
-Quem considera como seu melhor amigo ou melhor amiga?
-Qual é o melhor meme de todos os tempos, na sua opinião?
-Como descreveria as suas férias perfeitas?
-Qual o brinquedo que sonhava ter na infância, mas nunca teve?
-Nos filmes de ação, torce pelo bom ou pelo vilão?
-Qual o emoji que mais tem usado no momento?
-Já saiu do cinema antes do filme acabar?
-Qual piada nunca perde a graça para você?
-Em quanto tempo você toma banho?
-Qual foi a última vez que escreveu num diário?
-Se pudesse se mudar para qualquer lugar do mundo, para aonde iria?
-As redes sociais te afetam de forma positiva ou negativa?
-Qual foi a coisa mais interessante que leu ou viu hoje?
-Quem convidaria para jantar, vivos ou mortos?
-Que figura você escolheria para ter como mentor?
-Qual é o seu lanche de escritório preferido?
-Se você pudesse ter algum privilégio no trabalho, qual seria?
-Você segue alguma tradição ou ritual específico no local de trabalho?
-Qual foi a coisa mais maluca que já ouviu alguém dizer?
-Qual é a coisa mais impressionante que já viu alguém fazer?
-Qual foi a coisa mais inesperada que já aconteceu na sua vida?
-Qual é a melhor maneira de relaxar depois de um longo dia de trabalho?
-Se fosse para uma ilha deserta e só pudesse trazer três coisas de casa, quais seriam?
-Qual é a coisa mais ridícula que já viu alguém fazer?
-Se pudesse decorar a sua casa com qualquer tema, qual seria?
-
-romantico
-Em que momento percebeu que gostava de mim? =
-Acha que conseguiríamos manter um relacionamento à distância?
-Como se sente quando ficamos separados por longos períodos?
-Que conselho amoroso daria para alguém?
-Qual é a melhor forma de superar uma rejeição?
-Quem foi o/a seu/sua primeiro/a crush?
-Qual perfume usa no dia a dia?
-Acredita em amor à primeira vista?
-O que pensou enquanto dava o seu primeiro beijo?
-O que você costuma fazer quando não consegue dormir?
-Com qual frequência você troca os lençóis da sua cama?
-Em qual posição mais gosta de dormir?
-Acredita em amor à primeira vista ou em almas gémeas?
-Já está pronto para me apresentar aos seus pais?
-Acha que o nosso encontro foi obra do destino?
-Qual foi sua primeira impressão quando você me viu pela primeira vez?
-Lembra-se do que eu vestia no dia em que nos conhecemos?
-O que mais o/a chamou atenção quando me viu pela primeira vez?
-Alguma música especial poderia definir nossa relação?
-Prefere abraçar por 5 segundos ou beijar por 1 segundo?
-Gosta de beijaria em público?
-Acredita que você beija bem?
-Onde prefere ser beijado?
-Se você pudesse me descrever em 3 palavras, quais seriam?
-Você seria capaz de descrever meu cheiro?
-Há algo que você não gosta de mim? =
-Já tentou escrever um poema para mim?Fica ansioso pelo nosso próximo encontro? =
-Sorri quando eu mando uma mensagem?
-Já sonhou comigo? Como foi?
-Sente que eu ajudo no seu crescimento pessoal? =
-Eu faço você querer um futuro comigo?
-Se eu ficar com medo, você me protege?
-Você me convidaria para dançar num bar cheio de gente?
-Você sente saudades de estar numa relação?
-Quando você está sozinho, você pensa em mim?
-Você fala sobre mim com seus amigos?
-Se visse outra pessoa a flertar comigo, o que sentiria? Como reagiria?
-Se eu te levasse café da manhã na cama amanhã, o que gostaria de comer?
-Já pensou em passar um tempo na cozinha e me preparar um jantar romântico?
-Você me levaria em uma viagem com você e seus amigos?
-O que o amor significa para você?
-Ainda há algo que não sabe sobre mim e gostaria de saber?Qual traço da minha personalidade é o seu preferido?
-Qual música ou banda faz com que você se lembre de mim?
-Você tem um dia de folga e quer passá-lo comigo: o que gostaria de fazer?
-Você já se surpreendeu positivamente com algo que eu fiz ou falei?
-Você confia em mim? =
-O que você acha de mim profissionalmente?
-De que formas você acha que nós nos completamos?
-De que forma nossa relação é diferente das outras que você já teve?
-Eu tenho alguma mania que você acha engraçada?
-Se eu fosse um bichinho, qual você acha que eu seria?
-Em que lugar você me levaria para termos um encontro romântico?
-Pense nos presentes que você já me deu: o que te fez escolhê-los?
-Tem alguma banda cujo show você só pensa em assistir comigo?
-Tem algum filme que faz com que você se lembre de mim ou da relação que nós temos?
-O que acha de a outra pessoa dar o primeiro passo?
-Você gosta de acordar ao meu lado?
-O que você sentiu quando nós nos beijamos pela primeira vez?
-O que passou pela sua cabeça quando nós transamos pela primeira vez?
-Tem algo que você gostaria que nós fizéssemos juntos com mais frequência?
-O que você acha mais legal sobre a forma como nós nos conhecemos?
-Vamos fazer um piquenique neste final de semana? =
-
-
-namoro
-O que você sente quando nos beijamos e nos abraçamos?
-Em que momento você percebeu que gostava de mim? =
-Hoje, me beijar ainda te faz sentir o que sentiu no começo da relação?
-Você se lembra da primeira vez em que dormimos juntos?
-Minha voz ao telefone te deixa excitado?
-Tem o desejo de ter filhos?
-Qual tipo de flor acha que combina comigo?
-Deseja morar comigo um dia?
-Sente que eu ajudo no seu crescimento pessoal? =
-Quando acorda ao meu lado, qual é a primeira coisa que surge na sua cabeça?
-Que tipo de roupa você mais gosta de me ver usando?
-Lembra qual foi o primeiro presente que te dei?
-Por que me deu este apelido carinhoso?
-Qual parte do meu corpo prefere beijar?
-Ainda fica ansioso pelo nosso próximo encontro? =
-Como descreveria nosso primeiro beijo?
-Ainda sente borboletas no estómago quando me encontra?
-Lembra qual foi o primeiro filme que vimos juntos?
-Por que você me ama?
-Há algo que você não gosta de mim? =
-Como você descreveria o jeito que eu beijo?
-O que você mais gosta no meu corpo?
-Qual defeitinho meu você mais acha engraçado?
-Eu ainda consigo te fazer rir?
-Você sente saudades da vida de solteiro?
-Você sente falta de algo que fazia antes de namorarmos e não faz mais?
-O que você não gosta que aconteça entre a gente?
-Faria alguma loucura de amor por mim? Qual?
-Você me considera sua/seu melhor amiga/amigo?
-Qual é a melhor parte de viver junto comigo?
-Quais são as suas três lembranças mais felizes ao meu lado?
-Você prefere que tome iniciativa para o sexo?
-Você tem algum segredo que ainda não me contou?
-Eu faço você feliz?
-Você confia em mim? =
-Quando você está sozinho, você ainda pensa em mim? =
-Você já havia se apaixonado antes de me conhecer?
-Eu faço alguma coisa que te deixa envergonhada?
-Que tipo de casal você acha que formamos?
-O que acha de deveríamos mudar em nosso relacionamento?
-Com quantas pessoas já esteve antes de mim?
-Por qual celebridade você me trocaria?
-Qual seria o seu ideal de férias comigo?
-
-picante
-Se eu estivesse no seu quarto agora, o que gostaria de fazer comigo?
-O que acha de encontros de uma noite?
-Já teve um caso de uma noite?
-Já dormiu com alguém e depois acordou desejando não ter dormido?
-Você dormiria com o melhor amigo de sua ex?
-Como foi a sua primeira vez?
-Gosta de sexting?
-Quais são as suas manias e fetiches?
-Prefere dar ou receber?
-Já enviou nudes?
-Prefere relações longas ou casuais?
-Qual é a posição sexual que mais gosta?
-Qual foi a coisa mais atrevida que já pensou sobre mim?
-Qual é a maior atração que sente?
-Chego em casa supere stressado depois de um longo dia. O que faria para me relaxar?
-Você me surpreenderia com lingerie?
-Já ponderou ter uma relação não monogamica?
-Já traui?
-Eu faço você se sentir nervoso?
-Qual foi a coisa mais estranha que já aconteceu com você no quarto?
-Qual foi a primeira impressão que você teve de mim?
-Já jogou strip poker?
-Já teve um sonho atrevido comigo? O que aconteceu?
-Qual é a frase de engate mais fraca que já ouviu?
-Você sorri quando vê o meu nome aparecer no seu telefone?
-Qual é a minha característica física favorita para você?
-Costuma pensar em mim quando não estamos juntos? O que pensa?
-Que tipo de roupa mais excita você?
-Tomaria banho comigo?
-Se pudesse escolher uma celebridade para se relacionar, quem seria e por quê?
-Ouvi dizer que beijar queima calorias. Quer experimentar comigo?
-Gosta de brincadeiras mais pesadas?
-Com que rapidez acha que pode chegar aqui?
-Que parte do meu corpo você mais quer tocar agora?
-Antes de me conhecer, quantas vezes você fazia sexo por semana?
-De que cor de roupa íntima você mais gosta?
-Que posição sexual você sempre quis experimentar, mas nunca teve a oportunidade?
-Gosta de experimentar posições diferentes?
-Já teve vontade de tirar as minhas roupas?
-Gosta de rir no quarto ou prefere que as coisas sejam mais sérias?
-Qual é a lembrança de sexo mais constrangedora que se consegue lembrar?
-Já fez sexo em público?
-Assiste pornografia? 
-Qual é o tipo de pornografia que você mais gosta de assistir?
-Que idade tinha quando fez sexo pela primeira vez?
-Quais são os brinquedos sexuais que você mais gosta de usar?
-Você gravaria um vídeo de sexo?
-Quantas posições sexuais você já experimentou?
-Já fez sexo com mais de uma pessoa ao mesmo tempo?
-Quem é sua celebridade crush e por quê?
-Qual é a sua cena de sexo favorita em um filme?
-Experimentaria a sua posição sexual favorita comigo?
-O que pensaria se eu mandasse uma foto atrevida para você?
-Qual é a sua cantada preferida no Tinder?
-Qual cantadas mais te fez rir?
-Qual é o incidente mais humilhante que já aconteceu com você num encontro?
-Qual foi a coisa mais ousada que você já fez?
-
-desafio
-Vamos fazer um piquenique neste final de semana? =
-Quer jogar ao verdade e consequência?
-Você tem algum talento escondido? Mostre qual. =
-
-animado
-Já enviou uma mensagem de texto para a pessoa errada por engano?
-Se tivesse que escolher entre ter uma única sobrancelha permanente ou não ter nenhuma sobrancelha, qual você escolheria?
-Se pudesse premiar o pior filme da história, qual filme escolheria?
-Que tonalidade daria ao céu se tivesse o poder de fazê-lo?
-Com quem gostaria de viver se pudesse trocar de vida com qualquer figura literária e por quê?
-Qual é o seu programa de TV favorito para assistir?
-Já tentou lamber os dedos dos pés?
-Qual animal você acredita que seria o pior se pudesse falar?
-Qual é a coisa mais idiota que já disse em público?
-Que idade escolheria se pudesse passar uma semana em qualquer outra idade?
-Se tivesse que descrever sua personalidade usando um utensílio de cozinha, qual seria?
-Qual é a coisa mais ridícula que já comprou?
-Já comeu algo que fez você se arrepender imediatamente?
-Se pudesse namorar qualquer personagem de desenho animado, quem você seria e por quê?
-Você tem algum talento escondido? =
-Se pudesse ter algum superpoder, qual seria?
-Se pudesse viajar para qualquer lugar do mundo, para onde iria?
-Qual inseto escolheria para comer se fosse necessário?
-Qual foi a coisa mais estranha que já fez para chamar a atenção de alguém?
-Qual é o item mais humilhante no seu quarto atualmente?
-Qual foi a coisa mais ridícula sobre a qual sua família já discutiu?
-Quais foram as férias em família mais engraçadas em que já esteve?
-Se sua família fosse um programa de TV, que género seria?
-Qual das ações dos seus pais lhe causou mais constrangimento?
-Quem na sua família é a maior rainha do drama?
-Se a sua família fosse um grupo de animais, quais seriam? 
-Qual é a coisa mais irritante que seu irmão/irmã faz? 
-O que você ouviria se pudesse ouvir apenas uma música para o resto da vida?
-Qual pessoa famosa você gostaria que fosse o seu braço direito, se pudesse?
-Que desporto escolheria praticar se pudesse praticar apenas um para o resto da vida?
-Qual é a coisa mais interessante sobre você que a maioria das pessoas não sabe?
-Qual é a coisa mais aventureira que você já fez?
-Tem alguma piada de pai favorita?
-Qual é o seu tipo favorito de cobertura de pizza?
-Tem algum desejo pecaminoso?
-Se a sua família tivesse que viver numa ilha deserta, quem seria o mais útil?

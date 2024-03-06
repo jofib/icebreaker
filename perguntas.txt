@@ -12,7 +12,7 @@ Como lido com os amigos?
 Como lido com o companheiro/a?	
 Como lido com os amigos do/a companheiro/a?	
 Como lido com a família?	
-Como lido com a família do/a companheiro/a?	
+Como lido com a família do companheiro/a?	
 Como lido com o sítio onde moro?
 Como lido com o trabalho?	
 Como lido com o descanso?	
@@ -28,8 +28,10 @@ Como lido com a sinceridade?
 Como lido com a vergonha?	
 Como lido com alguém introvertido?
 Como lido com alguém extrovertido?
+Como lido com ruido?
+Como lido com discussões?
 Gosto mais de dar ou de receber?
-Diferença entre querer entender ou só pedir desculpa?	
+Diferença entre fazer por entender ou só pedir desculpa?	
 Diferença entre usar palavras ou ações?	
 Diferença entre ser realista e ser sonhador?	
 Diferença entre ser eu individual ou ser eu em casal?	
@@ -42,6 +44,7 @@ O que não suporto?
 O que desejo?
 O que sinto falta?
 O que aprecio?
+O que é a felicidade?
 O que mais oiço: o cérebro ou o coração?
 O que penso das pessoas no geral?
 Qual é o meu maior medo?
@@ -51,8 +54,13 @@ O que mais me magoa?
 Um objeto essencial no dia-a-dia?
 Normalmente sinto-me ouvido/a?
 Paro para ouvir o outro?
+Gosto de mim?
+Sei o que é amar?
+Sei o que é ser feliz?
+Ainda lido com os danos de traumas passados?
 
 conhecer
+Se o encontrasse em outro contexto, iria ver uma pessoa diferente?
 Qual foi o momento mais triste da sua vida?
 Qual foi o momento mais feliz da sua vida?
 Tem algum arrependimento na vida?
@@ -71,6 +79,8 @@ Acredita em almas gémeas?
 Em qual década gostaria de ter vivido?
 Qual é a sua primeira lembrança de infância?
 Qual é a sua palavra preferida?
+Você fuma e/ou bebe? Com que frequência?
+Tem algum vicio? Qual ou quais?
 Como acredita que os seus amigos/as o/a descreveriam?
 Qual é o seu dia da semana preferido?
 Com o que você não sai de casa sem?
@@ -92,6 +102,17 @@ Você se considera um bom ouvinte?
 O que pensa sobre a politica?
 O que pensa sobre religião?
 O que pensa sobre a fé e crença?
+Que hábito estranho você tem?
+Que talento você gostaria de ter?
+Qual é o seu destino de viagem favorito?
+Qual é o seu lugar preferido para relaxar?
+Qual é o seu lugar preferido para se divertir?
+Você já viajou para o exterior?
+Prefere montanha ou mar?
+Prefere neve ou areia da praia?
+Qual foi o seu primeiro destino de viagem (ou o primeiro de que você se lembre)?
+O que você mais gosta de fazer na sua cidade?
+Se precisasse se mudar de país, para onde você iria?
 
 amizade
 Já se arrependeu de conhecer alguém?
@@ -112,6 +133,7 @@ Nos filmes, torce pelo bom ou pelo vilão?
 Qual o emoji que mais tem usado no momento?
 Já saiu do cinema antes do filme acabar?
 Qual piada nunca perde a graça para você?
+A quem confiaria o seu mais oculto segredo?
 Em quanto tempo você toma banho?
 Gosta de ver desenhos animados?
 Qual das ações dos seus pais lhe causou mais constrangimento?
@@ -130,14 +152,11 @@ Qual é a coisa mais impressionante que já viu alguém fazer?
 Qual foi a coisa mais inesperada que já aconteceu na sua vida?
 Qual é a melhor maneira de relaxar depois de um longo dia de trabalho?
 Gosta de beijos de língua?
-Se estivesse preso em uma ilha deserta, quais as três coisas que gostaria de ter com você?
 Qual é a coisa mais ridícula que já viu alguém fazer?
 Se pudesse decorar a sua casa com qualquer tema, qual seria?
 Qual a sua cor favorita? E porquê?
 Qual o seu estilo de roupa favorito?
 Pratica algum desporto? Qual o seu desporto favorito?
-Que hábito estranho você tem?
-Que talento gostaria de ter?
 
 romantico
 Como se sente quando ficamos separados por longos períodos?
@@ -146,7 +165,8 @@ Qual é a melhor forma de superar uma rejeição?
 Quem foi o/a seu/sua primeiro/a crush?
 Qual perfume usa no dia-a-dia?
 Já foi traído?
-Acha que os oposto se atraem e resultam?
+Qual seria o seu tipo de date ideal?
+Acha que os opostos se atraem e resultam?
 O que pensou enquanto dava o seu primeiro beijo?
 O que costuma fazer quando não consegue dormir?
 Com qual frequência você troca os lençóis da sua cama?
@@ -350,13 +370,11 @@ Qual foi a coisa mais ousada que você já fez?
 Que roupa mais o atrai?
 
 desafio
-Vamos fazer um piquenique neste final de semana?
-Quer jogar ao verdade e consequência?
-Você tem algum talento escondido? Mostre qual.
 
 animado
 Já enviou por engano uma mensagem de texto para a pessoa errada?
 Se tivesse que escolher entre ter uma única sobrancelha permanente ou não ter nenhuma sobrancelha, qual você escolheria?
+Se a Terra fosse visitada por extraterrestres, quem recomendaria que eles falassem?
 Se pudesse premiar o pior filme da história, qual filme escolheria?
 Que tonalidade daria ao céu se tivesse o poder de fazê-lo? Porquê?
 Com quem gostaria de viver se pudesse trocar de vida com qualquer figura literária e por quê?
@@ -391,18 +409,17 @@ Tem alguma piada de pai favorita?
 Qual é o seu tipo favorito de cobertura de pizza?
 Tem algum desejo pecaminoso?
 Se a sua família tivesse que viver numa ilha deserta, quem seria o mais útil?
-Qual foi a coisa mais estranha que já fez para publicar nas redes sociais?
 Qual foi a experiência mais engraçada que teve esta semana?
 Qual foi a compra mais ridícula que fez enquanto fazia compras online?
 Qual foi a tendência de beleza mais ridícula que já experimentou?
 Prefere ter cabelo no lugar dos dentes ou dentes no lugar do cabelo?
-Se pudesse comer apenas um alimento para o resto da vida, qual seria?
 Dorme com a porta do quarto aberta ou fechada?
-Se pudesse ser um animal por um dia, qual gostaria de ser?
 Qual foi a combinação de comida mais estranha que já comeu?
-Se pudesse existir em qualquer planeta, qual seria?
-Se as cores tivessem gosto de sabores, qual a que teria o melhor sabor?
 Leite antes dos cereais ou cereais antes do leite?
+Se estivesse preso em uma ilha deserta, quais as três coisas que gostaria de ter com você?
+Se fosse sair vencedor/a de alguma competição, qual seria?
+Se só pudesse usar um único emoji para o resto da sua vida, qual seria?
+Você tem algum talento escondido? Qual?
 
 sou
 Sou emocionalmente dependente ou independente?	
@@ -420,7 +437,7 @@ Sou esquecido/a ou com boa memória?
 Gosto de problemas ou soluções?	
 Sou de desabafar ou guardar para mim?	
 Sou de resolver ou silenciar-me?	
-Sou de mim?	
+Sou amigo de mim mesmo?	
 Sou de fazer pedidos ou dar ordens?	
 Sou de sair ou ficar em casa?	
 Sou de agradecer?	
@@ -431,4 +448,972 @@ Sou de ajudar?
 Sou mais de falar ou de ouvir?	
 Sou de partilhar?
 Sou reservado ou partilho de mim?
+Sou de discutir para resolver ou de discutir para descarregar?
+Sou introvertido ou extrovertido?
+Sou calmo ou agitado?
+Direita ou esquerda?
+Crente ou não crente?
 
+completar
+Eu goste de…
+Eu sou…
+A minha comida favorita é…
+A minha frase favorita é…
+Considero-me uma pessoa…
+O meu livro favorito é…
+A minha pessoa favorita é…
+Se eu fosse um animal selvagem, seria…
+A minha fruta favorita é…
+O meu prato favorito é…
+
+prefere
+Prefere: comer fezes humanas ou de gato?
+Prefere: água fresca ou morna?
+Prefere: chá ou café?
+Prefere: doces ou salgados?
+Prefere: frio ou calor?
+O que prefere para as férias: descanso ou aventura?
+Prefere: fazer parte dos Vingadores ou da Liga da Justiça?
+Prefere: participar de um reality show romântico ou de aventura?
+Prefere: ter uma música que seja o tema da sua vida ou uma trilha sonora constante tocando ao fundo?
+Prefere: ser um super-herói ou o melhor chef de cozinha do mundo?
+Prefere: competir nas Olimpíadas ou dirigir um filme indicado ao Oscar?
+Prefere: cantar no karaoke com a chefe do nosso departamento ou fazer uma videoconferência com os seus pais o diretor executivo da empresa?
+
+hipotetico
+Se tivesse uma porta que o levasse a qualquer lugar que desejasse, onde iria neste exato momento?
+Se tivesse que viver num videojogo, qual seria a sua escolha?
+Se pudesse ter qualquer superpoder, qual escolheria?
+Se pudesse eliminar uma palavra do dicionário, qual seria?
+Se pudesse ser qualquer animal, qual seria?
+Se pudesse ter controle sobre um elemento (ar, água, terra ou fogo), qual escolheria e por quê?
+Se tivesse que viver em um filme da Disney, qual seria a sua escolha?
+Se pudesse enviar uma mensagem para o mundo todo, o que você diria?
+Se só pudesse assistir a um único filme pelo resto da vida, qual seria?
+Se só pudesse escutar um único álbum musical pelo resto da vida, o que escolheria?
+Se fosse uma batata, como gostaria de ser preparada?
+Se tivesse 20 minutos para se preparar para um apocalipse zumbi, o que você faria? E se tivesse 24 horas?
+Se tivesse que comer um prato tipicamente estranho, qual escolheria?
+Se pudesse adicionar um verbo ao dicionário, qual seria essa palavra e o seu significado?
+Se pudesse eliminar algo ou alguém da face da terra, o quê ou quem seria?
+Se pudesse reavivar qualquer tendência da moda, qual seria?
+Se pudesse ser um animal por um dia, qual gostaria de ser?
+Se pudesse comer apenas um alimento para o resto da vida, qual seria?
+Se pudesse existir em qualquer planeta, qual seria?
+Se as cores tivessem gosto de sabores, qual a que teria o melhor sabor?
+Se fosse uma flor ou planta, qual seria?
+Se pudesse apresentar um programa de televisão, qual seria?
+Se tivesse que esconder um corpo, onde esconderia? E a quem pediria ajuda se necessário?
+Se tivesse uma banda, que tipo de música tocaria? E que nome daria à banda?
+Se perdesse para sempre um dos cinco sentidos, qual deles acha que sentiria menos falta?
+Se perdesse um membro do corpo, qual acha que lhe faria menos falta?
+Se vidas passadas existissem, qual seria a sua?
+Se encarnasse num outro animal na próxima vida, qual desejava ser?
+Se tivesse direito a três desejos, quais seriam?
+Se estivesse sozinho(a) em uma ilha deserta, qual livro ou objeto levaria consigo?
+Se pudesse jantar com uma personalidade histórica, quem seria? E se fosse uma celebridade contemporânea?
+Se ganhasse o Euromilhões, qual seria a primeira coisa que você faria?
+Se pudesse escolher, qual seria a cor do seu caixão?
+Se lhe saísse o Euromilhões contava às pessoas próximas, ou tentaria esconder?
+Um amigo seu, que está romanticamente envolvido com outra amiga sua, confessa que a traiu e a parceira não sabe. O que você faz?
+Um amigo próximo anunciou publicamente que quer perder peso, mas você vê que ele quebra as regras autoimpostas sobre comida e exercício com frequência. O que você faz?
+Um amigo seu começou a fumar, o que você diria?
+Um amigo por quem você não tem nenhum sentimento romântico revela que está apaixonado por você. O que você faz?
+Você está organizando um jantar para oito pessoas, todas onívoras, exceto uma, que é vegana. Você se esforça para preparar um prato vegano especial para ela? Ou o que faria nesse caso?
+Após ler os e-mails de seu/sua parceiro/a sem o consentimento dele/a, você descobre que está sendo traído/a. O que você faz?
+
+temas
+O que acha da identidade de género?
+Sabe qual a diferença entre sexo e género?
+O que acha do fascismo?
+O que acha da religião?
+O que acha da fé?
+Concorda que a Terra é redonda?
+Para si, os dinossauros existiram ou não? 
+Tudo começou pelo Big Bang?
+O que pensa sobre o veganismo?
+O que pensa sobre o consumo de carne?
+Qual a sua posição sobre as alterações climáticas?
+Qual a sua posição em relação ao aborto?
+Considera-se uma pessoa de mente aberta?
+Tem algo contra a transição de género? (transexualidade)
+Qual a sua posição em relação à comunidade LGBTQA+?
+Sentiria algum tipo de desconforto em se relacionar com uma pessoa transexual?
+Vê diferença entre nascer com o sexo biológico masculino/feminino ou ser homem/mulher?
+Considera a seguinte frase correta: “os homens engravidam”?
+Identifica-se com alguma orientação sexual 
+O que tem a dizer sobre o racismo?
+Sente que é uma pessoa empática e compreensiva?
+Sente que é preconceituoso?
+Sente-se desconfortável ao ver um casal homossexual a dar a mão na rua? E a dar um beijo?
+Faz-lhe confusão ver um homem de saia e/ou de tacão alto? Porquê?
+O que tem a dizer sobre o machismo?
+O que tem a dizer sobre o feminismo?
+O que acha dos discursos motivacionais?
+O que tem a dizer sobre a linguagem neutra?
+O que tem a dizer sobre os grupos de incels, red pill e variantes?
+Qual a minha posição em relação à legalização das armas?
+
+entrevista
+
+nunca
+Eu nunca fiquei bêbado.
+Eu nunca tirei comida do lixo e comi.
+Eu nunca peidei em público.
+Eu nunca viajei de avião.
+Eu nunca faltei à aula.
+Eu nunca me apaixonei à primeira vista.
+Eu nunca menti para os meus pais.
+Eu nunca fiz uma aposta arriscada.
+Eu nunca dormi no cinema.
+Eu nunca chorei ou flertei para me livrar de uma multa.
+Eu nunca arruinei as férias de alguém.
+Eu nunca peguei comida ou bebida em festa e levei para casa.
+Eu nunca caí porque estava a olhar para o telemóvel.
+Eu nunca tentei cortar meu cabelo e me arrependi.
+Eu nunca me apaixonei à primeira vista.
+Eu nunca deletei comentários de haters.
+Eu nunca disse que amo alguém sem querer ou sem sentir.
+Eu nunca peguei boleia de estranhos.
+Eu nunca gostei de uma música de Justin Bieber.
+Eu nunca estive acordado por dois dias seguidos.
+Eu nunca fiz alguém ir parar ao hospital.
+Eu nunca menti sobre a minha opinião para impressionar alguém.
+Eu nunca usei óculos sem lentes.
+Eu nunca fui pego no plágio ou a copiar.
+Eu nunca pintei o meu cabelo de uma cor bem forte.
+Eu nunca fiz um piercing numa zona escondida.
+Eu nunca fiz bungee jumping.
+Eu nunca dei um apelido carinhoso a alguém.
+Eu nunca fiquei mais de 2 dias sem tomar banho.
+Eu nunca apareci num vídeo no YouTube.
+Eu nunca desmaiei.
+Eu nunca fiz piercing ou tatuagem.
+Eu nunca colei chiclete debaixo da mesa.
+Eu nunca guardei chiclete para mascar depois.
+Eu nunca deitei lixo no chão da rua.
+Eu nunca fui expulso de um bar.
+Eu nunca beijei um estranho.
+Eu nunca disse adeus.
+Eu nunca pedi desculpa.
+Eu nunca comi algo escondido para não dividir.
+Eu nunca fingi que falava outro idioma.
+Eu nunca menti no currículo.
+Eu nunca peguei emprestado e não devolvi.
+Eu nunca dormi de conchinha.
+Em nunca fui num encontro às cegas.
+Eu nunca vi neve.
+Eu nunca vi um macaco ao vivo.
+Eu nunca caí de bicicleta e esfolei-me.
+Eu nunca andei de mota.
+Eu nunca me afoguei.
+Eu nunca me confessei na igreja.
+Eu nunca fui à missa.
+Eu nunca ouvi música Gospel.
+Eu nunca fui num rodeio.
+Eu nunca fiz perguntas para a Siri.
+Eu nunca fiquei preso no elevador.
+Eu nunca aprendi a andar de bicicleta.
+Eu nunca comecei a ver uma série só para ter assunto.
+Eu nunca li um livro para conquistar alguém.
+Eu nunca menti que uma comida estava boa.
+Eu nunca usei cueca do avesso.
+Eu nunca coloquei a culpa no cão.
+Eu nunca experimentei comida de cão/gato.
+Eu nunca usei um alimento que passou da validade e depois toda a gente ficou com caganeira.
+Eu nunca tive diarreia.
+Eu nunca comi algo fora do prazo.
+Eu nunca dancei funk no meu quarto sem ninguém ver.
+Eu nunca treinei beijo de língua.
+Eu nunca cozinhei algo mau e ofereci para me vingar da pessoa.
+Eu nunca copiei na prova.
+Eu nunca subi em uma árvore.
+Eu nunca mostrei o traseiro em público.
+Eu nunca procurei na internet perguntas para brincadeira.
+Eu nunca dancei no palco de uma festa.
+Eu nunca invadi uma foto de alguém.
+Eu nunca tive medo de dormir sozinho.
+Eu nunca passei mal de tanto comer.
+Eu nunca cantei em público.
+Eu nunca fui roubado.
+Eu nunca ganhei um sorteio.
+Eu nunca apareci na TV.
+Eu nunca espirrei catarro em público.
+Eu nunca fui perseguido por animais.
+Eu nunca tive uma crise de riso em um momento sério.
+Eu nunca misturei água na bebida para render mais.
+Eu nunca dei um soco em algo de vidro.
+Eu nunca recebi flores.
+Eu nunca quis pouco.
+Eu nunca conduzi um carro.
+Eu nunca atropelei alguém.
+Eu nunca pensei que eu sou a pessoa mais linda do grupo.
+Eu nunca fiquei sem dormir por dois dias seguidos.
+Eu nunca vi um animal selvagem.
+Eu nunca acampei.
+Eu nunca fiz uma fogueira.
+Eu nunca voei num balão de ar.
+Eu nunca vomitei em um parque de diversões.
+Eu nunca cortei o meu próprio cabelo.
+Eu nunca invadi uma casa.
+Eu nunca comi língua de boi.
+Eu nunca planeei um discurso no banho.
+Eu nunca cantei no banhei.
+Eu nunca fui a um baile funk.
+Eu nunca fiquei com o/a irmão/ã de um amigo.
+Eu nunca fiquei com um/a amigo/a de um irmão.
+Eu nunca procurei o meu nome no Google.
+Eu nunca chorei no transporte público.
+Eu nunca enviei uma carta de amor.
+Eu nunca fui o último a ser escolhido para alguma coisa.
+Eu nunca li a Bíblia.
+Eu nunca fui a um karaoke.
+Eu nunca parti um osso.
+Eu nunca parti um dente.
+Eu nunca removi um dente.
+Eu nunca tive uma cárie.
+Eu nunca fui a um rodeio.
+Eu nunca fui picado por uma abelha ou marimbondo.
+Eu nunca mastiguei gelo.
+Eu nunca comi um inseto frito.
+Eu nunca fiquei de recuperação.
+Eu nunca joguei jogos de guerra.
+Eu nunca chorei com um filme.
+Eu nunca surfei.
+Eu nunca mergulhei.
+Eu nunca vi o mar.
+Eu nunca vi o sol nascer.
+Eu nunca virei uma noite estudando.
+Eu nunca tive um animal de estimação.
+Eu nunca tomei injeção no traseiro.
+Eu nunca encontrei alguém famoso.
+Eu nunca fiz humor negro.
+Eu nunca ridicularizei alguém.
+Eu nunca critiquei alguém.
+Eu nunca elogiei alguém.
+Eu nunca forcei o riso.
+Eu nunca entendi uma piada e ri a fazer de conta.
+Eu nunca fui picado por uma abelha.
+Eu nunca participei numa peça de teatro.
+Eu nunca caí numa dança.
+Eu nunca cumprimentei alguém fingindo que sabia quem era.
+Eu nunca pratiquei desporto.
+Eu nunca toquei um instrumento.
+Eu nunca ignorei um conhecido na rua.
+Eu nunca ignorei um pedinte.
+Eu nunca matei uma planta.
+Eu nunca levei com uma porta.
+Eu nunca atirei um ovo a alguém.
+Eu nunca tive piolhos.
+Eu nunca tive pulgas.
+Eu nunca matei uma barata.
+Eu nunca engoli algo que não era de comer.
+Eu nunca pintei uma parede.
+Eu nunca apertei a campainha e saí a correr.
+Eu nunca fiz uma chamada de faz de conta.
+Eu nunca perdi um voo.
+Eu nunca entupi uma sanita e não contei para ninguém.
+Eu nunca fingi que sabia algo que não sabia.
+Eu nunca caí em uma cantada.
+Eu nunca fiz um piropo.
+Eu nunca chorei em público.
+Eu nunca tive infeção urinária.
+Eu nunca saí sem pagar.
+Eu nunca me disfarcei no Carnaval.
+Eu nunca fiz uma viagem de carro de mais de 10 horas.
+Eu nunca perdi um brinquedo.
+Eu nunca ignorei um amigo no WhatsApp.
+Eu nunca tirei foto com roupas emprestadas.
+Eu nunca comi até sentir mal.
+Eu nunca tive medo de ser apanhado pela polícia.
+Eu nunca rebolei na lama.
+Eu nunca caí num golpe de internet.
+Eu nunca dancei em publico.
+Eu nunca dancei escondido.
+Eu nunca cantei no chuveiro.
+Eu nunca lancei coisas pela janela.
+Eu nunca caí da cama.
+Eu nuca tomei bebi no biberão em adulto.
+Eu nunca me deparei com um ovo podre.
+Eu nunca quebrei uma promessa.
+Eu nunca comi restos de comida da outra mesa.
+Eu nunca menti.
+Eu nunca tive as minhas redes sociais hackeadas.
+Eu nunca comi gelado com batata frita.
+Eu nunca menti que estava ocupado para não sair.
+Eu nunca fingi que estava falando no telefone.
+Eu nunca fingi estar doente para não ir à escola/trabalho.
+Eu nunca parei de comer carne.
+Eu nunca caí no chão em publico.
+Eu nunca vi uma criatura extraterrestre.
+Eu nunca vi um OVNI.
+Eu nunca vi uma estrela cadente.
+Eu nunca chamei alguém de parolo.
+Eu nunca fiz um bolo.
+Eu nunca perdi dinheiro.
+Eu nunca perdi o telemóvel.
+Eu nunca fui deixado à espera.
+Eu nunca chego atrasado.
+Eu nunca perdi um animal de estimação.
+Eu nunca dancei agarradinho.
+Eu nunca naveguei em um barco.
+Eu nunca vi o mar.
+Eu nunca gostei de café.
+Eu nunca bebi álcool.
+Eu nunca fiquei bêbado.
+Eu nunca fui chamado de feio.
+Eu nunca fiz uma pergunta anónima porque tinha vergonha.
+Eu nunca rapei o cabelo.
+Eu nunca plantei uma árvore.
+Eu nunca reciclei.
+Eu nunca fiz perguntas constrangedoras.
+Eu nunca tomei leite azedo.
+Eu nunca comi pizza ao pequeno almoço.
+Eu nunca tirei foto com alguém famoso.
+Eu nunca tive uma câmara de fotos analógica.
+Eu nunca fui considerado o melhor em alguma coisa.
+Eu nunca fui considerado o pior em alguma coisa.
+Eu nunca falei para uma pessoa que ela comida nos dentes.
+Eu nunca limpei um WC.
+Eu nunca costurei.
+Eu nunca fritei um ovo.
+Eu nunca misturei água no frasco de shampoo.
+Eu nunca acreditei no amor.
+Eu nunca fui a um parque de diversões.
+Eu nunca andei numa montanha russa.
+Eu nunca dirigi.
+Eu nunca mandei mensagem bêbado.
+Eu nunca mandei nudes.
+Eu nunca estive fora da lei.
+Eu nunca prometi que ia esquecer alguém.
+Eu nunca dei um fora.
+Eu nunca desiludi alguém.
+Eu nunca me desiludi.
+Eu nunca desapareci e fiquei sem responder.
+Eu nunca fui rejeitado.
+Eu nunca usei um perfil fake nas redes sociais.
+Eu nunca fiz like na minha própria foto ou post.
+Eu nunca vi coisa mais bonita que no meu reflexo.
+Eu nuca mais vou contar piadas.
+Eu nunca quis o coração de alguém.
+Eu nuca mandei mensagem para um ex.
+Eu nunca falsifiquei documentos.
+Eu nunca entrei numa discoteca.
+Eu nunca fiz xixi nas calças.
+Eu nunca fiz xixi na piscina.
+Eu nunca fiz xixi na rua.
+Eu nunca matei um animal.
+Eu nunca caguei num WC publico.
+Eu nunca fiz uma loucura por amor.
+Eu nunca sofri um acidente.
+Eu nunca tive uma experiência paranormal.
+Eu nunca menti jogando eu nunca.
+Eu nunca desisti de uma amizade.
+Eu nunca fui traído.
+Eu nunca traí um/a namorado/a.
+Eu nunca me arrependi do meu voto.
+Eu nunca votei.
+Eu nunca coloquei a culpa em um amigo.
+Eu nunca levei uma multa.
+Eu nunca fingi que estava a sentir-me mal para voltar para casa.
+Eu nunca pedi dinheiro emprestado e fingi que esqueci.
+Eu nunca tomei remédio para a tosse.
+Eu nunca fui de propósito a um lugar para encontrar meu ex.
+Eu nunca fui de propósito a um lugar para encontrar meu crush.
+Eu nunca colei chiclete no cabelo de alguém.
+Eu nunca usei atestado médico falso.
+Eu nunca subornei.
+Eu nunca subestimei a capacidade de alguém.
+Eu nunca tive vontade de matar alguém.
+Eu nunca fingi que estava bêbado.
+Eu nunca dirigi bêbado.
+Eu nunca depilei o ânus.
+Eu nunca fingi que estava a chorar.
+Eu nunca vomitei pelo nariz.
+Eu nunca tirei catotas do nariz.
+Eu nunca pensei que estava a ser perseguido.
+Eu nunca fui perseguido.
+Eu nunca persegui alguém.
+Eu nunca caguei no mato.
+Eu nunca fiz questão de estar aqui.
+Eu nunca me apaixonei.
+Eu nunca usei roupa com etiqueta para trocar depois.
+Eu nunca tive um relacionamento aberto.
+Eu nunca editei uma foto para parecer melhor.
+Eu nunca me humilhei por causa de alguém.
+Eu nunca tive que correr para salvar a minha vida.
+Eu nunca salvei a vida de alguém.
+Eu nunca estive em um tiroteio.
+Eu nunca estive envolvido em uma catástrofe natural.
+Eu nunca pedi dinheiro na rua.
+Eu nunca pedi boleia.
+Eu nunca estraguei a viagem de alguém.
+Eu nunca beijei alguém do mesmo sexo.
+Eu nunca fiz topless.
+Eu nunca tive vergonha de assumir o meu voto publicamente.
+Eu nunca menti em uma entrevista de emprego.
+Eu nunca fiquei trancado fora de casa.
+Eu nunca gritei no travesseiro.
+Eu nunca fui operado.
+Eu nunca menti sobre a minha idade.
+Eu nunca chorei na escola.
+Eu nunca pensei que alguma coisa estivesse assombrada.
+Eu nunca jantei doces.
+Eu nunca fiz xixi na cama depois de criança.
+Eu nunca cheirei o chulé de alguém.
+Eu nunca deixei alguém cheirar os meus dedos.
+Eu nunca comi escondido para não oferecer.
+Eu nunca escondi comida no meu quarto.
+Eu nunca menti para as autoridades.
+Eu nunca ridicularizei um amigo.
+Eu nunca fumei cigarro.
+Eu nunca estacionei em vaga de idoso/deficientes.
+Eu nunca passei um sinal vermelho.
+Eu nunca quase atropelei alguém.
+Eu nunca pedi comida porque tinha preguiça de cozinhar.
+Eu nunca viajei sozinho.
+Eu nunca fui viciado em alguma coisa.
+Eu nunca fiz terapia.
+Eu nunca me deparei com um inseto venenoso.
+Eu nunca escrevi uma carta de ódio.
+Eu nunca provoquei alguém.
+Eu nunca investiguei alguém.
+Eu nunca fui um stalker.
+Eu nunca usei fraldas em adulto.
+Eu nunca fertilizei as minhas plantas com algo incomum.
+Eu nunca tive um corte de cabelo ridículo.
+Eu nunca discuti no almoço de família.
+Eu nunca abandonei um grupo de WhatsApp.
+Eu nunca fui à igreja.
+Eu nunca roubei alguma coisa do bar.
+Eu nunca roubei de um hotel.
+Eu nunca fiz careta para crianças.
+Eu nunca roubei uma ideia.
+Eu nunca fui discriminado.
+Eu nunca fui machista.
+Eu nunca sofri machismo.
+Eu nunca fui assediado/a.
+Eu nunca fui demitido.
+Eu nunca demiti alguém.
+Eu nunca apostei dinheiro.
+Eu nunca vesti a camisa de uma equipa desportiva.
+Eu nunca mudei de religião.
+Eu nunca perdi um amigo por política.
+Eu nunca chorei de raiva por política.
+Eu nunca fui antiético.
+Eu nunca tive diarreia e não conseguir chegar até o banheiro.
+Eu nunca usei um documento falso.
+Eu nunca menti que era estudante para pagar menos de entrada.
+Eu nunca fiquei com alguém de outra nacionalidade.
+Eu nunca vomitei em publico.
+Eu nunca quis namorar com um amigo ou amiga.
+Eu nunca fui vegetariano.
+Eu nunca tive uma dívida.
+Eu nunca precisei de pedir dinheiro emprestado.
+Eu nunca criei confusão.
+Eu nunca senti que alguém era muito bonito/a para mim.
+Eu nunca parti alguma coisa e coloquei a culpa em outra pessoa.
+Eu nunca tomei tequila.
+Eu nunca dei um presente usado.
+Eu nunca assisti uma sessão de cinema sem pagar.
+Eu nunca limpezas.
+Eu nunca tive uma alucinação.
+Eu nunca comi cogumelos alucinogénios.
+Eu nunca fiz campanha política.
+Eu nunca me arrependi por ter votado em alguém.
+Eu nunca acordei sem saber onde estava.
+Eu nunca mudei de opinião só para agradar alguém.
+Eu nunca emprestei algo que não me devolveram.
+Eu nunca namorei com uma pessoa de outro país.
+Eu nunca fiz o mapa astral do crush.
+Eu nunca beijei alguém com mau bafo.
+Eu nunca cometi um grande erro na minha vida.
+Eu nunca estraguei um relacionamento.
+Eu nunca fui a um local proibido.
+Eu nunca perdi um dente.
+Eu nunca copiei uma declaração de amor.
+Eu nunca entreguei uma carta de amor.
+Eu nunca fingi que estava a gostar de uma comida e depois cuspi.
+Eu nunca me senti odiado.
+Eu nunca tive rancor de algo do passado.
+Eu nunca beijei na boca.
+Eu nunca joguei na loteria.
+Eu nunca namorei.
+Eu nunca menti para conseguir um trabalho.
+Eu nunca stalkeio as redes sociais de um ex.
+Eu nunca vivi um romance virtual.
+Eu nunca imaginei me relacionar com alguém impossível.
+Eu nunca menti que amava alguém.
+Eu nunca fiz uma publicação indireta nas redes sociais.
+Eu nunca fiz coisas proibidas no local de trabalho.
+Eu nunca fui procurado pela polícia.
+Eu nunca apanhei.
+Eu nunca bebi até cair.
+Eu nunca deixei de falar com alguém por orgulho.
+Eu nunca menti para o/a meu/minha namorado/a.
+Eu nunca acreditei em notícias falsas.
+Eu nunca discuti por política.
+Eu nunca fiquei com alguém por interesse.
+Eu nunca me envolvi numa polémica.
+Eu nunca ganhei dinheiro com a internet,
+Eu nunca perdi dinheiro com a internet.
+Eu nunca ridicularizei alguém nas redes sociais.
+Eu nunca fiquei triste por não me sentir bonito/a.
+Eu nunca tive problemas de autoestima.
+Eu nunca fiz nudismo na praia.
+Eu nunca senti que não merecia um elogio.
+Eu nunca não acreditei que alguém estava interessado de mim.
+Eu nunca pedi alguém em namoro.
+Eu nunca continuei a usar a conta de Netflix de um/a ex.
+Eu nunca recusei um presente.
+Eu nunca sofri preconceito.
+Eu nunca tive medo de sair na rua.
+Eu nunca tive uma amizade colorida.
+Eu nunca me escondi de alguém na rua.
+Eu nunca senti ciúmes de um amigo.
+Eu nunca pedi perdão por algo que não me sentia culpado.
+Eu nunca tive medo de um filme de terror.
+Eu nunca fingi que tinha ganho algo, mas na verdade comprei.
+Eu nunca fui egoísta.
+Eu nunca senti inveja.
+Eu nunca roubei algo.
+Eu nunca disse um palavrão.
+Eu nunca faltei ao trabalho por beber demasiado na noite anterior.
+Eu nunca tive uma experiência paranormal.
+Eu nunca disse que alguém não prestava.
+Eu nunca abri o armário de um amigo.
+Eu nunca fui algemado (por qualquer motivo).
+Eu nunca cheirei a minha roupa interior para saber se está limpa ou não.
+Eu nunca fiquei com um/a ex do/a melhor amigo/a.
+Eu nunca roubei um objeto de uma loja.
+Eu nunca tive de correr para me salvar.
+Eu nunca salvei alguém.
+Eu nunca quebrei algo em casa de um amigo e não contei para ele.
+Eu nunca entrei numa festa sem ser convidado.
+Eu nunca dei um estalo na cara.
+Eu nunca levei um estalo na cara em público.
+Eu nunca andei na porrada.
+Eu nunca fiquei com alguém por interesse.
+Eu nunca achei que eu sou a pessoa mais bonita do grupo.
+Eu nunca achei que eu sou a pessoa menos bonita do grupo.
+Eu nunca duvidei da minha sexualidade.
+Eu nunca beijei o meu/minha melhor amigo/a.
+Eu nunca fiz um procedimento estético e disse que era tudo natural.
+Eu nunca coloquei enchimento no sutiã/na cueca.
+Eu nunca fiz para ter um/a ex de volta.
+Eu nunca fiz para conquistar alguém.
+Eu nunca fiz para me vingar.
+Eu nunca joguei água/comida em alguém.
+Eu nunca lambi uma ferida.
+Eu nunca vi alguém morto.
+Eu nunca vi uma arma real ao vivo.
+Eu nunca fiz uma tatuagem.
+Eu nunca fiz uma tatuagem de que me arrependesse.
+Eu nunca coloquei fogo em alguma coisa.
+Eu nunca disse que amo alguém sem querer.
+Eu nunca fiquei com o/a ex de um/a amigo/a.
+Eu nunca imaginei que tivesse uma doença grave.
+Eu nunca escondi um segredo da minha família.
+Eu nunca fiz uma declaração em público.
+Eu nunca escondi algo a um/a namorado/a.
+Eu nunca descobri que um amigo estava sendo traído.
+Eu nunca desisti de uma amizade.
+Eu nunca enviei uma mensagem embaraçosa para o número errado.
+Eu nunca fiz uma dieta louca.
+Eu nunca fui levado/a para a esquadra.
+Eu nunca tive problemas com vizinhos.
+Eu nuca acordei na rua.
+Eu nunca usei aliança.
+Eu nunca me casei.
+Eu nunca perdi um presente importante.
+Eu nunca desapareci da vida de alguém.
+Eu nunca tive vergonha dos meus próprios pensamentos.
+Eu nunca menti para o meu patrão.
+Eu nunca fui corrupto.
+Eu nunca disse algo sem ter certeza do que estava a falar.
+Eu nunca recebi flores sem saber de quem eram.
+Eu nunca ofereci flores.
+Eu nunca fiquei preso dentro ou fora de casa.
+Eu nunca fugi a impostos.
+Eu nunca convenci alguém a fazer algo errado.
+Eu nunca coloquei a culpa em outra pessoa.
+Eu nunca assisti a vídeos proibidos.
+Eu nunca invadi a privacidade de alguém.
+Eu nunca acusei alguém injustamente.
+Eu nunca falei mal de um amigo.
+Eu nuca colei chiclete no cabelo de alguém.
+Eu nunca fui testemunha de um crime.
+Eu nunca levei uma rejeição de um crush.
+Eu nunca me vinguei de algo.
+Eu nunca senti rancor.
+Eu nunca sofri bullying.
+Eu nunca pratiquei bullying.
+Eu nunca pesquisei na internet ao invés de ir ao médico.
+Eu nunca quebrei uma promessa.
+Eu nunca fiz greve de fome
+Eu nunca participei numa manifestação.
+Eu nunca participei num moche.
+Eu nunca tive uma intoxicação alimentar.
+Eu nunca devi dinheiro.
+Eu nunca pedi dinheiro.
+Eu nunca fiz yoga.
+Eu nunca abandonei um filme/série de TV a meio.
+Eu nunca vi um filme mais do que 10 vezes.
+Eu nunca tive medo de ser julgado/a.
+Eu nunca segurei vela.
+Eu nunca fiz um amigo segurar vela.
+Eu nunca espero o micro-ondas apitar antes de abrir.
+Eu nunca fingi que falava um outro idioma.
+Eu nunca fingi que não era comigo.
+Eu nunca fingi que eu era irmão de um amigo.
+Eu nunca fingi ser amigo.
+Eu nunca comprei coisas falsificadas.
+Eu nunca saí de casa de pijama.
+Eu nunca usei maquilhagem.
+Eu nunca fui fã de um/a ator/atriz.
+Eu nunca fui a um programa de televisão.
+Eu nunca dei uma entrevista.
+Eu nunca esqueci alguém muito importante.
+Eu nunca fui rancoroso/a.
+Eu nunca fiz o meu mapa astral.
+Eu nunca desisti de um crush por causa do signo dele.
+Eu nunca participei num programa de rádio.
+Eu nunca meditei.
+Eu nunca passei vergonha.
+Eu nunca envergonhei alguém em publico.
+Eu nunca apaguei o meu histórico antes que alguém visse.
+Eu nunca usei o WiFi do vizinho.
+Eu nunca desisto de um projeto.
+Eu nunca sofri censura.
+Eu nunca fui a uma exposição.
+Eu nunca chorei ao ler um livro.
+Eu nunca li um livro.
+Eu nunca enviei um postal.
+Eu nunca comprei um produto só porque um influencer indicou.
+Eu nunca namorei com alguém por solidão.
+Eu nunca senti pressão.
+Eu nunca gritei.
+Eu nunca comprei seguidores.
+Eu nunca pedi para amigos/familiares darem like numa publicação.
+Eu nunca dei like na minha própria foto.
+Eu nunca mandei mensagem a fazer de conta que era para a pessoa errada.
+Eu nunca me apaixonei por alguém da internet.
+Eu nunca eliminei uma publicação na rede social por não ter likes.
+Eu nunca pensei em participar do BBB.
+Eu já deixei de seguir por recalque.
+Eu nunca mandei indireta nas redes sociais.
+Eu nunca me arrependi do meu nome de usuário.
+Eu nunca expus outra pessoa nas redes sociais.
+Eu nunca postei fotos comprometedoras.
+Eu nunca copiei conteúdo de outra pessoa nas redes sociais.
+Eu nunca me arrependi de uma publicação.
+Eu nunca usei Tinder ou outra app de relações.
+Eu nunca tive um perfil falso.
+Eu nunca recebi algo por causa do meu canal/perfil.
+Eu nunca ri do canal de alguém.
+Eu nunca tomei um spoiler no Youtube.
+Eu nunca tive haters.
+Eu nunca tive um vídeo que foi um verdadeiro fracasso.
+Eu nunca fui copiado.
+Eu nunca pensei em excluir a minha conta nas redes sociais.
+Eu nunca fiz um desafio ridículo só para ganhar visualizações.
+Eu nunca me arrependi por me expor demais.
+Eu nunca comecei a gostar de um canal que antes eu odiava.
+Eu nunca fiquei com alguém que conheci no Facebook ou Instagram.
+Eu nunca tive vergonha de postar alguma coisa.
+Eu nunca fiz uma receita da internet que ficou péssima.
+Eu nunca gravei algo que era complicado parecendo super fácil.
+Eu nunca recebi um aviso do Facebook.
+Eu nunca tive a minha conta invadida.
+Eu nunca deixei de aproveitar um momento importante porque estava a fazer conteúdo para publicar.
+Eu nunca tive vergonha de fazer vídeos em frente de outras pessoas.
+Eu nunca pensei em largar tudo para viver das redes sociais.
+Eu nunca enviei um áudio por engano.
+Eu nunca virei um meme.
+Eu nunca publiquei algo enquanto estava bêbado.
+Eu nunca fui hater.
+Eu nunca escondi as minhas redes sociais da minha família.
+Eu nunca fiz um vídeo que, na verdade, era uma indireta para alguém.
+Eu nunca tive um fã.
+Eu nunca fiz um detox digital.
+Eu nunca discuti pelos comentários.
+Eu nunca removi um seguidor.
+Eu nunca pedi para aparecer um canal de alguém.
+Eu nunca fiquei mais de 24h sem usar internet nos 3 anos.
+Eu nunca me arrependi de algo que publiquei.
+Eu nunca chorei ao ler comentários.
+Eu nunca chorei a ver um vídeo das redes sociais.
+Eu nunca tentei ser influencer.
+Eu nunca denunciei alguém na internet.
+Eu nunca escondi minhas redes sociais dos meus pais.
+Eu nunca criei um perfil só para amigos.
+Eu nunca discuti por WhatsApp.
+Eu nunca terminei um relacionamento por telefone.
+Eu nunca inventei uma hashtag.
+
+nuncapicante
+Eu nunca destrui um relacionamento.
+Eu nunca me envolvi com alguém comprometido.
+Eu nunca fiquei com um estranho.
+Eu nunca usei drogas.
+Eu nunca trabalhei alcoolizado.
+Eu nunca engravidei.
+Eu nunca olhei o celular de alguém sem permissão.
+Eu nunca traí você.
+Eu nunca tomei pílula do dia seguinte.
+Eu nunca fui a favor da legalização das armas.
+Eu nunca vendi meu voto.
+Eu nunca postei algo enquanto estava bêbado.
+Eu nunca vomitei dentro de um táxi.
+Eu nunca tomei um chá alucinogénio.
+Eu nunca me gravei fazendo sexo.
+Eu nunca brinquei ao verdade e consequência com perguntas quentes.
+Eu nunca tirei fotos despido/a.
+Eu nunca fiz sexo com menstruação.
+Eu nunca usei um ovo masturbador.
+Eu nunca comprei um brinquedo sexual.
+Eu nunca usei pomada vaginal/peniana.
+Eu nunca fiquei excitado num momento inadequado.
+Eu nunca fiz um teste de gravidez.
+Eu nunca fumei maconha.
+Eu nunca tentei atrasar a menstruação.
+Eu nunca apanhei uma doença sexualmente transmissível.
+Eu nunca provei leite materno depois de adulto.
+Eu nunca cheirei minhas roupas íntimas.
+Eu nunca viajei com drogas.
+Eu nunca tive uma bad trip.
+Eu nunca levei algo ilegal na fronteira.
+Eu nunca vi alguém a dançar e me excitei.
+Eu nunca fiquei a pensar se teria um filho.
+Eu nunca enviei uma mensagem picante para a pessoa errada.
+Eu nunca fiz ou recebi uma lap dance.
+Eu nunca bati em alguém.
+Eu nunca mordi alguém.
+Eu nunca enviei fotos das minhas fezes para alguém.
+Eu nunca tive duas relações secretas ao mesmo tempo.
+Eu nunca misturei remédios e álcool.
+Eu nunca misturei bebidas fortes.
+Eu nunca me arranjei antes da pessoa com quem estava a dormir, acordar e me ver bonito/a.
+Eu nunca fiquei com mais do que uma pessoa numa festa/noite.
+Eu nunca beijei um parente de um amigo.
+Eu nunca tive dúvidas sobre a minha orientação sexual.
+Eu nunca tive vergonha de ficar despido/a na frente de alguém.
+Eu nunca fiquei com alguém só porque a pessoa era boa na cama.
+Eu nunca algemei alguém.
+Eu nunca fui algemado.
+Eu nunca dancei num pole dance.
+Eu nunca tive um passado comprometedor na internet.
+Eu nunca fiquei com alguém famoso.
+Eu nunca fiquei com alguém do Tinder.
+Eu nunca ganhei dinheiro com a internet.
+Eu nunca participei com conteúdo no OnlyFans.
+Eu nunca entrei no OnliFans.
+Eu nunca gravei um vídeo despido/a da cinta para baixo sem ninguém perceber.
+Eu nunca fiz fotos nu/nua.
+Eu nunca depilei as partes íntimas.
+Eu nunca me masturbei no banho.
+Eu nunca disfarcei uma marca de chupão.
+Eu nunca quis ficar com pai ou mãe de amigo.
+Eu nunca participei numa orgia.
+Eu nunca fiquei com o pai/mãe de uma amiga/amigo.
+Eu nunca me masturbei com o cheiro de alguém.
+Eu nunca perdi a proteção dentro do meu corpo ou da outra pessoa.
+Eu nunca tive um squirt.
+Eu nunca tive um orgasmo precoce.
+Eu nunca tive a proteção estourada.
+Eu nunca fiz uma lavagem anal.
+Eu nunca ouvi o meu vizinho a fazer sexo.
+Eu nunca me masturbei a ouvir um vizinho a fazer sexo.
+Eu nunca fantasiei com o meu chefe.
+Eu nunca fantasiei com o namorado/a do/a melhor amigo/a
+Eu nunca fantasiei com o/a melhor amigo/a do/a meu/minha namorado/a.
+Eu nunca fantasiei com a mãe/pai de um/a amigo/a.
+Eu nunca roubei a cueca de um ex.
+Eu nunca me envolvi com alguém para ganhar algo/por interesse. 
+Eu nunca fiquei com alguém para me vingar de um/a ex.
+Eu nunca gravei um vídeo pesado.
+Eu nunca mandei explicitas.
+Eu nunca fiz uma sessão de fotos erótica.
+Eu nunca fui a um evento erótico.
+Eu nunca fiz sadomasoquismo.
+Eu nunca usei um vibrador.
+Eu nunca me masturbei com alguém do lado sem a pessoa saber.
+Eu nunca acordei sem saber o nome da pessoa que dormia ao meu lado.
+Eu nunca usei um objeto comum como brinquedo sexual.
+Eu nunca fiz sexo mais do que 5 vezes num dia.
+Eu nunca saí sem roupa intima só para provocar alguém.
+Eu nunca saí sem roupa intima.
+Eu nunca lambi chocolate no corpo de alguém.
+Eu nunca tive dupla penetração.
+Eu nunca fiz troca de casais.
+Eu nunca fiz sexo no elevador.
+Eu nunca pratiquei pompoarismo.
+Eu nunca fiz sexo de 4.
+Eu nunca fiz sexo à distância.
+Eu nunca medi um pénis.
+Eu nunca usei gelo na cama.
+Eu nunca quis saber do tamanho de um pénis.
+Eu nunca me masturbei analmente.
+Eu nunca descobri o ponto G.
+Eu nunca olhei vagina com um espelho.
+Eu nunca li contos eróticos.
+Eu nunca escrevi contos eróticos.
+Eu nunca fiz sexo no carro.
+Eu nunca fiz ou recebi um boquete.
+Eu nunca tentei imitar um filme porno.
+Eu nunca fui a um motel.
+Eu nunca entrei num canal de conteúdo pornográfico.
+Eu nunca senti o sabor de esperma ou fluído vaginal.
+Eu nunca fiz oral.
+Eu nunca fiz um 69.
+Eu nunca alcancei o orgasmo na hora errada.
+Eu nunca dei um beijo grego.
+Eu nunca recebi um beijo grego.
+Eu nunca fiz sexo com a luz acesa.
+Eu nunca fiz sexo no chuveiro.
+Eu nunca tive um acidente sexual.
+Eu nunca fiz sexo no sofá.
+Eu nunca fiz safadezas no cinema.
+Eu nunca tive um sonho erótico.
+Eu nunca tive orgasmos múltiplos.
+Eu nunca usei proteção com sabor.
+Eu nunca usei proteção texturizada.
+Eu nunca tive uma cãibra durante o sexo ou masturbação.
+Eu nunca me forcei a fazer sexo com alguém.
+Eu nunca parei de ficar com alguém porque a pessoa beijava mal.
+Eu nunca tive vontade de ficar com alguém do mesmo sexo que eu.
+Eu nunca tive uma boa noite de sexo.
+Eu nunca tive uma má noite de sexo.
+Eu nunca quis ficar com alguém comprometido.
+Eu nunca usei lubrificante artificial.
+Eu nunca precisei de improvisar um lubrificante.
+Eu nunca joguei jogos eróticos.
+Eu nunca usei um vibrador caseiro.
+Eu nunca fiz sexo tântrico.
+Eu nunca usei um plug anal.
+Eu nunca usei um vibrador com arnês.
+Eu nunca usei uma boneca inflável.
+Eu nunca usei um estimulador de próstata.
+Eu nunca usei bolas chinesas.
+Eu nunca fiz sexo com alguém enquanto pensava noutra pessoa.
+Eu nunca fiz sexo meio adormecido/a.
+Eu nunca vi alguém a fazer sexo pela janela.
+Eu nunca sujei a cama.
+Eu nunca criei uma playlist de músicas para fazer sexo.
+Eu nunca seduzi alguém.
+Eu nunca me exibi pela webcam.
+Eu nunca fiz sexo numa festa.
+Eu nunca fiz sexo deitado/a na banheira.
+Eu nunca fiz sexo na faculdade.
+Eu nunca fiz sexo nas escadas de um prédio.
+Eu nunca fiz sexo na praia.
+Eu nunca fiz sexo num bosque.
+Eu nunca mandei o mesmo nude para pessoas diferentes.
+Eu nunca menti sobre um sonho erótico.
+Eu nunca dei as minhas roupas íntimas de presente para alguém.
+Eu nunca vendi fotos dos meus pés.
+Eu nunca vendi roupa intima sem ser lavada.
+Eu nunca deixei alguém passar a mão em mim.
+Eu nunca li o kama sutra.
+Eu nunca usei gel anestésico para fazer sexo.
+Eu nunca gritei alto enquanto tinha o orgasmo.
+Eu nunca fiz sexo com alguém que tinha um piercing genital.
+Eu nunca disse que amava a pessoa no calor do momento.
+Eu nunca fui embora antes de a pessoa acordar.
+Eu nunca chupei os seios de alguém.
+Eu nunca ejaculei na hora errada.
+Eu nunca fiz sexo sentado.
+Eu nunca presenciei um pum vaginal.
+Eu nunca mordi a boca de alguém.
+Eu nunca deixei que comessem fruta em cima do meu corpo.
+Eu nunca ejaculei sem querer.
+Eu nunca chamei o nome errado durante o sexo.
+Eu nunca enviei uma mensagem quente para o número errado.
+Eu nunca tive sexo com alguém com o dobro da minha idade.
+Eu nunca usei um objeto comum como brinquedo sexual e coloquei de volta.
+Eu nunca desejei experimentar sexo a 3.
+Eu nunca fiz sexo a 3.
+Eu nunca encontro facilmente a proteção para colocar no momento.
+Eu nunca desejei ou fiquei com alguém do mesmo sexo.
+Eu nunca me masturbei ao ar livre.
+Eu nunca fui infiel.
+Eu nunca fiz sexo na cama dos meus pais.
+Eu nunca tomei banho com outra pessoa.
+Eu nunca nadei despido/a.
+Eu nunca fiquei com o ex de um/a amigo/a.
+Eu nunca fiquei com alguém presente nesta divisão.
+Eu nunca fiz sexo anal.
+Eu nunca fiz greve de sexo.
+Eu nunca fiz um strip tease.
+Eu nunca fingi um orgasmo.
+Eu nunca usei uma proteção que brilha no escuro.
+Eu nunca me fantasiei de algo para satisfazer alguém na cama.
+Eu nunca fiz sexo em uma suíte com espelho no teto.
+Eu nunca fiz sexo no chão.
+Eu nunca fiz sexo no local de trabalho.
+Eu nunca deixei marca de chupão em alguém.
+Eu nunca odiei um apelido carinhoso de alguém.
+Eu nunca desconfiei do meu parceiro.
+Eu nunca tive um namorado virtual.
+Eu nunca tive vergonha de revelar uma fantasia sexual.
+Eu nunca fiz sexo tântrico.
+Eu nunca imaginei meu/minha namorado/a com outra pessoa.
+Eu nunca imaginei nós os dois a fazer algo muito safado.
+Eu nunca usei um afrodisíaco.
+Eu nunca inventei uma desculpa esfarrapada para não fazer sexo.
+Eu nunca tive vontade de ir a uma casa de swing.
+Eu nunca usei vibrador enquanto estava com meu namorado.
+Eu nunca fiz algo constrangedor para agradar o meu/minha namorado/a.
+Eu nunca pratiquei pegging.
+Eu nunca desejei praticar pegging na minha relação.
+Eu nunca tive nojo de sémen.
+Eu nunca tive nojo de menstruação.
+Eu nunca pensei que eu fosse viciado/a em sexo.
+Eu nunca usei um estimulador de clítoris.
+Eu nunca recebi uma massagem erótica.
+Eu nunca passei à frente os preliminares.
+Eu nunca usei máscara na cama.
+Eu nunca testei uma posição sexual perigosa.
+Eu nunca pensei em outra pessoa enquanto me masturbava.
+Eu nunca pensei numa personagem fictícia enquanto me masturbava.
+Eu nunca tive vergonha de pedir alguma coisa na cama.
+Eu nunca desejei fazer sexo anal.
+Eu nunca dominei uma pessoa na cama.
+Eu nunca fui dominado/a por alguém na cama.
+Eu nunca recebi uma massagem tailandesa.
+Eu nunca fiz sexo num quarto iluminado à luz das velas.
+Eu nunca disse coisas perversas durante o sexo.
+Eu nunca fiz uma rapidinha.
+Eu nunca tive um orgasmo de verdade.
+Eu nunca fiz sexo fora de casa.
+Eu nunca fiquei com alguém 10 anos mais velho do que eu.
+Eu nunca fiquei excitado/a com algum cheiro.
+Eu nunca tive vergonha da minha cara enquanto tive o orgasmo.
+Eu nunca terminei com alguém porque a pessoa era má na cama.
+Eu nunca fiz sexo enquanto estava bêbado/a.
+Eu nunca fiz garganta profunda.
+Eu nunca fiz sexo na água.
+Eu nunca me excitei com a voz de alguém.
+Eu nunca senti dor durante a penetração.
+Eu nunca tentei apimentar a relação.
+Eu nunca entendi a diferença entre amor e paixão.
+Eu nunca fiz um anal giratório.
+Eu nunca recebi uma massagem yoni.
+Eu nunca tive um orgasmo mental.
+Eu nunca usei uma cadeira erótica.
+Eu nunca me masturbei na frente de alguém.
+Eu nunca tive uma caibra durante o ato sexual.
+Eu nunca fui a uma praia de nudismo.
+Eu nunca me masturbei no chuveiro.
+Eu nunca provoquei de forma sedutora uma pessoa.
+Eu nunca fiz exercícios de Kegel.
+Eu nunca vesti algo só para seduzir alguém.
+Eu nunca estive na friend zone de alguém.
+Eu nunca fiz bondage.
+Eu nunca fiz sexo na balada.
+Eu nunca fiquei excitado/a só com um beijo.
+Eu nunca dei um presente erótico.
+Eu nunca tentei controlar um orgasmo.
+Eu nunca me considerei bom/boa de cama.
+Eu nunca encontrei o meu ponto G.
+Eu nunca fiz fotos eróticas.

@@ -38,7 +38,7 @@ if (categoria in frasesPorCategoria) {
         return frasesDaCategoria[indice];
         } else if (categoria === 'all') {
         // Se a categoria selecionada for "Todas", exclui categoria da seleção aleatória
-        const categoriasExcluidas = ['picante', ''];
+        const categoriasExcluidas = ['picante', 'nuncapicante', 'temas', ''];
 const categorias = Object.keys(frasesPorCategoria).filter(cat => !categoriasExcluidas.includes(cat));
         const categoriaAleatoria = categorias[Math.floor(Math.random() * categorias.length)];
         const frasesAleatorias = frasesPorCategoria[categoriaAleatoria];

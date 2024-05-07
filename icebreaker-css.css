@@ -19,9 +19,9 @@ and open the template in the editor.
 
 body {
     font-family: "Raleway", sans-serif;/*Arial, sans-serif;*/
-    display: flex; /* Usa flexbox para centralizar a imagem */
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center; /* Centraliza verticalmente */
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
     height: 100vh;
     margin: 0;
     background-color: #F3A3BE;
@@ -41,37 +41,36 @@ body {
     margin-left: 15px;
 }
 
+
 .boxes {
     width: 360px;
     height: 640px;
 }
 
 #box1{
-    max-width: 100%; /* Limita a largura da imagem ao tamanho máximo da div */
-    max-height: 100%; /* Limita a altura da imagem ao tamanho máximo da div */
+    max-width: 100%; 
+    max-height: 100%; 
 }
 
 #boxazul{
-    position: absolute; /* Permite posicionar o texto em relação à div */
-    max-width: 100%; /* Limita a largura da imagem ao tamanho máximo da div */
-    max-height: 100%; /* Limita a altura da imagem ao tamanho máximo da div */
+    position: absolute; 
+    max-width: 100%; 
+    max-height: 100%; 
     margin-top: 20px;
-    /*min-width: 430px; /* Largura mínima */
-    /*min-height: 854px; /* Altura mínima */
 }
 
 .textointro{
-    position: relative; /* Para que o texto fique posicionado relativo à div */
+    position: relative; 
     top: 75px;
-    left: 60px; /* Distância do texto à esquerda da div */
+    left: 60px; 
     width: 300px;
-    padding: 20px; /* Espaçamento interno do texto */
+    padding: 20px; 
     text-align:left;
     color: white;
 }
 
 #intro {
-    font-size:23px; /* Tamanho da fonte do texto */
+    font-size:23px; 
     font-weight: 600;
 }
 
@@ -81,18 +80,18 @@ body {
 }
 
 #box3{
-    position: absolute; /* Posicionamento absoluto em relação à div pai */
-    top: 58%; /* Distância da esquerda da div pai */
+    position: absolute; 
+    top: 58%; 
     left: 47%;
     transform: translate(-50%, -50%);
     width: 300px;
     height: 450px;
-    background-color: white; /* Cor de fundo da div branca */
+    background-color: white; 
 }
 
 #boxbranca {
-    max-width: 100%; /* Limita a largura da imagem ao tamanho máximo da div */
-    max-height: 100%; /* Limita a altura da imagem ao tamanho máximo da div */
+    max-width: 100%; 
+    max-height: 100%; 
 }
 
 /* Estilizando a carta */
@@ -108,11 +107,12 @@ hr {
 }
 
 #categorySelect {
-    width: 100%; /* Largura máxima da div interna */
+    width: 100%; 
     background-color: white;
     padding: 15px;
     font-size: 16px;
     font-weight: 600;
+    /*border: 2px dashed #0075F5; /*none;#0075F5 largura, estilo e cor da borda */
     border: none;
     cursor: pointer;
 
@@ -123,45 +123,42 @@ hr {
     position: absolute;
     bottom: 0;
     left: 50%;
-    width: 200px; /* Largura do botão */
+    width: 200px; 
     height: 50px;
     transform: translateX(-50%);
-    margin-bottom: 25px; /* Espaço adicional entre o botão e o fundo da div */
+    margin-bottom: 25px; 
     background-color: black;
     color: white;
     font-size: 16px;
     font-weight: 600;
-    padding: 10px 20px;/* Adiciona espaço interno ao botão */
-    border: none; /* Remove a borda */
-    /*border-radius: 5px; /* Adiciona bordas arredondadas */
-    cursor: pointer;/* Muda o cursor para indicar interatividade */
+    padding: 10px 20px;
+    border: none; 
 }
 #generateButton:hover {
     background-color: #0075F5;
 }
 
 #box2{
-    position: absolute; /* Posicionamento absoluto em relação à div pai */
-    top: 45px; /* Ajuste de posição para a imagem ultrapassar a div pai */
-    left: -70px; /* Ajuste de posição para a imagem ultrapassar a div pai */
+    position: absolute;
+    top: 45px; 
+    left: -70px; 
 }
 
 #boxverde{
-    width: 450px; /* Largura maior que a da div pai para a imagem ultrapassar */
-    height: 430px; /* Altura maior que a da div pai para a imagem ultrapassar */
+    width: 450px; 
+    height: 430px; 
 }
 
 p#randomPhrase {
     position: absolute;
     width: 300px;
     text-align: center;
-    /*margin-top: 10px; /* Adiciona margem no topo */
     top: 33%;
     left: 60%;
     transform: translate(-70%, -50%);
-    font-size: 30px; /* Tamanho da fonte */
+    font-size: 30px;
     font-weight: 600;
-    color: #fff; /* Cor do texto */
+    color: #fff; 
 }
 
 

@@ -27,26 +27,26 @@ const request = new XMLHttpRequest();
         }
         };
         request.send();
-}
+        }
 
 // Função para gerar uma frase aleatória de uma categoria específica
 function gerarFrasePorCategoria(categoria, frasesPorCategoria) {
 if (categoria in frasesPorCategoria) {
- // Se a categoria existir, escolhe uma frase aleatória dessa categoria
-        const frasesDaCategoria = frasesPorCategoria[categoria];
+// Se a categoria existir, escolhe uma frase aleatória dessa categoria
+const frasesDaCategoria = frasesPorCategoria[categoria];
         const indice = Math.floor(Math.random() * frasesDaCategoria.length);
         return frasesDaCategoria[indice];
-        } else if (categoria === 'all') {
-        // Se a categoria selecionada for "Todas", exclui categoria da seleção aleatória
-        const categoriasExcluidas = ['picante', 'nuncapicante', 'temas', ''];
-const categorias = Object.keys(frasesPorCategoria).filter(cat => !categoriasExcluidas.includes(cat));
+} else if (categoria === 'all') {
+// Se a categoria selecionada for "Todas", exclui categoria da seleção aleatória
+const categoriasExcluidas = ['picante', 'nuncapicante', 'temas', ''];
+        const categorias = Object.keys(frasesPorCategoria).filter(cat = > !categoriasExcluidas.includes(cat));
         const categoriaAleatoria = categorias[Math.floor(Math.random() * categorias.length)];
         const frasesAleatorias = frasesPorCategoria[categoriaAleatoria];
         const indice = Math.floor(Math.random() * frasesAleatorias.length);
         return frasesAleatorias[indice];
-        } else {
+} else {
 return "Categoria não encontrada.";
-        }
+}
 }
 
 // Função para atualizar o texto da frase
@@ -57,10 +57,28 @@ const categoriaSelecionada = document.getElementById('categorySelect').value;
         carregarFrasesDoArquivo('perguntas.txt', function(frasesPorCategoria) {
         fraseElement.textContent = gerarFrasePorCategoria(categoriaSelecionada, frasesPorCategoria);
         });
-}
+        }
 
 // Event listener para o botão
 const button = document.getElementById('generateButton');
         button.addEventListener('click', atualizarFrase);
 // Chama a função inicialmente para exibir uma frase aleatória ao carregar a página atualizarFrase();
+//
+
+
+//BOTÃO POP UP
+// Obtém o modal
+        var modalSobre = document.getElementById("modalSobre");
+// Obtém o botão que abre o modal
+        var btnSobre = document.getElementById("btnSobre");
+// Quando o usuário clica no botão, abre o modal
+        btnSobre.onclick = function() {
+        modalSobre.style.display = "block";
+                }
+
+// Função para fechar o modal
+function fecharModal() {
+modalSobre.style.display = "none";
+        }
+//
 //

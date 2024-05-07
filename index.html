@@ -4,38 +4,73 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Ice Breaker</title>
-        <link rel="stylesheet" href="icebreaker-css.css">
+        <link rel="stylesheet" href="icebreaker-CSS.css">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     </head>
+   
     <body>
+        <div class="container"
+             <div class="boxes">
+                <h1 id="titulo">IceBreaker</h1>
 
-        <div class="container">
-            <h1>ICE BREAKER</h1>
-            <p id="intro">Partilhe e crie ligações impactantes.</p>
-            <div class="card">
-                <select id="categorySelect">
-                    <option value="all">Geral</option>
-                    <option value="reflexao">Reflexão</option>
-                    <option value="conhecer">Conhecer</option>
-                    <option value="amizade">Amizade</option>
-                    <option value="romantico">Romântico</option>
-                    <option value="namoro">Namoro</option>
-                    <option value="picante">Picante (+18)</option>
-                    <option value="desafio">Desafio</option>
-                    <option value="animado">Animado</option>
-                    <option value="sou">Como sou</option>
-                    <option value="completar">Complete a frase</option>
-                    <option value="hipotetico">Hipoteticamente</option>
-                    <option value="temas">Temas (polémico)</option>
-                    <option value="prefere">O que prefere</option>
-                    <option value="emprego">Emprego</option>
-                    <option value="nunca">Eu nunca</option>
-                    <option value="nuncapicante">Eu nunca (+18)</option>
-                </select>
-                <p id="randomPhrase">O que é que?</p>
+                <div id="box1">
+                    <img id="boxazul" src="images/box1.png" alt="">
+                    <div class="textointro">
+                        <p id="intro">Partilhe e crie ligações impactantes.</p>
+                        <p id="instr">Selecione o tema e clique no botão para uma questão aleatória.</p>
+                    </div><!--FIM div textointro-->
+                </div><!--FIM div box1-->
 
-            </div><!--FIM div card-->
-            <button id="generateButton">Gerar Questão</button>
-            <p id="instr">Selecione o tema e clique no botão para uma questão aleatória.</p>
+                <div id="box3">
+                    <div class="boxbranca">
+                        <div class="card">
+                            <!--<button>CATEGORIA</button>-->
+                            <select id="categorySelect">
+                                <option value="all">Geral</option>
+                                <option value="reflexao">Reflexão</option>
+                                <option value="conhecer">Conhecer</option>
+                                <option value="amizade">Amizade</option>
+                                <option value="romantico">Romântico</option>
+                                <option value="namoro">Namoro</option>
+                                <option value="picante">Picante (+18)</option>
+                                <option value="desafio">Desafio</option>
+                                <option value="animado">Animado</option>
+                                <option value="sou">Como sou</option>
+                                <option value="completar">Complete a frase</option>
+                                <option value="hipotetico">Hipoteticamente</option>
+                                <option value="temas">Temas (polémico)</option>
+                                <option value="prefere">O que prefere</option>
+                                <option value="emprego">Emprego</option>
+                                <option value="nunca">Eu nunca</option>
+                                <option value="nuncapicante">Eu nunca (+18)</option>
+                            </select>
+                            <hr></hr>
+                        </div><!--FIM div card-->
+                    </div><!--FIM div boxbranca-->
+
+                    <div id="box2">
+                        <img id="boxverde" src="images/box2-lin.png" alt="">
+                        <p id="randomPhrase">" O que é que? "</p>
+                    </div><!--FIM div box2-->
+
+                    <!--<hr id="linha2"></hr>-->
+                    <button id="generateButton">GERAR QUESTÃO</button>
+                </div><!--FIM div box3-->
+
+                <span id="btnSobre" class="botaoTexto">SOBRE</span>
+                <!-- Modal de Sobre -->
+                <div id="modalSobre" class="modal">
+                    <div class="modal-content">
+                        <span class="fechar" onclick="fecharModal()">&times;</span>
+                        <h2>Sobre esta página</h2>
+                        <p>Insira aqui as informações sobre a página.</p>
+                    </div>
+                </div>
+
+            </div><!--FIM div boxes-->
         </div><!--FIM div container-->
 
         <script src="icebreaker-js.js"></script>

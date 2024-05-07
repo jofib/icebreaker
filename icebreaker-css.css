@@ -17,6 +17,153 @@ and open the template in the editor.
     font-style: normal;
 }
 
+body {
+    font-family: "Raleway", sans-serif;/*Arial, sans-serif;*/
+    display: flex; /* Usa flexbox para centralizar a imagem */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh;
+    margin: 0;
+    background-color: #F3A3BE;
+}
+
+.container {
+    position: relative;
+    width: 480px; /*360px*/
+    height: 854px; /*640px*/
+}
+
+#titulo {
+    position: absolute;
+    text-align: left;
+    font-size: 30px;
+    color:#fff;
+    margin-left: 15px;
+}
+
+.boxes {
+    width: 360px;
+    height: 640px;
+}
+
+#box1{
+    max-width: 100%; /* Limita a largura da imagem ao tamanho máximo da div */
+    max-height: 100%; /* Limita a altura da imagem ao tamanho máximo da div */
+}
+
+#boxazul{
+    position: absolute; /* Permite posicionar o texto em relação à div */
+    max-width: 100%; /* Limita a largura da imagem ao tamanho máximo da div */
+    max-height: 100%; /* Limita a altura da imagem ao tamanho máximo da div */
+    margin-top: 20px;
+    /*min-width: 430px; /* Largura mínima */
+    /*min-height: 854px; /* Altura mínima */
+}
+
+.textointro{
+    position: relative; /* Para que o texto fique posicionado relativo à div */
+    top: 75px;
+    left: 60px; /* Distância do texto à esquerda da div */
+    width: 300px;
+    padding: 20px; /* Espaçamento interno do texto */
+    text-align:left;
+    color: white;
+}
+
+#intro {
+    font-size:23px; /* Tamanho da fonte do texto */
+    font-weight: 600;
+}
+
+#instr {
+    font-size:16px;
+    font-style: italic;
+}
+
+#box3{
+    position: absolute; /* Posicionamento absoluto em relação à div pai */
+    top: 58%; /* Distância da esquerda da div pai */
+    left: 47%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 450px;
+    background-color: white; /* Cor de fundo da div branca */
+}
+
+#boxbranca {
+    max-width: 100%; /* Limita a largura da imagem ao tamanho máximo da div */
+    max-height: 100%; /* Limita a altura da imagem ao tamanho máximo da div */
+}
+
+/* Estilizando a carta */
+.card {
+    border: none;
+}
+
+hr {
+    border: 3px solid #0075F5; /* largura, estilo e cor da borda */
+    /*border-top: 2px dashed #000; /* Define a linha traçada */
+    /*border-bottom: 2px dashed #0075F5; /* Adiciona uma linha traçada adicional na parte inferior */
+    margin: 0 0; /* Adiciona margem acima e abaixo da linha */
+}
+
+#categorySelect {
+    width: 100%; /* Largura máxima da div interna */
+    background-color: white;
+    padding: 15px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+
+    box-shadow: none;
+}
+
+#generateButton {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 200px; /* Largura do botão */
+    height: 50px;
+    transform: translateX(-50%);
+    margin-bottom: 25px; /* Espaço adicional entre o botão e o fundo da div */
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 20px;/* Adiciona espaço interno ao botão */
+    border: none; /* Remove a borda */
+    /*border-radius: 5px; /* Adiciona bordas arredondadas */
+    cursor: pointer;/* Muda o cursor para indicar interatividade */
+}
+#generateButton:hover {
+    background-color: #0075F5;
+}
+
+#box2{
+    position: absolute; /* Posicionamento absoluto em relação à div pai */
+    top: 45px; /* Ajuste de posição para a imagem ultrapassar a div pai */
+    left: -70px; /* Ajuste de posição para a imagem ultrapassar a div pai */
+}
+
+#boxverde{
+    width: 450px; /* Largura maior que a da div pai para a imagem ultrapassar */
+    height: 430px; /* Altura maior que a da div pai para a imagem ultrapassar */
+}
+
+p#randomPhrase {
+    position: absolute;
+    width: 300px;
+    text-align: center;
+    /*margin-top: 10px; /* Adiciona margem no topo */
+    top: 33%;
+    left: 60%;
+    transform: translate(-70%, -50%);
+    font-size: 30px; /* Tamanho da fonte */
+    font-weight: 600;
+    color: #fff; /* Cor do texto */
+}
+
 /* Para telas menores que 768px */
 @media (max-width: 768px) {
     body {
@@ -145,164 +292,6 @@ and open the template in the editor.
     }
 }
 
-/* Restante do seu CSS */
-/* <uniquifier>: Use a unique and descriptive class name*/
-/* <weight>: Use a value from 100 to 900 */
-.raleway-<uniquifier> {
-    font-family: "Raleway", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-}
-
-body {
-    font-family: "Raleway", sans-serif;/*Arial, sans-serif;*/
-    display: flex; /* Usa flexbox para centralizar a imagem */
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center; /* Centraliza verticalmente */
-    height: 100vh;
-    margin: 0;
-    background-color: #F3A3BE;
-}
-
-.container {
-    position: relative;
-    width: 480px; /*360px*/
-    height: 854px; /*640px*/
-}
-
-#titulo {
-    position: absolute;
-    text-align: left;
-    font-size: 30px;
-    color:#fff;
-    margin-left: 15px;
-}
-
-
-.boxes {
-    width: 360px;
-    height: 640px;
-}
-
-#box1{
-    max-width: 100%; /* Limita a largura da imagem ao tamanho máximo da div */
-    max-height: 100%; /* Limita a altura da imagem ao tamanho máximo da div */
-}
-
-#boxazul{
-    position: absolute; /* Permite posicionar o texto em relação à div */
-    max-width: 100%; /* Limita a largura da imagem ao tamanho máximo da div */
-    max-height: 100%; /* Limita a altura da imagem ao tamanho máximo da div */
-    margin-top: 20px;
-    /*min-width: 430px; /* Largura mínima */
-    /*min-height: 854px; /* Altura mínima */
-}
-
-.textointro{
-    position: relative; /* Para que o texto fique posicionado relativo à div */
-    top: 75px;
-    left: 60px; /* Distância do texto à esquerda da div */
-    width: 300px;
-    padding: 20px; /* Espaçamento interno do texto */
-    text-align:left;
-    color: white;
-}
-
-#intro {
-    font-size:23px; /* Tamanho da fonte do texto */
-    font-weight: 600;
-}
-
-#instr {
-    font-size:16px;
-    font-style: italic;
-}
-
-#box3{
-    position: absolute; /* Posicionamento absoluto em relação à div pai */
-    top: 58%; /* Distância da esquerda da div pai */
-    left: 47%;
-    transform: translate(-50%, -50%);
-    width: 300px;
-    height: 450px;
-    background-color: white; /* Cor de fundo da div branca */
-}
-
-#boxbranca {
-    max-width: 100%; /* Limita a largura da imagem ao tamanho máximo da div */
-    max-height: 100%; /* Limita a altura da imagem ao tamanho máximo da div */
-}
-
-/* Estilizando a carta */
-.card {
-    border: none;
-}
-
-hr {
-    border: 3px solid #0075F5; /* largura, estilo e cor da borda */
-    /*border-top: 2px dashed #000; /* Define a linha traçada */
-    /*border-bottom: 2px dashed #0075F5; /* Adiciona uma linha traçada adicional na parte inferior */
-    margin: 0 0; /* Adiciona margem acima e abaixo da linha */
-}
-
-#categorySelect {
-    width: 100%; /* Largura máxima da div interna */
-    background-color: white;
-    padding: 15px;
-    font-size: 16px;
-    font-weight: 600;
-    border: none;
-    cursor: pointer;
-
-    box-shadow: none;
-}
-
-#generateButton {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    width: 200px; /* Largura do botão */
-    height: 50px;
-    transform: translateX(-50%);
-    margin-bottom: 25px; /* Espaço adicional entre o botão e o fundo da div */
-    background-color: black;
-    color: white;
-    font-size: 16px;
-    font-weight: 600;
-    padding: 10px 20px;/* Adiciona espaço interno ao botão */
-    border: none; /* Remove a borda */
-    /*border-radius: 5px; /* Adiciona bordas arredondadas */
-    cursor: pointer;/* Muda o cursor para indicar interatividade */
-}
-#generateButton:hover {
-    background-color: #0075F5;
-}
-
-#box2{
-    position: absolute; /* Posicionamento absoluto em relação à div pai */
-    top: 45px; /* Ajuste de posição para a imagem ultrapassar a div pai */
-    left: -70px; /* Ajuste de posição para a imagem ultrapassar a div pai */
-}
-
-#boxverde{
-    width: 450px; /* Largura maior que a da div pai para a imagem ultrapassar */
-    height: 430px; /* Altura maior que a da div pai para a imagem ultrapassar */
-}
-
-p#randomPhrase {
-    position: absolute;
-    width: 300px;
-    text-align: center;
-    /*margin-top: 10px; /* Adiciona margem no topo */
-    top: 33%;
-    left: 60%;
-    transform: translate(-70%, -50%);
-    font-size: 30px; /* Tamanho da fonte */
-    font-weight: 600;
-    color: #fff; /* Cor do texto */
-}
-
 
 /*BOTÃO POP UP*/
 /* Estilos para o modal */
@@ -312,7 +301,7 @@ p#randomPhrase {
     z-index: 1;
     left: 0;
     top: 0;
-    width: 480px; /*100%;*/
+    width: 300px; /*100%;*/
     height: 100%;
     overflow: auto;
     background-color: rgba(0,0,0,0.5); /* Cor de fundo semi-transparente */

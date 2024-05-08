@@ -282,11 +282,9 @@ p#randomPhrase {
         margin: 20px auto;
         padding: 10px 30px;
         font-size: 16px;*/
-            position: absolute;
     width: 300px;
     text-align: center;
     top: 33%;
-    left: 90%;
     transform: translate(-70%, -50%);
     } 
 

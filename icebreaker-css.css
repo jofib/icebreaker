@@ -160,7 +160,7 @@ p#randomPhrase {
     width: 300px;
     text-align: center;
     top: 33%;
-    left: 60%;
+    left: 90%; /*60*/
     transform: translate(-70%, -50%);
     font-size: 30px;
     font-weight: 600;

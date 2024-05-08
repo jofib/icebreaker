@@ -223,3 +223,64 @@ p#randomPhrase {
     /*background-color: #0056b3; #009C6C*/
     color: black;
 }
+
+
+/* Para telas menores que 768px */
+@media (max-width: 768px) {
+    body {
+        background-color: #F3A3BE;
+        display: block;
+        height: auto;
+    }
+
+    .container {
+        width: 90%;
+        max-width: 480px;
+        margin: 0 auto;
+    }
+
+    .boxes {
+        width: 100%;
+        height: auto;
+    }
+
+    .textointro {
+        width: 100%;
+        padding: 20px;
+        text-align: left;
+    }
+
+    #intro {
+        font-size: 18px;
+    }
+
+    #instr {
+        font-size: 14px;
+    }
+
+    #box3 {
+        top: 30%; /*auto;*/
+        left: 47%;
+        transform: translateX(-50%);
+        /*width: 90%;*/
+        height: 450px; /*auto;*/
+    }
+
+    p#randomPhrase {
+        width: 300px;/*80%;*/
+        text-align: center;
+        top: 33%; /*50%*/
+        left: 60%; /*50%*/
+        transform: translate(-70%, -50%);
+        font-size: 28px; /*30*/
+    }
+
+    /*.botaoTexto {
+        position: relative;
+        bottom: auto;
+        right: auto;
+        margin: 20px auto;
+        padding: 10px 30px;
+        font-size: 16px;
+    }*/
+}

@@ -78,6 +78,8 @@ Sinto que sou um/a bom/boa cuidador/a?
 Sinto que me preocupo facilmente com o outro?
 Sinto que sou curioso/a?
 Sinto que sou uma inspiração?
+Sinto que sou uma pessoa frágil?
+Sinto que sou uma pessoa forte?
 Sinto que tenho pouco autocontrolo?
 Geralmente sinto-me frustrado?
 O eu que mudaria em mim?
@@ -87,6 +89,7 @@ Como lido com a falta de responsabilidade emocional do outro?
 Como lido com a imaturidade do outro?
 O quanto ainda preciso de amadurecer?
 O quanto a terapia é importante para mim?
+
 
 conhecer
 Se te encontrasse em outro contexto, iria ver uma pessoa diferente?
@@ -99,40 +102,31 @@ Diz-me dois defeitos sobre ti?
 Se pudesses, mudarias alguma coisa na sua vida?
 Em que momento da vida te sentiste mais frágil?
 O que te faz sentir forte?
+O que te faz sentir fraco, vulnerável?
 Quais são os teus maiores medos?
 Qual é a tua melhor lembrança de infância?
 Como descreverias a tua família?
-Quem é a pessoa que te conhece melhor?
-Qual a maior loucura que já fizeste?
 Acreditas em almas gémeas?
 Em qual década gostarias de ter vivido?
 Qual é a tua primeira lembrança de infância?
 Qual é a tua palavra preferida?
 Fumas e/ou bebes? Com que frequência?
 Tens algum vicio? Qual ou quais?
-Como imaginas que os teus amigos/as te descreveriam?
-Qual é o teu dia da semana preferido?
 Com o que é que não sais de casa sem?
-Diga algo que faz, mas que não gosta de fazer?
+Diz algo que fazes, mas que não gostas de fazer?
 Terias coragem de te mudar sozinho/a para outro país?
 Como acreditas que inspiras outras pessoas?
 O que mais sentes falta da infância?
 Qual foi a melhor época da tua vida?
 Quantos países já visitaste?
 Já plantaste uma árvore?
-Já deixaste morrer uma planta?
 Tens ou já tiveste animais de estimação? Quais e quantos?
-Costumas acordar a meio da noite?
-Fazes ou já fizeste terapia?
 O que te dá mais alegrias no momento?
 Qual é o emprego dos teus sonhos?
 O que te fez sorrir hoje?
 Qual o teu género de música favorito?
 Qual qualidade mais admiras nos teus pais?
 Consideras-te um bom ouvinte?
-O que pensas sobre a politica?
-O que pensas sobre religião?
-O que pensas sobre a fé e crença?
 Que hábito estranho tens?
 Que talento gostarias de ter?
 Qual é o teu destino de viagem de sonho?
@@ -144,8 +138,8 @@ Qual foi o teu primeiro destino de viagem (ou o primeiro de que te lembres de vi
 O que mais gostas de fazer na tua cidade?
 Se precisasse de mudar de país, qual escolherias para viver?
 Quais são as tuas principais metas na vida?
-Define o teu dia em apenas uma palavra?
-É mais fácil perdoar ou ser perdoado?
+É mais fácil perdoar ou esquecer?
+Quando te magoam, o que sentes e como ages?
 Que tipo de assuntos gostas de debater/conversar?
 Já te sentiste sozinho/a mesmo estando rodeado pela multidão?
 Quais são os teus artistas e músicas favoritas?
@@ -154,20 +148,12 @@ Com quem crescente? E onde?
 Tens saudades da infância?
 Qual foi a idade em que foste mais feliz?
 O que estás a achar desta conversa/jogo?
-Neste momento, sentes-te confortável?
-Sentes que és o protagonista da tua vida? Se não, quem é?
 Que caraterística gostavas de ter?
-Como te caracterizas?
 Qual o teu tipo de personalidade?
 Sentes-te à vontade a falar comigo? O que eu precisaria de fazer para ficares mais à vontade?
 O que mais valorizas em uma pessoa? E o que menos aprecias?
-Sentes-te realizado/a a nível profissional?
-Qual foi o teu primeiro trabalho?
 Qual o documentário mais interessante que já assististe?
 Quais as áreas de conhecimento/temas que mais te interessam ler ou falar?
-Define o teu gosto musical em três palavras.
-Define o teu gosto por filmes em três palavras.
-Define o teu gosto literário em três palavras.
 Qual é a tua leitura atual? E qual é o teu livro favorito?
 Qual é o teu programa de TV favorito?
 Qual é o teu filme favorito?
@@ -181,47 +167,109 @@ Qual o teu desenho animado favorito?
 Qual é o teu estilo musical favorito?
 Qual a tua música favorita?
 Qual é a tua frase favorita de um filme?
-Com que tipo de som adormeces?
 Já te emocionaste a ver um filme ou série de TV? Qual?
 Diz qual a série de TV que te revoltou por ter sido cancelada?
 Diz uma série ou filme que, na tua opinião, merecia ter continuação.
-Que assuntos te tiram do sério?
-Conta-me sobre uma experiência de via que te marcou?
+Conta-me sobre uma experiência de vida que te marcou?
 O que te faz ser mais grato/a pela tua vida?
 Como foi vivenciar a quarentena (covid)?
+Com que frequência bebes água?
+Com que frequência fazes caminhadas?
+Quem foi (ou é) a tua maior inspiração na vida?
+Que figuras influenciadoras segues? Porquê?
+Existe algum conselho recebido dos teus pais ou avós que desejasses transmitir? Qual?
+Achas que sou um/a bom/boa ouvinte? Porquê?
+O que te traz mais orgulho para a tua vida?
+O que te tira do sério? 
+Qual o som da natureza que mais aprecias?
+És preconceituoso/a com o quê?
+
+conhecer, amizade
+Quem é a pessoa que te conhece melhor?
+Qual a maior loucura que já fizeste?
+Como imaginas que os teus amigos/as te descreveriam?
+Já deixaste morrer uma planta?
+Qual é o teu dia da semana preferido?
+Sentes que és o protagonista da tua vida? Se não, quem é?
+Como te caracterizas?
+Define o teu gosto musical em três palavras.
+Define o teu gosto por filmes em três palavras.
+Define o teu gosto literário em três palavras.
+Qual é a tua maior fobia?
+Quais as maiores mudanças de vida que já passaste?
+Consideras-te uma pessoa explosiva?
+Já agrediste alguém? Quando e porquê?
+Já participaste numa luta de rua ou de escola?
+Uma data importante para ti? Porquê?
+Quais os principais acontecimentos da tua vida que te fizeram ser quem és hoje?
+Uma frase que te defina.
+Qual o teu lema de via?
+O que farias de diferente se soubesse que ninguém te julgaria?
+
+conhecer, romantico
+Costumas acordar a meio da noite?
+Fazes ou já fizeste terapia?
+Define o teu dia em apenas uma palavra?
+Neste momento, sentes-te confortável?
+Qual foi o teu primeiro emprego?
+Com que tipo de som adormeces?
+Que assuntos te tiram do sério?
 És poupado ou custa resistir no momento?
-O que acha das pessoas que têm vícios dispendiosos?
+O que achas das pessoas que têm vícios dispendiosos?
 Costumas sentir raiva ou frustração?
 Qual é o teu nível de autocontrolo?
 Consideras-te uma pessoa vingativa?
 Consideras-te uma pessoa calma?
 Qual é a tua rotina matinal?
 Tens irmãos? Quem é mais velho ou mais novo?
-Com que frequência bebes água?
-Com que frequência fazes caminhadas?
 Praticavas algum desporto na infância? Praticas atualmente?
 Tocas algum instrumento musical? Qual?
 Qual é o teu emprego de sonho?
-Fala algum outro idioma? Qual ou quais?
-Quem foi (ou é) a tua maior inspiração na vida?
-Que figuras influenciadoras segues? Porquê?
+Falas algum outro idioma? Qual ou quais?
 Existe alguma tradição familiar que gostarias de transmitir aos teus filhos? Qual?
 Que tradições familiares tens?
-Existe algum conselho recebido dos seus pais ou avós desejasses transmitir? Qual?
-Qual é a tua maior fobia?
 Qual a característica de personalidade que mais gostarias de ter e não tens?
-O que te traz mais orgulho para a tua vida?
-O que te tira do sério? 
-Quais as maiores mudanças de vida que já passaste?
-Consideras-te uma pessoa explosiva?
-Já agrediste alguém? Quando e porquê?
-Já participaste numa luta de rua ou de escola?
-Tens facilidade em assumir os erros e pedir desculpa?
+Fala-me dos teus amigos. 
+Fala-me da tua família.
+Fala-me dos teus animais de estimação.
+Fala-me dos teus objetivos.
+Fala-me do teu trabalho.
+Conta-me sobre os teus sonhos.
+Conta-me sobre uma situação caricata que vivenciaste.
+Conta-me uma piada.
+O que mais valorizas numa pessoa?
+Se pudesses me descrever em 3 palavras, quais seriam?
+Há algum filme que faz com que te lembres de mim ou da relação que temos?
+Se eu fosse uma cor, qual seria?
+Como me descreverias em uma palavra?
+Quando te chateias, como costumas agir? Levantas a voz?
+Farias alguma atividade radical comigo?
+O que achas de pessoas que mentem/traem? 
+Consideras que tens vícios? Quais?
+Tens ou querias ter algum animal de estimação?
+Como é a tua relação com os teus pais/família?
+Segue algum conselho passado pelos teus pais/cuidadores?
+Segues alguma religião? Qual?
+Qual a tua filosofia de vida?
+Como te acalmas quando ficas com raiva de algo?
+Qual foi a decisão mais importante que já tomaste?
+Qual a tua característica de personalidade mais marcante?
+Gostas de cozinhar? Qual o teu prato favorito de fazer?
+Qual a tua comida favorita? E o que menos aprecias?
+Consideras-te reservado? Guardas muito para ti mesmo numa relação?
+Para ti, os papeis de género são importantes? Ou sentes-te confortável com a tua masculinidade e feminidade, independentemente do teu género?
+Qual a tua opinião sobre tatuagens? Tens alguma? Onde?
+Como te sentes em relação a berros/gritos?
+Como lidas com o stress (teu e/ou do outro)?
+
+conhecer, temas
+O que pensas sobre a politica?
+O que pensas sobre religião?
+O que pensas sobre a fé e crença?
 
 amizade
 Tens saudades de alguém?
 Como preferes que te ajudem quando estás chateado/a?
-Preferes acordar em silêncio ou com animação?
 Qual foi o melhor presente que já recebeste?
 Quais são as três coisas que mais te irritam na vida?
 Qual é o teu podcast preferido?
@@ -234,7 +282,6 @@ Qual o emoji que mais tens usado atualmente?
 Como descreverias as tuas férias perfeitas?
 Nos filmes, torces pelo bom ou pelo vilão?
 A quem confiarias o teu mais oculto segredo?
-Quanto tempo demoras a tomar banho?
 Algum amigo já te envergonhou publicamente? Como?
 Se te pudesses mudar para qualquer lugar do mundo, para onde irias?
 As redes sociais afetam-te de forma positiva ou negativa?
@@ -242,16 +289,17 @@ Quem convidarias para jantar, vivos ou mortos?
 Qual a tua cor favorita? E porquê?
 Qual o teu estilo de roupa favorito?
 Praticas algum desporto? Qual o teu desporto favorito?
-Se pudesse decorar a tua casa com qualquer tema, qual seria?
 Qual foi a idade mais divertida?
 Lembraste em que mês/ano nos conhecemos? O que achaste de mim na altura?
 O que as pessoas costumam dizer sobre ti?
-Qual a ideia que as pessoas geralmente têm sobre ti, que não é correta?
+Com o que costumas sonhar quando dormes?
+Costumas “dormir acordado”?
+O que te trás paz de espirito?
+Atualmente, sentes que tens a consciência leve ou pesada?
 Qual o brinquedo que sonhavas ter na infância, mas nunca tiveste?
 Até que idade acreditaste no Pai Natal e/ou no Coelhinho da Páscoa?
 Quando foi a última vez que escreveste num diário?
 Qual das ações dos teus pais te causou mais constrangimento?
-Gostas de ver desenhos animados?
 Para ti, qual a piada que nunca perde a graça?
 O que gostavas de receber de presente no teu aniversário?
 Como seria a tua festa de aniversário ideal?
@@ -262,7 +310,8 @@ Qual é a tua melhor lembrança dos tempos da escola?
 Qual era o teu desenho animado favorito na infância? E o personagem favorito e por quê?
 Tinhas algum amigo imaginário na infância? Como era? 
 Quais eram as tuas matérias favoritas na escola? Porquê?
-Quando eras mais jovem, o que queria ser na idade adulta?
+Quando eras criança, o que queria ser na idade adulta?
+Consideras-te ainda uma criança no teu interior? Ou és uma alma velha?
 Qual foi o primeiro filme que assististe no cinema?
 Qual foi a coisa mais maluca que já ouviste alguém dizer?
 Qual foi a coisa mais impressionante que já viste alguém fazer?
@@ -276,26 +325,13 @@ Qual foi a pior coisa que ouviste de um amigo?
 Qual foi o melhor show que já viste na vida?
 Qual foi a experiência mais incrível que já tiveste na vida?
 Qual foi a maior idiotice que já fizeste na vida?
-Que figura escolherias para ter como mentor?
-Qual é o teu lanche de escritório preferido?
-Se pudesses ter algum privilégio no trabalho, qual seria?
-Segues alguma tradição ou ritual específico no local de trabalho?
-Qual é a melhor maneira de relaxar depois de um longo dia de trabalho?
-Porque decidiste fazer o trabalho que fazes agora?
 Já te arrependeste de conhecer alguém?
 Já saíste do cinema antes do filme acabar?
 Já discutiste por causa de algum Reality Show?
 Já fingiste estar doente para não ter que fazer algo?
 Já ficaste com alguém em segredo?
 Já experimentaste comida de cão ou de gato?
-Já mandaste alguma indireta para o/a crush através das redes sociais?
-Já te sentiste traído por algum amigo/a teu/tua?
-Já tiveste sonhos românticos com algum amigo/a?
-Já fantasiaste ou tiveste um crush por um professor/a?
 Já imaginaste a nossa amizade a evoluir para algo mais?
-Já alguém se interessou por ti, mas a pessoa estava na tua friendzone?
-Já te interessaste por alguém, mas não foi correspondido?
-Já tentaste fazer algo que fosse ao encontro do/a teu/tua crush, para se encontrarem ou terem assunto em comum?
 Já foste apanhado em flagrante a fazer algo que não deverias?
 Já saíste de casa sem escovar os dentes?
 Já ficaste amigo/a de alguém com segundas intenções?
@@ -306,8 +342,7 @@ Já te vingaste num relacionamento?
 Já te depilaste com cera? Como foi a experiência?
 Já revelaste um segredo de um amigo?
 Já te afastaste de uma amizade próxima? Porquê?
-O que farias se ficasses invisível por 24h?
-O que farias se pudesses ser do sexo oposto por 24h?
+Já te relacionaste com o/a ex de um/a amigo/a?
 Que livro me recomendarias ler e porquê?
 Que filme me recomendarias ver e porquê?
 Recomenda-me uma série de TV para ver. Qual o porquê da escolha?
@@ -330,38 +365,29 @@ Conta-me 3 coisas que nunca fizeste, mas que tens vontade.
 Cita três coisas importantes que gostarias de fazer antes de morrer.
 Quando te pedem para guardar um segredo, tu consegues?
 Já roubaste algo na vida? O quê?
-Deixarias uma amizade por uma relação amorosa?
 Costumas te afastar dos amigos quando entras numa relação amorosa?
 O quão atraente te consideras, de 0 a 10?
-Se tivesses que ouvir só uma música para o resto da vida, qual escolherias?
 Algum amigo já te traiu de alguma forma?
 Qual sentes ser o amigo que melhor te conhece?
 Quem foi a pessoa que te deu o pior beijo de todos?
 Quem são os teus fixados no WhatsApp?
 O que gostas de fazer aos sábados?
-Uma mania tua que todos consideram estranha?
 O que gostarias de ver, mas tens vergonha de contar aos outros?
 Qual é a tua bebida favorita?
 Acreditas em extraterrestres?
 Preferes viajar sozinho ou com os amigos?
-Conseguias ficar 6 meses sem telemóvel em troca de te casares com o amor da tua vida?
-Se te pudesses relacionar com alguém famoso, quem seria?
 Quem é a pessoa que finges gostar, mas que se pudesse nunca mais a vias?
-Preferias ter o poder de voar ou de ficar invisível?
 Qual música me recomendarias ouvir para entender quem és?
 Com qual personagem fictícia mais te identificas?
 Que personagem fictícia te faço lembrar?
 Acredita em espíritos? Se sim, tens medo?
 Qual é a tua teoria da conspiração favorita?
 Achas que és ou que já foste popular?
-Uma data importante para ti? Porquê?
 Uma coisa que de que és fã e ninguém sabe?
 Gostaria de ser uma celebridade?
-Se fosses um/a ator/atriz famoso/a, qual ator/atriz gostarias de beijar?
 Qual seria o teu pedido extravagante caso fosses famoso?
 Qual o filme que mais assististe na vida?
 Qual o filme que mais te assustou?
-Se te pudesses teletransportar agora para outro lugar, onde gostarias de estar?
 Um vídeo que te faz rir muito quando vês?
 O que mais gostas de fazer em dias chuvosos?
 O que fazes quando ficas sozinho/a em casa?
@@ -369,7 +395,6 @@ Há alguém com quem sempre falavas e já não falas, porém, sentes saudades?
 Uma amizade que fazes questão de manter para sempre?
 Lugar mais bonito que já conheceste?
 Uma coisa que fazes e que achas que poucas pessoas o fazem?
-Num filme de terror, achas que serias o primeiro ou o último a morrer?
 Qual é a coisa mais importante que já aprendeste na vida?
 Uma qualidade e um defeito que acreditas ter?
 Uma coisa que te deixa envergonhado/a?
@@ -377,22 +402,16 @@ Uma situação que passaste e que até hoje te deixa constrangido/a?
 Qual o assunto que mais gosta de conversar com os amigos?
 Quais são os sites abertos no teu browser?
 Qual o sonho mais esquisito que já tiveste?
-Como seria a tua casa perfeita?
 O que mais aprendeste com os teus amigos?
-Qual o canal de TV que não existe, mas deveria?
 Coisas que achas que o dinheiro não compra?
 O que mais valorizas numa amizade?
 O que não aprecias que os teus amigos te façam?
 O que aprecias que os teus amigos te façam?
-Se tivesses que ficar numa ilha deserta com outra pessoa, com quem seria?
-Se pudesses levar apenas três coisas do teu quarto para uma ilha, o que seria?
-Se pudesses levar apenas três pessoas para uma ilha, quem seriam?
 O que achas que todos deveriam fazer pelo menos uma vez na vida?
 O que achas que os teus amigos dizem de ti quando não estás presente?
 Consideras que tens amigos verdadeiros?
 O que é para ti um “amigo”? O significa a amizade?
 A qual evento gostavas de ir no próximo ano? Quem convidarias para ir contigo?
-Se pudesses ligar para ti mesmo que qualquer momento do passado ou futuro, para quando ligarias e o que dirias?
 Quais são os três factos interessantes sobre ti? E sobre mim?
 Qual o teu maior segredo? Eras capaz de me o contar?
 Como gostarias de ser lembrado?
@@ -401,53 +420,30 @@ Como gostarias de ser lembrado?
 Se um amigo começasse a fumar, o que acharias? E o que lhe dirias?
 O que mais desejas para os próximos 10 anos?
 Com que idade achas que vais partir? E porquê?
-Quais os principais acontecimentos da tua vida que te fizeram ser quem és hoje?
 O que te desperta interesse, mas que a maioria das pessoas não se interessa ou conhece?
 O que gostarias de ter escrito na tua lápide?
 O quanto a tua vida era diferente há um ano atrás? E porquê?
-Preferirias 50 mil em dinheiro honesto ou 1 milhão em dinheiro ilegal?
 No que as pessoas se interessam muito, mas que não faz qualquer sentido para ti?
 Em qual cidade do teu país atual preferias viver?
 Quem é a pessoa mais importante da tua vida e por quê?
-Se pudesses dar um recado para o teu eu do passado, o que dirias?
-Tens a oportunidade de viajar no tempo. Gostarias de mudar algo no passado ou descobrir o que te aguarda no futuro?
 Diz a coisa mais importante que eu deveria saber sobre ti?
-Se pudesses passar uma hora a conversar com qualquer pessoa do mundo, quem seria? Sobre o que vocês iriam falar?
 Cinco músicas que mais te marcaram na vida?
-Se criasses um feriado em tua homenagem, o que as pessoas teriam que fazer nesse dia?
-Se criasses um culto, seria de adoração ao quê?
 Como me descreverias em um parágrafo?
 Para ti, qual é o melhor álbum/música do ano?
-Preferias um dia chuvoso na companhia de um livro ou um dia de sol num parque lotado?
-Ouvir a tua música favorita sem parar durante 48h, ou só uma vez a cada dez anos?
 Uma série de TV que marcou a tua vida?
 Um personagem dos livros/filmes que achas que foi injustiçado?
-Se pudesses escrever uma saga sobre a sua vida, quantos livros teriam?
 Um personagem que todos gostam, menos tu?
 Um personagem que gostas, mas todos odeiam?
-Preferias ser um herói ou um vilão?
-Uma frase que te defina.
-Se precisasses de ser salvo por uma personagem da última série/filme que assististe, quem te salvaria?
 Qual foi a última mentira que contaste?
-Qual dos sete pecados achas que melhor de caracteriza?
-Se pudesses ser outra pessoa por um dia, quem serias?
-Já tiveste alguma paixão platónica por um amigo/a?
-Sentes que atualmente tens uma amizade platónica?
-O que farias de diferente se soubesse que ninguém te julgaria?
-Se pudesses criar uma regra que todos tivessem que seguir, qual seria?
+Qual dos sete pecados achas que melhor te caracteriza?
 Qual o programa de TV te recusas a assistir?
 Qual o lugar mais estranho em que já passaste a noite?
 Já dormiste na mesma cama que um/a amigo/a teu? Como correu?
-Neste momento, sentes que estás apaixonado/a por alguém?
 Se te perguntasse se atualmente tens um interesse romântico, dirias quem é?
 Tens um/a amigo/a próximo que se esquece de te mandar os parabéns no teu dia de aniversário? Quem?
-Eras capaz de te envolver numa relação mais intima com algum/a amigo/a próximo/a?
 Com que tipo de pessoas terias vergonha de ser visto?
-Para qual lugar me levarias numa viagem?
-Que tipo de pessoa é mais atraente para ti?
 Que tipo de amizades gostas de ter?
 Como seria para ti o/a amigo/a ideal?
-Tens mais amigos do sexo oposto ou do mesmo sexo que tu?
 Consideraste um bom amigo? Porquê?
 Consideras que um familiar é um amigo?
 Quando é que para ti um conhecido passa a amigo?
@@ -471,14 +467,79 @@ Quando foi a ultima vez que choraste? Estás melhor?
 Que tipo de coisas te levariam a terminar uma amizade?
 Qual o/a amigo/a que sentiste mais falta nos últimos tempos?
 
+amizade, romantico
+Preferes acordar em silêncio ou com animação?
+Quanto tempo demoras a tomar banho?
+Gostas de ver desenhos animados?
+Deixarias uma amizade por uma relação amorosa?
+Uma mania tua que todos consideram estranha?
+Como seria a tua casa perfeita?
+Já tiveste alguma paixão platónica por um amigo/a?
+Sentes que atualmente tens uma amizade platónica?
+Neste momento, sentes que estás apaixonado/a por alguém?
+Eras capaz de te envolver numa relação mais intima com algum/a amigo/a próximo/a?
+Para qual lugar me levarias numa viagem?
+Que tipo de pessoa é mais atraente para ti?
+Tens mais amigos do sexo oposto ou do mesmo sexo que tu?
+Que tipo de atenção gostas de receber do outro?
+Quais os gestos que aprecias que façam por ti?
+Qual o teu talento secreto?
+O que gostarias muito de saber fazer e não sabes?
+Qual é o melhor presente que já recebeste na vida? E o melhor que já ofereceste a alguém?
+Conduzes e consideras-te um bom condutor? Há quanto tempo tiraste a carta?
+Esqueces-te facilmente de coisas (datas, nomes, …)?
+Perdes facilmente as coisas?
+Sobre o que é que tu conseguirias passar o dia a falar?
+O que faz com que revires os olhos quando ouves?
+Quais são as tarefas domésticas que menos gostas de fazer? E as que mais gostas?
+Fisicamente, como seria o/a teu/tua crush ideal?
+Gostas de estar sempre acompanhado/a ou de ter momentos sozinho/a?
+Qual o hábito secreto ou embaraçoso que tens?
+
+amizade, hipotetico
+Se pudesse decorar a tua casa com qualquer tema, qual seria?
+Se tivesses que ouvir só uma música para o resto da vida, qual escolherias?
+Conseguias ficar 6 meses sem telemóvel em troca de te casares com o amor da tua vida?
+Se te pudesses relacionar com alguém famoso, quem seria?~
+Se fosses um/a ator/atriz famoso/a, qual ator/atriz gostarias de beijar?
+Se te pudesses teletransportar agora para outro lugar, onde gostarias de estar?
+Num filme de terror, achas que serias o primeiro ou o último a morrer?
+Se tivesses que ficar numa ilha deserta com outra pessoa, com quem seria?
+Se pudesses levar apenas três coisas do teu quarto para uma ilha, o que seria?
+Se pudesses levar apenas três pessoas para uma ilha, quem seriam?
+Se pudesses ligar para ti mesmo que qualquer momento do passado ou futuro, para quando ligarias e o que dirias?
+Se pudesses dar um recado para o teu eu do passado, o que dirias?
+Tens a oportunidade de viajar no tempo. Gostarias de mudar algo no passado ou descobrir o que te aguarda no futuro?
+Se pudesses passar uma hora a conversar com qualquer pessoa do mundo, quem seria? Sobre o que vocês iriam falar?
+Se criasses um feriado em tua homenagem, o que as pessoas teriam que fazer nesse dia?
+Se criasses um culto, seria de adoração ao quê?
+Se pudesses escrever uma saga sobre a sua vida, quantos livros teriam?
+Se precisasses de ser salvo por uma personagem da última série/filme que assististe, quem te salvaria?
+Se pudesses ser outra pessoa por um dia, quem serias?
+Se pudesses criar uma regra que todos tivessem que seguir, qual seria?
+Se ganhasses o Euromilhões, contavas às pessoas próximas, ou farias por esconder?
+Um amigo teu, que está romanticamente envolvido com outra amiga tua, confessa-te que traiu, sem o/a namorado/a saber. O que farias?
+Um amigo próximo anunciou publicamente que quer perder peso, mas tu vês que ele quebra com frequência as regras autoimpostas sobre comida e exercício. O que dirias?
+Um/a amigo/a está em estado terminal. O que farias nessa situação?
+Um/a amigo/a pedia-te para o ajudares a terminar com a sua vida, por ter uma doença degenerativa. O que farias?
+Um/a amigo/a por quem não tens nenhum sentimento romântico revela que está apaixonado por ti. O que fazes?
+
+amizade, prefere
+Preferias ter o poder de voar ou de ficar invisível?
+Preferirias 50 mil em dinheiro honesto ou 1 milhão em dinheiro ilegal?
+Preferias um dia chuvoso na companhia de um livro ou um dia de sol num parque lotado?
+Ouvir a tua música favorita sem parar durante 48h, ou só uma vez a cada dez anos?
+Preferias ser um herói ou um vilão?
+
+amizade, animado
+O que farias se ficasses invisível por 24h?
+O que farias se pudesses ser do sexo oposto por 24h?
+
 romantico
 Costumas publicar fotos de casal nas redes sociais?
 Sentes que estás aberto para um relacionamento?
 Costumas procurar pessoas para uma relação ou preferes que aconteça naturalmente?
 Que tipo de pessoa procuras?
-O que mais valorizas numa pessoa?
-Como te sentes quando ficamos afastados por longos períodos?
-Que conselho amoroso darias para alguém?
 Qual é a melhor forma de superar uma rejeição?
 Qual é a melhor forma de superar uma separação?
 Já sofreste por uma separação?
@@ -489,7 +550,6 @@ Quem foi a primeira pessoa que beijaste? Onde foi?
 Quando foi o teu primeiro beijo na boca?
 Usas perfume no dia-a-dia? Qual?
 Já foste traído? O que sentiste ou fizeste?
-Qual seria o teu tipo de encontro ideal?
 Achas que os opostos se atraem? Resulta?
 O que pensaste enquanto davas o teu primeiro beijo?
 O que achaste do teu primeiro beijo? Farias algo de diferente?
@@ -502,10 +562,6 @@ Acreditas em amor à primeira vista? Porquê?
 Acreditas em almas gémeas? Porquê?
 Para ti, quais são os estágios até oficializares uma relação?
 Gostas de receber piropos? Usas também esse tipo de frases?
-Acreditas no destino? Acha que o nosso encontro foi obra do destino?
-Qual foi a tua primeira impressão quando me viste pela primeira vez?
-Lembras-te do que eu vesti no dia em que nos conhecemos?
-Lembras-te onde nos conhecemos e o que fizemos?
 O que mais te chamou atenção quando me viste pela primeira vez?
 Preferes abraçar por 5 segundos ou beijar por 1 segundo?
 O que te atrai mais ou primeiro: o físico ou a personalidade?
@@ -516,21 +572,14 @@ Se me levasses a tua casa, o que faríamos?
 Consideras-te um/a romântico/a?
 Que tipo de beijo mais gostas?
 Que tipo de carinhos aprecias?
-Que tipo de atenção gostas de receber do outro?
-Quais os gestos que aprecias que façam por ti?
-Preferes: cozinhar ou lavar a loiça?
-Acreditas que numa relação as tarefas de casa devem de ser partilhadas?
 Gostas de beijar em público?
 Sentes-te confortável em fazer manifestações de carinho (romântico) em publico, frente aos amigos ou família?
 Até onde eras capaz de ir comigo?
 Acreditas que beijas bem?
 O que mais te atrai?
 Gostas de beijos de língua?
-O que é para ti um bom clima romântico?
-Em que parte do corpo preferes ser beijado?
 Acreditas em casamento? É algo que desejas concretizar?
 Qual a tua parte favorita do corpo?
-Que parte do corpo que mais gostas em ti? E em mim?
 Acreditas em relacionamento à distância? Já tiveste algum?
 O que pensas de relações não monogâmicas?
 Já tiveste alguma relação aberta?
@@ -538,14 +587,12 @@ Qual foi a duração da tua relação mais longa? E da mais curta?
 Quantas relações/namoro já tiveste?
 Costumas-te relacionar casualmente?
 Já beijaste amigos/as?
-Qual o tipo e o quê que procuras num relacionamento?
+Que tipo de relacionamento procuras?
 Já desejaste retomar uma ex-relação?
-Se pudesses me descrever em 3 palavras, quais seriam?
-Serias capaz de descrever o meu cheiro?
+Que tipo de personalidade ou manias te tiram do sério?
 Sorris quando mando uma mensagem?
 Já ficaste ansioso/a à espera de uma resposta minha?
 Já sonhaste comigo? Como foi?
-Se eu tiver com medo, proteges-me?
 Terias coragem para me convidar a dançar num bar cheio de gente?
 Sentes falta de estar numa relação (amorosa)?
 Preferes uma relação casual ou de longo prazo?
@@ -558,11 +605,10 @@ Falas sobre mim aos teus amigos?
 Se visses outra pessoa a flertar comigo, o que sentirias? Como reagirias?
 Neste momento em que nos estamos a conhecer, verias problema em que estivesse a conhecer outras pessoas?
 Neste momento em que nos estamos a conhecer, sentes que gostarias que a relação evoluísse para algo mais ou ainda é cedo?
-Se te levasse o pequeno almoço na cama amanhã, o que gostarias de comer?
 Já pensaste em me preparar um jantar romântico?
 Estarias confortável em me levar numa viagem contigo e com os teus amigos?
-O que o amor significa para ti?
-O que a paixão significa para ti?
+O que o “amor” significa para ti?
+O que a “paixão” significa para ti?
 O que é para ti um namoro de sucesso?
 O quão importante é para ti os gestos carinhosos?
 O quão importante é para ti as palavras?
@@ -571,25 +617,11 @@ Que nomes carinhosos já recebeste e/ou deste numa relação?
 Ainda há algo que não saibas sobre mim e que gostarias de saber? 
 Qual traço da minha personalidade é o teu preferido?
 Conseguias-te imaginar a ter uma relação amorosa comigo?
-O que te incomoda em mim?
-Qual a música ou banda faz com que te lembres de mim?
 Tens um dia de folga e queres passá-lo comigo: o que gostarias que fizéssemos?
 Quais os três primeiros alertas (red-flags) que identificas numa pessoa?
-Já te surpreendeste positivamente com algo que eu fiz ou falei?
-O que achas de mim profissionalmente?
-De que formas achas que nos completamos?
-O que acha que mais temos em comum? E de diferente?
-Eu tenho alguma mania ou gesto que achas engraçado?
-Se eu fosse um bichinho, qual achas que eu seria?
-Em que lugar me levarias para termos um encontro romântico?
-Pensa nos presentes que já me deste: o que te fez escolhê-los?
-Se pudesses, qual o presente que me oferecerias neste momento?
 Tens algum sitio que gostarias de me levar a visitar?
-Há algum filme que faz com que te lembres de mim ou da relação que temos?
 Qual o tipo de flor achas que combina comigo?
-Se eu fosse uma cor, qual seria?
 Consideras-te romântico?
-Como me descreverias em uma palavra?
 Eu faço o teu género? Porquê?
 O que achas da outra pessoa dar o primeiro passo?
 Preferes tomar a ação ou que o outro dê o primeiro passo?
@@ -610,71 +642,43 @@ Já beijaste na boca alguém do mesmo sexo (ou do sexo oposto)?
 Como descreverias a tua primeira vez? Ou como imaginarias a ser?
 Quantas pessoas já beijaste na boca? E com que idade foi a primeira?
 Praticarias um desporto comigo ou farias caminhadas com regularidade?
-Farias alguma atividade radical comigo?
-Quando sabes que a paixão se transformou em amor?
 Se o teu companheiro/a te traísse, quem sentirias que tem culpa: ele/a ou a pessoa com quem ele/a se envolver?
-Quando te chateias, como costumas agir? Levantas a voz?
 Consideras-te uma pessoa emocional?
 Choras com facilidade? O que leva as lágrimas aos olhos?
 Para ti, o quão importante é a comunicação numa relação?
 Numa relação, ignoras os problemas ou tentas resolver logo algo que te incomoda?
-O que achas de pessoas que mentem/traem? 
-Consideras que tens vícios? Quais?
-Onde moravas na infância?
-Em casa, preferes estar de roupa ou de pijama?
-Tens ou querias ter algum animal de estimação?
-Qual é o teu lugar favorito no mundo?
-Como é a tua relação com os teus pais/família?
-Segue algum conselho passado pelos teus pais/cuidadores?
-Segues alguma religião? Qual?
 Qual o teu estilo de roupa favorito?
-Conduzes e consideras-te um bom condutor? Há quanto tempo tiraste a carta?
-Esquece-te facilmente de coisas (datas, nomes, …)?
-Perdes facilmente as coisas?
+Onde moravas na infância?
+Qual é o teu lugar favorito no mundo?
+Em casa, preferes estar de roupa ou de pijama?
 Há algo que adoras, mas que tens vergonha ou constrangimento de assumir?
 Eras capaz de fazer alguma alteração no teu rosto? Qual?
 Considera-as te bonito/a?
-No geral, acha as pessoas bonitas ou és esquisito?
+No geral, acha as pessoas bonitas ou és esquisito/a?
 Que tipo de corpo aprecias?
 Preferes um corpo naturalmente musculado ou com musculo bem trabalhado? 
 Quais são os teus requisitos físicos noutra pessoa?
 Numa relação, que atividades ou hobbies gostava que a outra pessoa tivesse?
-Qual o teu talento secreto?
-O que gostarias muito de saber fazer e não sabes?
-Qual é o melhor presente que já recebeste na vida? E o melhor que já ofereceste a alguém?
 O que gostas de fazer, mas que os outros achariam estranho?
-Qual a tua filosofia de vida?
-Como te acalmas quando ficas com raiva de algo?
-Qual foi a decisão mais importante que já tomaste?
-Qual a tua característica de personalidade mais marcante?
-Sobre o que é que tu conseguirias passar o dia a falar?
-O que faz com que revires os olhos quando ouves?
 Como seria uma relação bem-sucedida para ti?
 Quais são os teus hobbies? Qual o que fazes com mais regularidade?
 Preferes passar o dia em casa ou sair?
 Que atividades gostas de fazer em casa?
-Quais são as tarefas domésticas que menos gostas de fazer? E as que mais gostas?
-Fisicamente, como seria o/a teu/tua crush ideal?
 Que características procuras num/a companheiro/a?
 Que tipo de características não aceitarias num companheiro?
 Começarias uma relação com alguém desempregado ou sem estabilidade financeira?
 Numa saída a dois, como achas que se deve pagar a conta?
 Qual a tua opinião sobre ser “dona de casa”?
 Se viveres com alguém, tens intenção de partilhar as tarefas domésticas? E fazer a comida?
-Gostas de cozinhar? Qual o teu prato favorito de fazer?
-Qual a tua comida favorita? E o que menos aprecias?
 Numa relacionamento, acreditas na partilha e apoio no sofrimento do outro? Ou consideras-te desapegado e/ou sem paciência?
 Numa relação, estarias presente na saúde e na doença?
-Que tipo de coisas te levariam a terminar uma relação amorosa?
-Consideras-te reservado? Guardas muito para ti mesmo numa relação?
 Numa relação, consideras-te um/a falador/a?
-Gostas de estar sempre acompanhado/a ou de ter momentos sozinho/a?
 Preferes pessoas mais sérias ou animadas?
 Achas que temos gostos e ideais em comum? O quão importante isso é para ti?
 Numa relação, é importante terem as mesmas crenças e lados políticos?
 Se a pessoa com quem sais se mostrar xenófoba ou racista ou homofóbica, continuarias a tentar ter uma relação com ela?
 Numa relação, se a pessoa ouvir música que não te agrada, o que farias?
-Para ti, os papeis de género são importantes? Ou sentes-te confortável com a tua masculinidade e feminidade, independentemente do teu género?
+Aceitas sair comigo no próximo fim de semana? Onde gostavas de ir?
 Já usaste apps de relacionamentos? Com que objetivo?
 Já conheceste pessoalmente alguma pessoa das apps online/de relacionamento e chegaram a oficializar a relação? Quanto tempo durou?
 Quantas pessoas já conheceste pessoalmente através de apps sociais/de relacionamentos?
@@ -707,6 +711,51 @@ Quando começas a gostar de alguém, crias hábitos com essa pessoa? (exemplo, s
 Quando gostas de alguém, crias o hábito de lhe dar os bons dias e boas noites, e/ou perguntar se está tudo bem com regularidade?
 Para ti, quantos encontros são necessários para perceberes que a relação com a pessoa não vai evoluir? 
 Mesmo que não sintas o "clique" com a pessoa com quem sais, manténs as saídas como forma de socializar/amizade?
+Numa relação, gostas de provocar para criar clima?
+Tens o hábito de discutir?
+
+romantico, namoro
+Como te sentes quando ficamos afastados por longos períodos?
+Que conselho amoroso darias para alguém?
+Qual seria o teu tipo de encontro ideal?
+Acreditas no destino? Achas que o nosso encontro foi obra do destino?
+Qual foi a tua primeira impressão quando me viste pela primeira vez?
+Lembras-te do que eu vesti no dia em que nos conhecemos?
+Lembras-te onde nos conhecemos e o que fizemos?
+O que é para ti um bom clima romântico?
+Em que parte do corpo preferes ser beijado?
+Acreditas que numa relação as tarefas de casa devem de ser partilhadas?
+Que parte do corpo que mais gostas em ti? E em mim?
+Serias capaz de descrever o meu cheiro?
+Se eu tiver com medo, proteges-me?
+Se te levasse o pequeno almoço na cama amanhã, o que gostarias de comer?
+O que te incomoda em mim?
+Qual a música ou banda faz com que te lembres de mim?
+Já te surpreendeste positivamente com algo que eu fiz ou falei?
+O que achas de mim profissionalmente?
+De que formas achas que nos completamos?
+O que achas que mais temos em comum? E de diferente?
+Eu tenho alguma mania ou gesto que achas engraçado?
+Se eu fosse um bichinho, qual achas que eu seria?
+Em que lugar me levarias para termos um encontro romântico?
+Pensa nos presentes que já me deste: o que te fez escolhê-los?
+Se pudesses, qual o presente que me oferecerias neste momento?
+Quando sabes que a paixão se transformou em amor?
+Que tipo de coisas te levariam a terminar uma relação amorosa?
+Em que momento percebeste que gostavas de mim? 
+Sugestão: Vamos fazer um piquenique neste fim de semana? 
+Confias em mim? 
+Há algo que não gostas em mim? 
+Já tentaste escrever um poema/música para mim?
+Ficas ansioso/a pelo nosso próximo encontro? 
+Sentes que eu ajudo no teu crescimento pessoal? 
+Que tipo de pessoa não suportas?
+Qual acreditas ser a diferença entre "paixão" e "amor"?
+O que posso fazer para que te sintas melhor?
+
+romantico, prefere
+Preferes: cozinhar ou lavar a loiça?
+Preferes: viajar para o campo ou para a praia?
 
 namoro
 O que sentes quando nos abraçamos? E quando nos beijamos?
@@ -720,7 +769,6 @@ Pensas em apresentar-me aos teus amigos?
 Alguém da tua família que não goste tanto de mim? Porquê?
 Quem da tua família gosta mais de mim?
 Quando acordas ao meu lado, qual é a primeira coisa que te surge na sua cabeça?
-Qual acreditas ser a diferença entre paixão e amor?
 Eu faço-te desejar querer um futuro comigo?
 Consegues imaginar a casarmos um dia?
 Alguma música especial poderia definir a nossa relação?
@@ -746,9 +794,6 @@ Já traíste nas tuas relações? Quantas vezes ou quantas pessoas?
 Porque gostas de mim?
 O que te atrai fisicamente quando olhas para outra pessoa?
 O que gostas em mim? E o que mudarias?
-O quão importante é para ti o sexo?
-Com que frequência gostas de fazer sexo?
-Preferes fazer sexo ao acordar ou antes de dormir?
 Gostas ou gastarias de acordar ao meu lado?
 De que forma a nossa relação é diferente das outras que já tiveste?
 Já te sentes pronto/a para me apresentar à tua família?
@@ -765,8 +810,6 @@ Farias alguma loucura de amor por mim? Qual?
 Consideras-me como o teu/tua melhor amigo/a?
 Qual é a melhor parte de viver junto comigo?
 Quais são as tuas três lembranças mais felizes ao meu lado?
-Preferes que eu tome iniciativa para o sexo?
-Jogarias um jogo erótico comigo?
 Tens algum segredo que ainda não me contaste? Porquê?
 Eu faço-te feliz?
 Sentes que ainda estás apaixonado/a por mim?
@@ -780,15 +823,24 @@ Com quantas pessoas já namoraste antes de mim?
 Qual seria o teu ideal de férias comigo?
 Gostavas que passássemos os dias festivos com a família um do outro?
 Algo que fiz que te magoou? O quê e porquê?
-O que posso fazer para que te sintas melhor?
 Que tipo de situações já te magoaram em outras relações?
 Que situações já te aconteceram noutras relações, que te fazem subir as barreira na nossa?
 Que tipo de coisas não queres que aconteçam na nossa relação?
 Sentes que está a haver algum desgaste na nossa relação?
 Na relação, sentes que nos estamos a acomodar?
-O que poderíamos fazer de diferente para acender a chama da relação?
 Que atividades gostarias que fizéssemos juntos?
 Eu casa, preferes andar vestido ou despido?
+
+namoro, picante
+O quão importante é para ti o sexo?
+Com que frequência gostas de fazer sexo?
+Preferes fazer sexo ao acordar ou antes de dormir?
+Preferes que eu tome iniciativa para o sexo?
+Jogarias um jogo erótico comigo?
+O que poderíamos fazer de diferente para acender a chama da relação?
+
+namoro, hipotetico
+O teu companheiro/a deixou o telemóvel desbloqueado. Sentiras tentação em ir ver as mensagens ou fotos?
 
 picante
 Se eu estivesse no seu quarto agora, o que gostaria de fazer comigo?
@@ -799,7 +851,14 @@ Você dormiria com o melhor amigo de sua ex?
 Como foi a sua primeira vez?
 Gosta de sexting?
 Já enviou nudes?
+Preferes ficar por cima ou por baixo?
+Já te envolveste comigo a pensar noutra pessoa?
+Já dormiste com mais do que uma pessoa em um dia?
+Já te envolveste sexualmente com mais de uma pessoa ao mesmo tempo?
 Quais são as suas manias e fetiches?
+Onde mais gostas de me tocar?
+Sentias te confortável se víssemos porno juntos?
+Irias comigo a uma sex shop? O que procurarias por lá?
 Prefere dar ou receber?
 Prefere ficar por cima ou por baixo?
 Prefere controlar ou ser controlado?
@@ -930,6 +989,7 @@ Desafio: Uiva para a lua.
 Desafio: Pisca o olho para a pessoa à tua frente.
 Desafio: Partilha com o grupo um momento embaraçoso.
 Desafio: Diz qual a pessoa do grupo que tem um estilo de roupa mais próximo ao que aprecias.
+Desafio: Aceitas sair comigo no próximo fim de semana?
 
 animado
 Já enviou por engano uma mensagem de texto para a pessoa errada?
@@ -979,7 +1039,22 @@ Leite antes dos cereais ou cereais antes do leite?
 Se estivesse preso em uma ilha deserta, quais as três coisas que gostaria de ter com você?
 Se fosse sair vencedor/a de alguma competição, qual seria?
 Se só pudesse usar um único emoji para o resto da sua vida, qual seria?
-Você tem algum talento escondido? Qual?
+Muda a minha opinião sobre cereais antes do leite (ou vice-versa).
+Descreve um dia da tua vida em que nada parecia dar certo.
+Você tinha algum amigo imaginário na infância? Como era?
+Já foi confundido/a com alguém famoso?
+Que nome daria ao seu carro?
+Qual é o papel de parede que está a usar na tela do seu computador ou telemóvel? Porquê essa imagem?
+Qual é a sua piadinha inofensiva favorita?
+Se tivesse uma hora a mais por dia, o que faria nesse tempo?
+Para você, tomate é um vegetal?
+Se você tivesse que enviar um emoji por e-mail para o diretor executivo da sua empresa, qual seria?
+Qual foi a sua melhor fantasia de Halloween/Carnaval? E a pior?
+Conte uma situação constrangedora que tenha acontecido com você.
+Qual foi a última vez que levou uma bronca?
+Qual seria o título da sua autobiografia?
+Se tivesse que falar como um personagem de desenho animado pelo resto da sua vida, qual personagem escolheria? Consegue imitá-lo agora?
+Se fosse dar nome a uma bebida, que nome lhe daria?
 
 sou
 Sou emocionalmente dependente ou independente?	
@@ -993,6 +1068,7 @@ Sou negativo/a ou positivo/a?
 Sou indomável ou submisso? 	
 Sou organizado/a ou desorganizado/a?	
 Sou desatento/a ou atento/a?	
+Sou realista ou idealista?
 Sou esquecido/a ou com boa memória?		
 Sou de desabafar ou de guardar para mim?	
 Sou de resolver ou silenciar-me?	
@@ -1070,26 +1146,6 @@ Ser meu amigo é como…
 Namorar comigo é como…
 Saberei que encontrei a pessoa certa quando…
 
-prefere
-Preferes: comer fezes humanas ou de gato?
-Preferes: água fresca ou morna?
-Preferes: chá ou café?
-Preferes: sol ou chuva?
-Preferes: calor ou frio?
-Preferes: doces ou salgados?
-Preferes: frio ou calor?
-Preferes: viver com alguém introvertido ou extrovertido’
-O que preferes para as férias: descanso ou aventura?
-O que preferes: fazer parte dos Vingadores ou da Liga da Justiça?
-O que preferes: participar em um reality show romântico ou de aventura?
-O que preferes: não voltar a ouvir as tuas musicas favoritas, ou ter uma trilha sonora de fundo a tocar constantemente?
-O que preferes: ser um super-herói ou o melhor chef de cozinha do mundo?
-O que preferes: competir nas Olimpíadas ou dirigir um filme indicado ao Oscar?
-O que preferes: cantar no karaoke com o chefe do departamento ou fazer uma videoconferência com os teus pais e o diretor executivo da empresa?
-O que preferes: Casar com uma pessoa que não amas e ser rico para o resto da vida, ou casar com alguém que amas e não ter dinheiro?
-O que preferes: Ser rico de dinheiro e pobre de espírito, ou ser pobre de dinheiro e rico de espírito?
-Preferes: viajar para o campo ou para a praia?
-
 hipotetico
 Se tivesses uma porta que te levasse a qualquer lugar que desejasses, onde irias neste exato momento?
 Se tivesses que viver num videojogo, qual seria a tua escolha?
@@ -1125,17 +1181,10 @@ Se estivesses sozinho/a numa ilha deserta, qual livro ou objeto levarias consigo
 Se pudesses jantar com uma personalidade histórica, quem seria? E se fosse uma celebridade contemporânea?
 Se ganhasses o Euromilhões, qual seria a primeira coisa que farias?
 Se pudesses escolher, qual seria a cor do teu caixão?
-Se ganhasses o Euromilhões, contavas às pessoas próximas, ou farias por esconder?
-Um amigo teu, que está romanticamente envolvido com outra amiga tua, confessa-te que traiu, sem o/a namorado/a saber. O que farias?
-Um amigo próximo anunciou publicamente que quer perder peso, mas tu vês que ele quebra com frequência as regras autoimpostas sobre comida e exercício. O que dirias?
-Um/a amigo/a está em estado terminal. O que farias nessa situação?
-Um/a amigo/a pedia-te para o ajudares a terminar com a sua vida, por ter uma doença degenerativa. O que farias?
 Um amigo teu começou a fumar, o que dirias?
-Um/a amigo/a por quem não tens nenhum sentimento romântico revela que está apaixonado por ti. O que fazes?
 Estás a organizar um jantar para oito pessoas, todas onívoras, exceto uma, que é vegana. Esforçavas-te para preparar um prato vegano especial para ela? Ou o que faria nesse caso?
 Após ler as mensagens de teu/tua parceiro/a sem o consentimento dele/a, descobres que está sendo traído/a. O que farias?
 Alguém te conta que estás a ser traído/a. O que farias?
-O teu companheiro/a deixou o telemóvel desbloqueado. Sentiras tentação em ir ver as mensagens ou fotos?
 Se tivesses 1 milhão de euros, para qual instituição os doarias?
 Imagina: Um lugar? 5 pessoas? Uma comida? Um homem? Uma mulher? Uma cor? Uma música?
 Se pudesses convencer qualquer pessoa do mundo, de qualquer época da história, a ter feito algo diferente, quem seria e o quê?
@@ -1188,9 +1237,49 @@ O que tens a dizer sobre as guerras que estão acontecer no mundo?
 O que é para ti “liberdade”? Até que ponto uma pessoa é livre de dizer o que quer?
 Qual o limite da liberdade?
 
+prefere
+Preferes: comer fezes humanas ou de gato?
+Preferes: água fresca ou morna?
+Preferes: chá ou café?
+Preferes: sol ou chuva?
+Preferes: calor ou frio?
+Preferes: doces ou salgados?
+Preferes: frio ou calor?
+Preferes: viver com alguém introvertido ou extrovertido’
+Preferes para as férias: descanso ou aventura?
+Preferes: fazer parte dos Vingadores ou da Liga da Justiça?
+Preferes: participar em um reality show romântico ou de aventura?
+Preferes: não voltar a ouvir as tuas musicas favoritas, ou ter uma trilha sonora de fundo a tocar constantemente?
+Preferes: ser um super-herói ou o melhor chef de cozinha do mundo?
+Preferes: competir nas Olimpíadas ou dirigir um filme indicado ao Oscar?
+Preferes: cantar no karaoke com o chefe do departamento ou fazer uma videoconferência com os teus pais e o diretor executivo da empresa?
+Preferes: casar com uma pessoa que não amas e ser rico para o resto da vida, ou casar com alguém que amas e não ter dinheiro?
+Preferes: ser rico de dinheiro e pobre de espírito, ou ser pobre de dinheiro e rico de espírito?
+Preferes: montanha ou mar?
+Preferes: neve ou areia da praia?
+Netflix ou sair à noite?
+
+adivinha
+Uma forma?
+Uma cor?
+Um animal?
+Uma fruta?
+Um país?
+Um sonho?
+Uma planta ou flor?
+Um meio de transporte?
+Uma figura publica de sonho?
+Um objeto vermelho?
+Um objeto azul?
+Um doce?
+Um salgado?
+Um prato favorito?
+Uma musica favorita?
+A banda favorita?
+
 emprego
-(brevemente)
-(brevemente)
+Brevemente.
+Brevemente.
 
 nunca
 Eu nunca fiquei bêbado.
@@ -1786,6 +1875,10 @@ Eu nunca criei um perfil só para amigos.
 Eu nunca discuti por WhatsApp.
 Eu nunca terminei um relacionamento por telefone.
 Eu nunca inventei uma hashtag.
+Eu nunca provoquei alguém. 
+Eu nunca gritei.
+Eu nunca me chateei com alguém.
+Eu nunca insultei alguém.
 
 nuncapicante
 Eu nunca destrui um relacionamento.

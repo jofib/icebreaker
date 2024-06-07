@@ -78,6 +78,12 @@ function gerarFrasePorCategoria(categoria, frasesPorCategoria) {
   }
 }
 
+// Função para definir a frase inicial
+function definirFraseInicial() {
+  const fraseElement = document.getElementById("randomPhrase");
+  fraseElement.textContent = "Vamos começar?";
+}
+
 // Função para atualizar o texto da frase
 function atualizarFrase() {
   const categoriaSelecionada = document.getElementById("categorySelect").value;
@@ -95,8 +101,10 @@ function atualizarFrase() {
 const button = document.getElementById("generateButton");
 button.addEventListener("click", atualizarFrase);
 
-// Chama a função inicialmente para exibir uma frase aleatória ao carregar a página
-atualizarFrase();
+/* // Chama a função inicialmente para exibir uma frase aleatória ao carregar a página
+atualizarFrase(); */
+// Define a frase inicial ao carregar a página
+definirFraseInicial();
 
 
 //BOTÃO POP UP

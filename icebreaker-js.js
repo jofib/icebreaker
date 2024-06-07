@@ -81,7 +81,7 @@ function gerarFrasePorCategoria(categoria, frasesPorCategoria) {
 // Função para definir a frase inicial
 function definirFraseInicial() {
   const fraseElement = document.getElementById("randomPhrase");
-  fraseElement.textContent = ""Vamos começar?"";
+  fraseElement.textContent = "\"Vamos começar?\"";
 }
 
 // Função para atualizar o texto da frase

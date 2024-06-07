@@ -72,14 +72,14 @@ hr {
   /*border-top: 2px dashed #000; /* Define a linha traçada */
   /*border-bottom: 2px dashed #0075F5; /* Adiciona uma linha traçada adicional na parte inferior */
   /*margin: 0 0; /* Adiciona margem acima e abaixo da linha */
-  margin-top: 35px;
+  margin-top: 25px;
   margin-left: 30px;
   width: 290px;
 }
 
 #tituloback {
   position: relative;
-  top: 20px;
+  top: 10px;
   left: 30px;
   background-color: #303030;
   height: 36px;
@@ -100,24 +100,25 @@ hr {
   left: 30px;
   width: 250px;
   text-align: left;
+    color: #f54e36; /*#303030;*/
 }
 #intro {
   font-size: 16px;
   font-weight: 800;
-  color: #f54e36;
+  /*color: #f54e36;*/
   text-transform: uppercase;
 }
 #instr {
   font-size: 14px;
   /*font-style: italic;*/
   font-weight: 500;
-  color: #f54e36;
+  /*color: #f54e36;*/
 }
 
 #box3 {
   position: absolute;
   width: 350px;
-  margin-top: 260px;
+  margin-top: 240px;
   left: 50%;
   transform: translate(-50%, -50%);
   /*background-color: white;*/
@@ -150,7 +151,7 @@ hr {
 
 #box4 {
   position: relative;
-  top: 290px;
+  top: 275px;
   margin-left: 30px;
 }
 #b4b,
@@ -168,9 +169,8 @@ p#randomPhrase {
   font-weight: 600;
   color: #e1cbcd;
   text-align: left;
-  top: 30px;
+  top: 40px;
   left: 30px;
-    right: 10px;
   /*transform: translate(-70%, -50%);*/
 }
 
@@ -247,6 +247,10 @@ p#randomPhrase {
   cursor: pointer;
 }
 .botaoTexto:hover {
+  /*background-color: #0056b3; #009C6C*/
+  color: #f54e36;
+}
+
   /*background-color: #0056b3; #009C6C*/
   color: #f54e36;
 }

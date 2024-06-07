@@ -9,283 +9,243 @@ and open the template in the editor.
 */
 
 /* <uniquifier>: Use a unique and descriptive class name*/
-/* <weight>: Use a value from 100 to 900 */
-.raleway-<uniquifier> {
-    font-family: "Raleway", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
+.raleway-<uniquifier > {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} /* <weight>: Use a value from 100 to 900 */
+.sora-<uniquifier > {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
+.manrope-<uniquifier > {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} /*<weight>: Use a value from 200 to 800*/
+.playfair-display-<uniquifier > {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} /*<weight>: Use a value from 400 to 900*/
 
 body {
-    font-family: "Raleway", sans-serif;/*Arial, sans-serif;*/
-    display: flex; 
-    justify-content: center; 
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background-color: #F3A3BE;
+  font-family: "Raleway", sans-serif; /*Arial, sans-serif;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*height: 100vh;
+  margin: 300px;*/
+  background-color: #303030;
 }
 
 .container {
-    position: relative;
-    width: 480px; /*360px*/
-    height: 854px; /*640px*/
+  display: flex;
+  width: 350px; /*400*/
+  height: 650px; /*850*/
+  margin-top: 20px;
+  background-color: #e1cbcd; /*EEE2D2*/
+  border-radius: 20px;
+  border: 2px solid #e1cbcd; /* largura, estilo e cor da borda */
 }
 
-#titulo {
-    position: absolute;
-    text-align: left;
-    font-size: 30px;
-    color:#fff;
-    margin-left: 15px;
+#box0 {
+  position: relative;
+  background-color: #303030;
+  width: 350px;
+  margin-top: 250px;
+  margin-left: 0;
+  border-radius: 20px;
 }
 
-
-.boxes {
-    width: 360px;
-    height: 640px;
-}
-
-#box1, #box2 {
-    width: 100%; 
-    max-width: 300px; 
-    height: auto;
-}
-
-/*#box1{
-    max-width: 100%; 
-    max-height: 100%; 
-}*/
-
-#boxazul{
-    position: absolute; 
-    max-width: 480px; /*100%;*/ 
-    max-height: 854px; /*100%;*/
-    margin-top: 20px;
-}
-
-.textointro{
-    position: relative; 
-    top: 75px;
-    left: 60px; 
-    width: 300px;
-    padding: 20px; 
-    text-align:left;
-    color: white;
-}
-
-#intro {
-    font-size:23px; 
-    font-weight: 600;
-}
-
-#instr {
-    font-size:16px;
-    font-style: italic;
-}
-
-#box3{
-    position: absolute; 
-    top: 58%; 
-    left: 47%;
-    transform: translate(-50%, -50%);
-    width: 300px;
-    height: 450px;
-    background-color: white; 
-}
-
-#boxbranca {
-    max-width: 100%; 
-    max-height: 100%; 
-}
-
-/* Estilizando a carta */
-.card {
-    border: none;
+#box1 {
+  position: absolute;
 }
 
 hr {
-    border: 3px solid #0075F5; /* largura, estilo e cor da borda */
-    /*border-top: 2px dashed #000; /* Define a linha traçada */
-    /*border-bottom: 2px dashed #0075F5; /* Adiciona uma linha traçada adicional na parte inferior */
-    margin: 0 0; /* Adiciona margem acima e abaixo da linha */
+  border: 1px solid #303030; /* largura, estilo e cor da borda */
+  /*border-top: 2px dashed #000; /* Define a linha traçada */
+  /*border-bottom: 2px dashed #0075F5; /* Adiciona uma linha traçada adicional na parte inferior */
+  /*margin: 0 0; /* Adiciona margem acima e abaixo da linha */
+  margin-top: 35px;
+  margin-left: 30px;
+  width: 290px;
 }
 
+#tituloback {
+  position: relative;
+  top: 20px;
+  left: 30px;
+  background-color: #303030;
+  height: 36px;
+  width: 120px;
+  border-radius: 20px;
+}
+#titulo {
+  text-align: center;
+  padding-top: 9px;
+  font-size: 16px;
+  color: #e1cbcd;
+  /*transform: rotate(-90deg);*/
+}
+
+.textointro {
+  position: relative;
+  top: 5px;
+  left: 30px;
+  width: 250px;
+  text-align: left;
+}
+#intro {
+  font-size: 16px;
+  font-weight: 800;
+  color: #f54e36;
+  text-transform: uppercase;
+}
+#instr {
+  font-size: 14px;
+  /*font-style: italic;*/
+  font-weight: 500;
+  color: #f54e36;
+}
+
+#box3 {
+  position: absolute;
+  width: 350px;
+  margin-top: 260px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /*background-color: white;*/
+}
+
+/*CATEGORIA*/
+.card {
+  border: none;
+}
 #categorySelect {
-    width: 100%; 
-    background-color: white;
-    padding: 15px;
-    font-size: 16px;
-    font-weight: 600;
-    /*border: 2px dashed #0075F5; /*none;#0075F5 largura, estilo e cor da borda */
-    border: none;
-    cursor: pointer;
-
-    box-shadow: none;
+  position: relative;
+  width: 350px; /*width: 100%;*/
+  height: 40px;
+  background-color: #f5746a; /*#f5746a; #f54e36;*/
+  padding: 5px; /*15px;*/
+  padding-left: 30px;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  /*text-transform: uppercase;*/
+  color: #303030; /*#303030; #e1cbcd;*/
+  border: none; /*2px dashed #0075F5; /* largura, estilo e cor da borda */
+  cursor: pointer;
+  box-shadow: none;
+  /*border-radius: 20px;*/
 }
 
+#box2 {
+}
+
+#box4 {
+  position: relative;
+  top: 275px;
+  margin-left: 30px;
+}
+#b4b,
+#b4s {
+}
+#b4s {
+  margin-top: 15px;
+}
+
+/*FRASE GERADA*/
+p#randomPhrase {
+  position: absolute;
+  font-family: "Playfair Display", serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: #e1cbcd;
+  text-align: left;
+  top: 50px;
+  left: 30px;
+  /*transform: translate(-70%, -50%);*/
+}
+
+/*GERAR*/
 #generateButton {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    width: 200px; 
-    height: 50px;
-    transform: translateX(-50%);
-    margin-bottom: 25px; 
-    background-color: black;
-    color: white;
-    font-size: 16px;
-    font-weight: 600;
-    padding: 10px 20px;
-    border: none; 
+  position: relative;
+  width: 180px; /*200px*/
+  height: 50px;
+  margin-left: 0;
+  bottom: 0;
+  /*transform: translate (-50%);*/
+  background-color: #303030;
+  color: #e1cbcd;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  border: 2px solid #e1cbcd; /* largura, estilo e cor da borda */
+  border-radius: 20px;
 }
 #generateButton:hover {
-    background-color: #0075F5;
+  background-color: #f54e36;
+  border: none;
+  color: #eee;
 }
-
-#box2{
-    position: absolute;
-    top: 45px; 
-    left: -70px; 
-}
-
-#boxverde{
-    width: 450px; 
-    height: 430px; 
-}
-
-p#randomPhrase {
-    position: absolute;
-    width: 300px;
-    text-align: center;
-    top: 33%;
-    left: 90%; /*60*/
-    transform: translate(-70%, -50%);
-    font-size: 30px;
-    font-weight: 600;
-    color: #fff; 
-}
-
 
 /*BOTÃO POP UP*/
 /* Estilos para o modal */
 .modal {
-    display: none;
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    background-color: rgba(0,0,0,0.5); /* Cor de fundo semi-transparente */
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.5); /* Cor de fundo semi-transparente */
 }
 /* Conteúdo do modal */
 .modal-content {
-    background-color: #fefefe;
-    margin: 15% auto; /* Centraliza verticalmente */
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%;
+  background-color: #fefefe;
+  margin: 15% auto; /* Centraliza verticalmente */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
 }
 /* Botão para fechar o modal */
 .fechar {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
 }
 .fechar:hover,
 .fechar:focus {
-    color: black;
-    text-decoration: none;
-    cursor: pointer;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
 }
 /* Estilo para o container */
-.container {
-    position: relative;
-}
+/*.container {
+  position: relative;
+}*/
 /* Estilo para o botão "Sobre" */
 .botaoTexto {
-    position: absolute;
-    bottom: 0px;
-    right: 30px;
-    padding: 0px 43px;
-    /*background-color: #007bff;*/
-    font-weight: 600;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
+  /*position: absolute;*/
+  /*transform: rotate(-90deg);*/
+  bottom: 0;
+  /*right: 30px;*/
+  padding: 0px 0px;
+  font-size: 16px;
+  font-weight: 300;
+  color: #e1cbcd;
+  cursor: pointer;
 }
 .botaoTexto:hover {
-    /*background-color: #0056b3; #009C6C*/
-    color: black;
-}
-
-
-/* Para telas menores que 768px */
-@media (max-width: 768px) {
-    body {
-        background-color: #F3A3BE;
-        display: block;
-        height: auto;
-    }
-
-    .container {
-        width: 90%;
-        max-width: 480px;
-        margin: 0 auto;
-    }
-
-    .boxes {
-        width: 100%;
-        height: auto;
-    }
-
-    .textointro {
-        width: 100%;
-        padding: 20px;
-        text-align: left;
-    }
-
-    #intro {
-        font-size: 18px;
-    }
-
-    #instr {
-        font-size: 14px;
-    }
-
-    #box3 {
-        top: 30%; /*auto;*/
-        left: 47%;
-        transform: translateX(-50%);
-        /*width: 90%;*/
-        height: 450px; /*auto;*/
-    }
-
-    p#randomPhrase {
-        width: 300px;/*80%;*/
-        text-align: center;
-        top: 33%; /*50%*/
-        left: 60%; /*50%*/
-        transform: translate(-70%, -50%);
-        font-size: 28px; /*30*/
-    }
-
-    .botaoTexto {
-        /*position: relative;
-        bottom: auto;
-        right: auto;
-        margin: 20px auto;
-        padding: 10px 30px;
-        font-size: 16px;*/
-    width: 300px;
-    text-align: center;
-    top: 33%;
-    transform: translate(-70%, -50%);
-    } 
-
+  /*background-color: #0056b3; #009C6C*/
+  color: #f54e36;
 }

@@ -58,7 +58,7 @@ body {
   position: relative;
   background-color: #303030;
   width: 350px;
-  margin-top: 250px;
+  margin-top: 240px;
   margin-left: 0;
   border-radius: 20px;
 }
@@ -151,7 +151,7 @@ hr {
 
 #box4 {
   position: relative;
-  top: 275px;
+  top: 290px;
   margin-left: 30px;
 }
 #b4b,
@@ -171,6 +171,7 @@ p#randomPhrase {
   text-align: left;
   top: 40px;
   left: 30px;
+  right: 10px;
   /*transform: translate(-70%, -50%);*/
 }
 

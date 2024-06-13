@@ -1056,6 +1056,85 @@ Qual seria o título da sua autobiografia?
 Se tivesse que falar como um personagem de desenho animado pelo resto da sua vida, qual personagem escolheria? Consegue imitá-lo agora?
 Se fosse dar nome a uma bebida, que nome lhe daria?
 
+aprofundar
+O que é que fazes melhor do que qualquer pessoa que conheces?
+Qual a coisa de que estás certo/a de que nunca fazes, mas que gostavas de ter a coragem de fazer?
+Como evitas perder oportunidades?
+O que precisa de acontecer para colocar a coragem acima do conforto?
+Onde costumas ou estás a jogar muito pelo seguro?
+Como serias capaz de amar alguém com quem não concordas?
+Em que situação da tua vida a coragem poderia te trazer um encerramento?
+Descreve uma situação em que te sentiste tramado/a. O que aconteceu e como reagiste?
+Em que momento falaste mas que seria melhor teres ficado calado/a?
+Que elogio tens dificuldade em acreditar?
+Conta-me uma altura da vida em que lutaste por ti próprio/a?
+O que queres perguntar a alguém, mas tens tido receio de perguntar?
+Quando foi a última vez que descobriste que podias "voar"?
+Que opiniões controversas gostas de partilhar com os outros?
+Qual a preocupação que não consegues superar?
+Que conversa precisas de ter para tirar um peso de cima?
+Quando não aceitaste que fazias parte do problema?
+Qual a pessoa mais forte que conheces e como desejavas ser mais como ela?
+Atualmente, qual o limite da tua zona de conforto?
+O que seria necessário para remover o maior obstáculo entre ti e os teus objetivos? 
+Qual o medo da responsabilidade que te impede de dar o próximo passo?
+Qual a falta de coragem que te está a impedir de avançar? 
+Que grande decisão da tua vida pareceu assustadora naquele momento, mas conseguiste superar o medo e concretizar?
+Que decisão da tua vida estiveste quase para desistir, mas que ao olhar para trás foi a melhor decisão que podias ter tomado?
+Como a inação impactou negativamente a tua vida?
+Em que parte da tua vida és preguiçoso/a e qual é a tua desculpa?
+De que característica negativa te ris publicamente, mas que secretamente tens que consertar em ti?  
+Com o que te decepcionas?
+Qual amigo chamarias para te ajudar a enterrar um corpo e porquê?
+O que faltou na tua infância?
+Qual o teu ponto fraco nas redes sociais?
+Que figura histórica podias ter sido tu no passado e porquê?
+Que evento do teu passado tens receio de falar?
+Num relacionamento, o que é um obstáculo para ti?
+Conta sobre uma partida que correu horrivelmente mal?
+Em que situações és mau/má a lidar com o dinheiro?
+Descreve um momento em que desiludiste alguém?
+O quão fácil é para ti ficares de mau humor e porquê?
+Qual a memória mais triste da tua infância? E a mais feliz?
+Em que momentos te sentes mais vulnerável?
+Qual o fracasso de que sentes vergonha de falar?
+Quando é que um "anjo da guarda" apareceu na tua vida?
+O que gostas em ti próprio/a, mas que te preocupa que os outros terão dificuldade em aceitar?
+Qual o teu segredo obscuro ou estranho que não queres que ninguém descubra e/ou seja revelado?
+Que música melhor define a tua vida?
+Qual é a tua reação instintiva quando algo ou alguém te magoa?
+De que forma intencional tu chateias ou incomodas os outros? E não intencional?
+Quem foi a pessoa que achas que escapou ilesa de uma situação que provocou?
+Qual foi a última grande mentira que disseste?
+O que esperas que seja dito em tua memória? 
+E o que dirias em minha memória?
+Em que momentos da tua vida tens dificuldade em dizer a verdade?
+Se as pessoas andassem com um sinal/mensagem de alerta, qual seria o teu?
+Além dos ganhos financeiros, que outro tipo de ganhos recebeste no teu trabalho atual?
+Quem merece crédito na tua vida, mas tens tido dificuldade em o/a valorizar?
+O que fizeste a partir da insegurança que causou efeitos longos e/ou negativos?
+Que professor teve maior impacto na tua vida e porquê?
+O que aprendeste sobre a vida a partir da perda ou da morte?
+Em que situações da tua vida te sentes incompreendido/a?
+Que ato de cuidado próprio não é negociável na tua vida?
+Se pudesses visitar um momento passado na tua vida, para onde irias e o que farias?
+Que momento desejavas reviver ou até de alterar?
+De que forma os sonhos te oferecem informação valiosa, que te pode ajudar depois de acordar?
+Se alguém te quisesse chatear facilmente, o que precisava de fazer?
+Como recebes críticas? E qual a melhor forma com que lidas com elas?
+Que parte de ti estás conter neste momento?
+O que gostarias de voltar a experienciar, sendo que não aproveitaste bem da primeira vez?
+Onde na tua vida estás a fazer suposições inúteis?
+De que formas és semelhante aos teus pais/cuidadores?
+Descreve a relação com o teu pai ou mãe em uma frase.
+Que coisa supostamente insignificante contribui muito para a tua felicidade?
+Que coisa te recusas a desistir ou perder mesmo que te dessem 100 mil euros?
+Em que parte da tua vida estás a viver numa bolha?
+Se só pudesses manter contigo cinco itens, quais seriam e porquê?
+Que parte da tua vida ainda não conseguiste entender (o sentido)?
+O que achas que vais te arrepender de não ter feito quando estiveres no leito da morte?
+Descreve um momento em que foste o teu pior inimigo?
+
 sou
 Sou emocionalmente dependente ou independente?	
 Sou monetariamente dependente ou independente?	
@@ -1103,7 +1182,7 @@ Sou difícil de lidar?
 Perco facilmente as coisas?
 
 completar
-Eu goste de…
+Eu gosto de…
 Eu sou…
 A minha comida favorita é…
 A minha frase favorita é…

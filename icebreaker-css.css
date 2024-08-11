@@ -8,7 +8,6 @@ and open the template in the editor.
     Author     : joana
 */
 
-/* <uniquifier>: Use a unique and descriptive class name*/
 .raleway-<uniquifier > {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -47,24 +46,29 @@ body {
 .container {
   display: flex;
   width: 350px; /*400*/
-  height: 680px; /*650 850*/
+  height: 650px; /*850*/
   margin-top: 20px;
-  background-color: #e1cbcd; /*EEE2D2*/
+  background-color: #f5f1e6; /*EEE2D2*/
   border-radius: 20px;
-  border: 2px solid #e1cbcd; /* largura, estilo e cor da borda */
+  border: 2px solid #F5F1E6; /* largura, estilo e cor da borda */
 }
 
 #box0 {
-  position: relative;
+  position: absolute;
   background-color: #303030;
-  width: 350px;
-  margin-top: 240px;
-  margin-left: 0;
-  border-radius: 20px;
+  width: 328px; /*350px*/
+  margin-top: 230px;
+  margin-left: 20px;
+  border-radius: 20px 0 0 20px;
+  border: 2px solid #F5F1E6; /* largura, estilo e cor da borda */
 }
 
 #box1 {
-  position: absolute;
+  position: relative;
+  display: flex;
+  width: 350px; /*400*/
+  justify-content: space-between; /* Ensures space between the boxes */
+  left: 0;
 }
 
 hr {
@@ -72,55 +76,56 @@ hr {
   /*border-top: 2px dashed #000; /* Define a linha traçada */
   /*border-bottom: 2px dashed #0075F5; /* Adiciona uma linha traçada adicional na parte inferior */
   /*margin: 0 0; /* Adiciona margem acima e abaixo da linha */
-  margin-top: 25px;
+  margin-top: 35px;
   margin-left: 30px;
   width: 290px;
 }
 
 #tituloback {
   position: relative;
-  top: 10px;
-  left: 30px;
-  background-color: #303030;
+  top: 60px;
+  left: -20px;
+  background-color: #ccfe05;
   height: 36px;
   width: 120px;
   border-radius: 20px;
+  transform: rotate(-90deg);
 }
 #titulo {
   text-align: center;
-  padding-top: 9px;
+  padding-top: 0;
   font-size: 16px;
-  color: #e1cbcd;
-  /*transform: rotate(-90deg);*/
+  color: #303030;
+  font-weight: 800;
 }
 
 .textointro {
   position: relative;
-  top: 5px;
-  left: 30px;
+  top: 20px;
+  left: -35px;
   width: 250px;
   text-align: left;
-    color: #f54e36; /*#303030;*/
 }
 #intro {
   font-size: 16px;
   font-weight: 800;
-  /*color: #f54e36;*/
+  color: #303030;
   text-transform: uppercase;
 }
 #instr {
   font-size: 14px;
   /*font-style: italic;*/
   font-weight: 500;
-  /*color: #f54e36;*/
+  color: #303030;
 }
 
 #box3 {
   position: absolute;
   width: 350px;
-  margin-top: 240px;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  margin-top: 170px;
+  left: 75px;
+  /*left: 50%;
+  transform: translate(-50%, -50%);*/
   /*background-color: white;*/
 }
 
@@ -130,71 +135,93 @@ hr {
 }
 #categorySelect {
   position: relative;
-  width: 350px; /*width: 100%;*/
+  width: 250px; /*width: 100%;*/
   height: 40px;
-  background-color: #f5746a; /*#f5746a; #f54e36;*/
+  background-color: #303030;
   padding: 5px; /*15px;*/
-  padding-left: 30px;
+  padding-left: 15px;
   font-family: "Raleway", sans-serif;
   font-size: 16px;
   font-weight: 600;
   /*text-transform: uppercase;*/
-  color: #303030; /*#303030; #e1cbcd;*/
-  border: none; /*2px dashed #0075F5; /* largura, estilo e cor da borda */
+  color: #f5f1e6;
+  border: none; /*2px solid #0075F5; largura, estilo e cor da borda */
   cursor: pointer;
   box-shadow: none;
-  /*border-radius: 20px;*/
+  border-radius: 20px;
 }
 
 #box2 {
+  position: relative;
+  /*display: flex;
+  justify-content: center;
+  align-items: center;*/
+  height: 310px;
+  margin: 0;
+}
+.scrollable-container {
+  width: 330px;
+  overflow: auto; /* Adiciona a barra de rolagem */
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: ;
+  scrollbar-width: thin; /* "auto" or "thin" */
+  scrollbar-color: #f5f1e6 #303030; /* scroll thumb and track */
+}
+#randomPhrase {
+  padding: 5px;
 }
 
 #box4 {
   position: relative;
-  top: 320px; /*290px;*/
-  margin-left: 30px;
+  top: 280px;
 }
-#b4b,
-#b4s {
+#b4b {
+  position: relative;
+  bottom: 25px; 
+  background-color: #303030;
 }
 #b4s {
-  margin-top: 15px;
+  position: absolute;
+  bottom: 10px;
+  left: 150px;
 }
 
 /*FRASE GERADA*/
 p#randomPhrase {
   position: absolute;
   font-family: "Playfair Display", serif;
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 600;
-  color: #e1cbcd;
+  color:  #ccfe05; /*#F5F1E6;*/
   text-align: left;
-  top: 40px;
-  left: 30px;
-  right: 15px;
+  top: 0;
+  left: 25px;
+  right: 10px;
   /*transform: translate(-70%, -50%);*/
 }
 
 /*GERAR*/
 #generateButton {
-  position: relative;
-  width: 180px; /*200px*/
+  /*position: relative;*/
+  width: 235px; /*180 200px 240*/
   height: 50px;
-  margin-left: 0;
-  bottom: 0;
+  margin-left: 45px; /*25px 60px;*/
+  /*bottom: -80px;*/
   /*transform: translate (-50%);*/
   background-color: #303030;
-  color: #e1cbcd;
+  color: #F5F1E6;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
   font-weight: 600;
-  border: 2px solid #e1cbcd; /* largura, estilo e cor da borda */
+  border: 2px solid #F5F1E6; /* largura, estilo e cor da borda */
   border-radius: 20px;
 }
 #generateButton:hover {
-  background-color: #f54e36;
+  background-color: #ccfe05;
   border: none;
-  color: #eee;
+  color: #303030;
+  font-weight: 800;
 }
 
 /*BOTÃO POP UP*/
@@ -242,16 +269,14 @@ p#randomPhrase {
   bottom: 0;
   /*right: 30px;*/
   padding: 0px 0px;
-  font-size: 16px;
-  font-weight: 300;
-  color: #e1cbcd;
+  font-size: 14px;
+  font-weight: 600;
+  color: #303030;
   cursor: pointer;
 }
 .botaoTexto:hover {
   /*background-color: #0056b3; #009C6C*/
-  color: #f54e36;
-}
-
-  /*background-color: #0056b3; #009C6C*/
-  color: #f54e36;
+  color: #303030;
+  font-weight: 800;
+  text-decoration: underline;
 }

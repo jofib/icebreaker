@@ -164,11 +164,10 @@ hr {
 /*FRASE GERADA*/
 p#randomPhrase {
   position: absolute;
-    width: 200px;
-  font-family: "Playfair Display", serif;
+    font-family: "Playfair Display", serif;
   font-size: 30px;
   font-weight: 600;
-  color: #EEE2D2;
+  color: #e1cbcd;
   text-align: left;
   top: 40px;
   left: 30px;

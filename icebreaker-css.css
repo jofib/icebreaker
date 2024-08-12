@@ -190,11 +190,11 @@ hr {
 /*FRASE GERADA*/
 p#randomPhrase {
   position: absolute;
-    witdh: 200px;
+    witdh: 280px;
   font-family: "Playfair Display", serif;
   font-size: 28px;
   font-weight: 600;
-  color:  #F5F1E6; /*#F5F1E6;  #ccfe05*/
+  color:  #ccfe05; /*#F5F1E6;  #ccfe05*/
   text-align: left;
   top: 0;
   left: 25px;

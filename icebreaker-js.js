@@ -1,13 +1,30 @@
-// Função para ler o arquivo de texto (usando Fetch API)
-async function lerArquivoTexto(url) {
-    try {
-        const response = await fetch(url);
-        if (!response.ok) throw new Error('Erro ao carregar o arquivo de texto.');
-        const texto = await response.text();
-        return texto;
-    } catch (error) {
-        console.error(error);
+// Armazenar frases já mostradas por categoria
+const frasesJaMostradas = {};
+
+// Função para carregar e processar as frases do arquivo de texto
+function carregarFrasesDoArquivo(url, callback) {
+  const request = new XMLHttpRequest();
+  request.open("GET", url, true);
+  request.onreadystatechange = function () {
+    if (request.readyState === 4 && request.status === 200) {
+      const linhas = request.responseText.split("\n");
+      let categoriaAtual = "";
+      const frasesPorCategoria = {};
+      linhas.forEach(function (linha) {
+        if (linha.trim() !== "") {
+          if (linha.trim().toLowerCase() === linha.trim()) {
+            categoriaAtual = linha.trim();
+            frasesPorCategoria[categoriaAtual] = [];
+            frasesJaMostradas[categoriaAtual] = []; // Inicializa o array de frases já mostradas
+          } else {
+            frasesPorCategoria[categoriaAtual].push(linha.trim());
+          }
+        }
+      });
+      callback(frasesPorCategoria);
     }
+  };
+  request.send();
 }
 
 // Função para processar o conteúdo do arquivo e organizar por categorias
@@ -64,42 +81,38 @@ async function iniciarGeradorDePerguntas() {
 // Chamar a função para iniciar o gerador de perguntas
 iniciarGeradorDePerguntas();
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/*
-// Armazenar frases já mostradas por categoria
-const frasesJaMostradas = {};
+// Event listener para o botão
+const button = document.getElementById("generateButton");
+button.addEventListener("click", atualizarFrase);
+*/
 
-// Função para carregar e processar as frases do arquivo de texto
-function carregarFrasesDoArquivo(url, callback) {
-  const request = new XMLHttpRequest();
-  request.open("GET", url, true);
-  request.onreadystatechange = function () {
-    if (request.readyState === 4 && request.status === 200) {
-      const linhas = request.responseText.split("\n");
-      let categoriaAtual = "";
-      const frasesPorCategoria = {};
-      linhas.forEach(function (linha) {
-        if (linha.trim() !== "") {
-          if (linha.trim().toLowerCase() === linha.trim()) {
-            categoriaAtual = linha.trim();
-            frasesPorCategoria[categoriaAtual] = [];
-            frasesJaMostradas[categoriaAtual] = []; // Inicializa o array de frases já mostradas
-          } else {
-            frasesPorCategoria[categoriaAtual].push(linha.trim());
-          }
+/* // Chama a função inicialmente para exibir uma frase aleatória ao carregar a página
+atualizarFrase(); */
+// Define a frase inicial ao carregar a página
+definirFraseInicial();
+
+
+//BOTÃO POP UP
+// Obtém o modal
+        var modalSobre = document.getElementById("modalSobre");
+// Obtém o botão que abre o modal
+        var btnSobre = document.getElementById("btnSobre");
+// Quando o usuário clica no botão, abre o modal
+        btnSobre.onclick = function() {
+        modalSobre.style.display = "block";
+                }
+
+// Função para fechar o modal
+function fecharModal() {
+modalSobre.style.display = "none";
         }
-      });
-      callback(frasesPorCategoria);
-    }
-  };
-  request.send();
-}
+//
+//
 
+
+----------------------------------------------
+  /*
 // Função para gerar uma frase aleatória de uma categoria específica sem repetição
 function gerarFrasePorCategoria(categoria, frasesPorCategoria) {
   if (categoria in frasesPorCategoria) {
@@ -161,33 +174,8 @@ function atualizarFrase() {
       categoriaSelecionada,
       frasesPorCategoria
     );
+    */
   });
 }
 
-// Event listener para o botão
-const button = document.getElementById("generateButton");
-button.addEventListener("click", atualizarFrase);
-*/
 
-/* // Chama a função inicialmente para exibir uma frase aleatória ao carregar a página
-atualizarFrase(); */
-// Define a frase inicial ao carregar a página
-definirFraseInicial();
-
-
-//BOTÃO POP UP
-// Obtém o modal
-        var modalSobre = document.getElementById("modalSobre");
-// Obtém o botão que abre o modal
-        var btnSobre = document.getElementById("btnSobre");
-// Quando o usuário clica no botão, abre o modal
-        btnSobre.onclick = function() {
-        modalSobre.style.display = "block";
-                }
-
-// Função para fechar o modal
-function fecharModal() {
-modalSobre.style.display = "none";
-        }
-//
-//

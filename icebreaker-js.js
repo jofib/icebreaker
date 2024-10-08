@@ -1,13 +1,30 @@
-// Função para ler o arquivo de texto (usando Fetch API)
-async function lerArquivoTexto(url) {
-    try {
-        const response = await fetch(url);
-        if (!response.ok) throw new Error('Erro ao carregar o arquivo de texto.');
-        const texto = await response.text();
-        return texto;
-    } catch (error) {
-        console.error(error);
+// Armazenar frases já mostradas por categoria
+const frasesJaMostradas = {};
+
+// Função para carregar e processar as frases do arquivo de texto
+function carregarFrasesDoArquivo(url, callback) {
+  const request = new XMLHttpRequest();
+  request.open("GET", url, true);
+  request.onreadystatechange = function () {
+    if (request.readyState === 4 && request.status === 200) {
+      const linhas = request.responseText.split("\n");
+      let categoriaAtual = "";
+      const frasesPorCategoria = {};
+      linhas.forEach(function (linha) {
+        if (linha.trim() !== "") {
+          if (linha.trim().toLowerCase() === linha.trim()) {
+            categoriaAtual = linha.trim();
+            frasesPorCategoria[categoriaAtual] = [];
+            frasesJaMostradas[categoriaAtual] = []; // Inicializa o array de frases já mostradas
+          } else {
+            frasesPorCategoria[categoriaAtual].push(linha.trim());
+          }
+        }
+      });
+      callback(frasesPorCategoria);
     }
+  };
+  request.send();
 }
 
 // Função para processar o conteúdo do arquivo e organizar por categorias
@@ -71,34 +88,7 @@ iniciarGeradorDePerguntas();
  */
 
 /*
-// Armazenar frases já mostradas por categoria
-const frasesJaMostradas = {};
 
-// Função para carregar e processar as frases do arquivo de texto
-function carregarFrasesDoArquivo(url, callback) {
-  const request = new XMLHttpRequest();
-  request.open("GET", url, true);
-  request.onreadystatechange = function () {
-    if (request.readyState === 4 && request.status === 200) {
-      const linhas = request.responseText.split("\n");
-      let categoriaAtual = "";
-      const frasesPorCategoria = {};
-      linhas.forEach(function (linha) {
-        if (linha.trim() !== "") {
-          if (linha.trim().toLowerCase() === linha.trim()) {
-            categoriaAtual = linha.trim();
-            frasesPorCategoria[categoriaAtual] = [];
-            frasesJaMostradas[categoriaAtual] = []; // Inicializa o array de frases já mostradas
-          } else {
-            frasesPorCategoria[categoriaAtual].push(linha.trim());
-          }
-        }
-      });
-      callback(frasesPorCategoria);
-    }
-  };
-  request.send();
-}
 
 // Função para gerar uma frase aleatória de uma categoria específica sem repetição
 function gerarFrasePorCategoria(categoria, frasesPorCategoria) {

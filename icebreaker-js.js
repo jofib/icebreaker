@@ -81,15 +81,38 @@ async function iniciarGeradorDePerguntas() {
 // Chamar a função para iniciar o gerador de perguntas
 iniciarGeradorDePerguntas();
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/*
+// Event listener para o botão
+const button = document.getElementById("generateButton");
+button.addEventListener("click", atualizarFrase);
+*/
+
+/* // Chama a função inicialmente para exibir uma frase aleatória ao carregar a página
+atualizarFrase(); */
+// Define a frase inicial ao carregar a página
+definirFraseInicial();
 
 
+//BOTÃO POP UP
+// Obtém o modal
+        var modalSobre = document.getElementById("modalSobre");
+// Obtém o botão que abre o modal
+        var btnSobre = document.getElementById("btnSobre");
+// Quando o usuário clica no botão, abre o modal
+        btnSobre.onclick = function() {
+        modalSobre.style.display = "block";
+                }
+
+// Função para fechar o modal
+function fecharModal() {
+modalSobre.style.display = "none";
+        }
+//
+//
+
+
+----------------------------------------------
+  /*
 // Função para gerar uma frase aleatória de uma categoria específica sem repetição
 function gerarFrasePorCategoria(categoria, frasesPorCategoria) {
   if (categoria in frasesPorCategoria) {
@@ -151,33 +174,8 @@ function atualizarFrase() {
       categoriaSelecionada,
       frasesPorCategoria
     );
+    */
   });
 }
 
-// Event listener para o botão
-const button = document.getElementById("generateButton");
-button.addEventListener("click", atualizarFrase);
-*/
 
-/* // Chama a função inicialmente para exibir uma frase aleatória ao carregar a página
-atualizarFrase(); */
-// Define a frase inicial ao carregar a página
-definirFraseInicial();
-
-
-//BOTÃO POP UP
-// Obtém o modal
-        var modalSobre = document.getElementById("modalSobre");
-// Obtém o botão que abre o modal
-        var btnSobre = document.getElementById("btnSobre");
-// Quando o usuário clica no botão, abre o modal
-        btnSobre.onclick = function() {
-        modalSobre.style.display = "block";
-                }
-
-// Função para fechar o modal
-function fecharModal() {
-modalSobre.style.display = "none";
-        }
-//
-//

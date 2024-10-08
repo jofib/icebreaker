@@ -1,76 +1,10 @@
-// Função para ler o arquivo de texto (usando Fetch API)
-async function lerArquivoTexto(url) {
-    try {
-        const response = await fetch(url);
-        if (!response.ok) throw new Error('Erro ao carregar o arquivo de texto.');
-        const texto = await response.text();
-        return texto;
-    } catch (error) {
-        console.error(error);
-    }
-}
-
-// Função para processar o conteúdo do arquivo e organizar por categorias
-function processarPerguntas(texto) {
-    const categorias = {};
-    const linhas = texto.split('\n').map(linha => linha.trim());
-
-    let categoriaAtual = '';
-
-    linhas.forEach(linha => {
-        if (linha.startsWith('[') && linha.endsWith(']')) {
-            // Nova categoria detectada
-            categoriaAtual = linha.slice(1, -1); // Remove os colchetes
-            categorias[categoriaAtual] = [];
-        } else if (linha) {
-            // Adiciona a questão à categoria atual
-            if (categoriaAtual) {
-                categorias[categoriaAtual].push(linha);
-            }
-        }
-    });
-
-    return categorias;
-}
-
-// Função para selecionar uma pergunta aleatória de uma categoria
-function gerarPerguntaAleatoria(categorias, categoria) {
-    if (categorias[categoria] && categorias[categoria].length > 0) {
-        const indexAleatorio = Math.floor(Math.random() * categorias[categoria].length);
-        const pergunta = categorias[categoria][indexAleatorio];
-        
-        // Remover a questão do array para evitar repetição
-        categorias[categoria].splice(indexAleatorio, 1);
-
-        return pergunta;
-    } else {
-        return 'Nenhuma pergunta restante nesta categoria.';
-    }
-}
-
-// Função para iniciar o processo de gerar perguntas aleatórias
-async function iniciarGeradorDePerguntas() {
-    const texto = await lerArquivoTexto('perguntas.txt'); // Substitua pelo caminho correto
-    const categorias = processarPerguntas(texto);
-
-    // Exemplo de uso
-    console.log('Pergunta de Matemática: ', gerarPerguntaAleatoria(categorias, 'Matemática'));
-    console.log('Pergunta de História: ', gerarPerguntaAleatoria(categorias, 'História'));
-    
-    // Caso deseje exibir as categorias disponíveis
-    console.log('Categorias disponíveis:', Object.keys(categorias));
-}
-
-// Chamar a função para iniciar o gerador de perguntas
-iniciarGeradorDePerguntas();
-
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
 
-/*
+
 // Armazenar frases já mostradas por categoria
 const frasesJaMostradas = {};
 
@@ -167,7 +101,7 @@ function atualizarFrase() {
 // Event listener para o botão
 const button = document.getElementById("generateButton");
 button.addEventListener("click", atualizarFrase);
-*/
+
 
 /* // Chama a função inicialmente para exibir uma frase aleatória ao carregar a página
 atualizarFrase(); */
